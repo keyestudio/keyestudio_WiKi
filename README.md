@@ -20,9 +20,9 @@
    ### [KS0547 Keyestudio NANO PLUS Development Board](/docs/keyestudio/Arduino-Board/KS0547/KS0547%20Keyestudio%20NANO%20PLUS.md)
 
  ## **Arduino shield**
-  ### [KS0003 Keyestudio ProtoShield for Arduino](/docs/keyestudio/KS0003.md)
-  ### [KS0004 Keyestudio Sensor Shield for Arduino](/docs/keyestudio/KS0004.md)
-  ### [KS0005 Keyestudio MEGA ProtoShield for Arduino](/docs/keyestudio/KS0005.md)
+  ### [KS0003 Keyestudio ProtoShield for Arduino](/docs/keyestudio/Arduino-Shield/KS0003/KS0003%20Keyestudio%20ProtoShield%20for%20Arduino%20with%20Mini%20Breadboard.md)
+  ### [KS0004 Keyestudio Sensor Shield for Arduino](/docs/keyestudio/Arduino-Shield/KS0004/KS0004%20%20Keyestudio%20Sensor%20Shield%20V5.md)
+  ### [KS0005 Keyestudio MEGA ProtoShield for Arduino](/docs/keyestudio/Arduino-Shield/KS0005/KS0005%20Keyestudio%20MEGA%20ProtoShield%20V3%20with%20Tiny%20Breadboard.md)
   ### [KS0007 Keyestudio L298P Motor Shield for Arduino](/docs/keyestudio/KS0007.md)
   ### [KS0142 Keyestudio SIM900 GSM_GPRS Shield for Arduino](/docs/keyestudio/KS0142.md)
   ### [KS0146 Keyestudio Nano IO Shield for Arduino](/docs/keyestudio/KS0146.md)
