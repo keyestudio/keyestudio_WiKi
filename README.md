@@ -146,9 +146,19 @@
   ### [KS4016 keyestudio T-type Shield v2.0 Adapter for micro bit](/docs/keyestudio/KS4016.md)
   ### [KS4018 Keyestudio Micro:bit TB6612 Motor Driver Shield](/docs/keyestudio/KS4018.md)
   ### [KS4029 Keyestudio Micro bit IO Ports shield with BBC Micro:Bit](/docs/keyestudio/KS4029.md)
-  ### [KS4033 Keyestudio Micro bit DRV8833 Motor Driver Expansion Board](/docs/keyestudio/KS4033.md)
+  ### [KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield](/docs/keyestudio/KS4033.md)
  ## **Micro:bit kit**
-
+  ### [KS0305 keyestudio Basic Starter Kit for micro bit](/docs/keyestudio/KS0305.md)
+  ### [KS0306 keyestudio Beginner Starter Kit for micro bit](/docs/keyestudio/KS0306.md)
+  ### [KS0361 KS0365 keyestudio 37 in 1 Starter Kit for BBC micro:bit](/docs/keyestudio/KS0361.md)
+  ### [KS0456 Keyestudio Honeycomb Smart Wearable Coding Kit for Micro:bit](/docs/keyestudio/KS0456.md)
+  ### [KS4003 KS4004 keyestudio Basic Starter Kit for micro bit](/docs/keyestudio/KS4003_KS4004.md)
+  ### [KS4005 KS4006 keyestudio Super Starter Kit for micro bit](/docs/keyestudio/KS4005_KS4006.md)
+  ### [KS4007 KS4008 keyestudio Complete Starter Kit for micro bit](/docs/keyestudio/KS4007_KS4008.md)
+  ### [KS4009 KS4010 keyestudio 45 in 1 Sensor Starter Kit for micro bit](/docs/keyestudio/KS4009_KS4010.md)
+  ### [KS4020 KS4021 keyestudio EASY PLUG Super Starter Kit for micro bit](/docs/keyestudio/KS4020_KS4021.md)
+  ### [KS4022 KS4023 keyestudio EASY PLUG Ultimate Starter Kit for micro bit](/docs/keyestudio/KS4022_KS4023.md)
+  ### [KS4027 KS4028 keyestudio Smart Home Kit for micro bit](/docs/keyestudio/KS04027_KS4028.md) 
  ## **Micro:bit robot**
 
 # **Raspberry pi**
