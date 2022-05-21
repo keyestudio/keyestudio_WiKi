@@ -166,7 +166,18 @@
   ### [KS4031 KS4032 keyestudio 4WD Mecanum Robot Car for micro bit](/docs/keyestudio/KS4031_KS4032.md)    
 # **Raspberry pi**
  ## **Raspberry pi shield**
-
+  ### [KS0210 keyestudio 16-key Capacitive Touch Keypad for Raspberry pi](/docs/keyestudio/KS0210.md)
+  ### [KS0211 keyestudio JoyStick Shield for Raspberry pi](/docs/keyestudio/KS0211.md)
+  ### [KS0212 keyestudio 4-channel Relay Shield for Raspberry pi](/docs/keyestudio/KS0212.md)
+  ### [KS0213 keyestudio GPIO-PCF8591 Shield for Raspberry pi](/docs/keyestudio/KS0213.md)
+  ### [KS0214 keyestudio TFT 3.5 LCD Shield for Raspberry pi](/docs/keyestudio/KS0214.md)
+  ### [KS0215 keyestudio T-type GPIO Shield for Raspberry pi](/docs/keyestudio/KS0215.md)
+  ### [KS0216 keyestudio GPS Shield for Raspberry pi](/docs/keyestudio/KS0216.md)
+  ### [KS0217 keyestudio Dot Matrix Shield for Raspberry pi](/docs/keyestudio/KS0217.md)
+  ### [KS0218 keyestudio L298P Motor Drive Shield Raspberry pi](/docs/keyestudio/KS0218.md)
+  ### [KS0219 keyestudio T-type GPIO Shield Kit for Raspberry pi](/docs/keyestudio/KS0219.md)
+  ### [KS0314 keyestudio ReSpeaker 2-Mic Pi HAT V1.0 for Raspberry pi](/docs/keyestudio/KS0314.md)
+  ### [KS3019 Motor Shield for Raspberry pi 4WD Smart Car](/docs/keyestudio/KS3019.md)
  ## **Raspberry pi kit**
 
  ## **Raspberry pi robot**
