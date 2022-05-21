@@ -122,8 +122,10 @@
    #### [KS0543 Keyestudio Beetlebot 3 in 1 Robot for scratch](/docs/keyestudio/KS0543_scratch.md)
 
 # **Micro:bit**
+
  ## **Micro:bit board**
   ### [MB0103 BBC micro:bit v2.2 Board](/docs/keyestudio/MB0103.md)
+  
  ## **Micro:bit shield**
   ### [KS0292 Keyestudio Prototyping Shield V1 with Small Breadboard for BBC Micro:Bit](/docs/keyestudio/KS0292.md)
   ### [KS0293 Keyestudio 4 Channel Relay Shield for BBC Micro:Bit](/docs/keyestudio/KS0293.md)
@@ -148,6 +150,7 @@
   ### [KS4018 Keyestudio Micro:bit TB6612 Motor Driver Shield](/docs/keyestudio/KS4018.md)
   ### [KS4029 Keyestudio Micro bit IO Ports shield with BBC Micro:Bit](/docs/keyestudio/KS4029.md)
   ### [KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield](/docs/keyestudio/KS4033.md)
+  
  ## **Micro:bit kit**
   ### [KS0305 keyestudio Basic Starter Kit for micro bit](/docs/keyestudio/KS0305.md)
   ### [KS0306 keyestudio Beginner Starter Kit for micro bit](/docs/keyestudio/KS0306.md)
@@ -198,6 +201,7 @@
    
    
  ## **Raspberry pi PICO Srarter kit**
+ 
   ### **KS3026 Keyestudio Raspberry Pi Pico Basic starter Kit**
    #### [Raspberry Pi Pico Basic starter Kit for Windows system c tutorial](/docs/keyestudio/KS3026_C.md)
    #### [Raspberry Pi Pico Basic starter Kit for Windows system Python tutorial](/docs/keyestudio/KS3026_Python.md)
@@ -229,6 +233,97 @@
    #### [Pico Beetlebot 3 in 1 Robot Python tutorial](/docs/keyestudio/KS3027_Python.md)
 
 # **Easy plug STEM**
+ ## **Easy plug sensor module**
+  ### [KS0100 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0101 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0102 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0103 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0104 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0105 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0106 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0107 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0108 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0109 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0110 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0111 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0112 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0113 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0114 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0114 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0116 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0117 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0118 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0119 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0120 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0121 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0122 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0123 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0124 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0125 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0126 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0127 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0128 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0129 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0130 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0131 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0132 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0133 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0134 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0135 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0136 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0137 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0138 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0139 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0224 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0225 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0226 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0227 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0228 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0229 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0230 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0231 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0240 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0241 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0242 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0243 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0244 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0245 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0246 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0350 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0351 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0352 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0369 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0370 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0371 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0372 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0373 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0376 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0380 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0381 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0382 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0383 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0384 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0390 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0394 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0395 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0427 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0431 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0437 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0439 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0442 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0467 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0473 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS0496 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS2001 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS2002 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+  ### [KS2003 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+ 
+ ## **Easy plug kit **
+### [KS0157 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+### [KS0158 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+### [KS0353 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+### [KS0397 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+### [KS0398 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
 
 # **3D Printer**
 
