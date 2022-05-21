@@ -120,6 +120,7 @@
   ### **KS0543 Keyestudio Beetlebot 3 in 1 Robot**
    #### [KS0543 Keyestudio Beetlebot 3 in 1 Robot for arduino](/docs/keyestudio/KS0543_arduino.md)
    #### [KS0543 Keyestudio Beetlebot 3 in 1 Robot for scratch](/docs/keyestudio/KS0543_scratch.md)
+
 # **Micro:bit**
  ## **Micro:bit board**
   ### [MB0103 BBC micro:bit v2.2 Board](/docs/keyestudio/MB0103.md)
@@ -164,7 +165,8 @@
   ### [KS4013 KS4026 keyestudio Desk Bit Small Car for micro bit](/docs/keyestudio/KS4013_KS4026.md) 
   ### [KS4014 KS4024 keyestudio Mini Smart Tortoise Car for micro bit](/docs/keyestudio/KS4014_KS4024.md) 
   ### [KS4031 KS4032 keyestudio 4WD Mecanum Robot Car for micro bit](/docs/keyestudio/KS4031_KS4032.md)    
-# **Raspberry pi**
+
+# **Raspberry pi 4B 3B+**
  ## **Raspberry pi shield**
   ### [KS0210 keyestudio 16-key Capacitive Touch Keypad for Raspberry pi](/docs/keyestudio/KS0210.md)
   ### [KS0211 keyestudio JoyStick Shield for Raspberry pi](/docs/keyestudio/KS0211.md)
@@ -179,22 +181,52 @@
   ### [KS0314 keyestudio ReSpeaker 2-Mic Pi HAT V1.0 for Raspberry pi](/docs/keyestudio/KS0314.md)
   ### [KS3019 Motor Shield for Raspberry pi 4WD Smart Car](/docs/keyestudio/KS3019.md)
  ## **Raspberry pi kit**
-
+  ### [KS0221 keyestudio Ultimate Starter Kit for Raspberry Pi 4B 3B+](/docs/keyestudio/KS0221.md)
+  ### [KS3001-KS3012 keyestudio Complete Device Kit for Raspberry Pi 4B 3B+](/docs/keyestudio/KS03001_3012.md)
+  ### [KS3013 keyestudio Basic Starter Kit for Raspberry Pi 4B 3B+](/docs/keyestudio/KS3013.md)
+  ### [KS3014 keyestudio Super Starter Kit for Raspberry Pi 4B 3B+](/docs/keyestudio/KS3014.md)
+  ### [KS3015 keyestudio Complete Starter Kit for Raspberry Pi 4B 3B+](/docs/keyestudio/KS3015.md)
+  ### [KS3016 keyestudio Sensor Starter Kit for Raspberry Pi 4B 3B+](/docs/keyestudio/KS3016.md)
+  
  ## **Raspberry pi robot**
    ### [KS0223 Keyestudio Smart Car Kit for Raspberry Pi](/docs/keyestudio/KS0223.md)
-
-
+   
 # **Raspberry pi PICO**
  ## **Raspberry pi PICO shield**
-
+   ### [KS3017 Keyestudio IO Sensor shield for Raspberry Pi PICO](/docs/keyestudio/KS3017.md)
+   ### [KS3022 Keyestudio IO Prototype shield for Raspberry Pi PICO](/docs/keyestudio/KS3022.md)
+   
+   
  ## **Raspberry pi PICO Srarter kit**
+  ### **KS3026 Keyestudio Raspberry Pi Pico Basic starter Kit**
+   #### [Raspberry Pi Pico Basic starter Kit for Windows system c tutorial](/docs/keyestudio/KS3026_C.md)
+   #### [Raspberry Pi Pico Basic starter Kit for Windows system Python tutorial](/docs/keyestudio/KS3026_Python.md)
+   #### [Raspberry Pi Pico Basic starter Kit system for Raspberry Pi system Python tutorial](/docs/keyestudio/KS3026_rasp_python.md)
+  ### **KS3025 Keyestudio Raspberry Pi Pico Complete starter Kit**
+   #### [Raspberry Pi Pico Complete starter Kit for Windows system c tutorial](/docs/keyestudio/KS3025_C.md)
+   #### [Raspberry Pi Pico Complete starter Kit for Windows system Python tutorial](/docs/keyestudio/KS3025_Python.md)
+   #### [Raspberry Pi Pico Complete starter Kit system for Raspberry Pi system Python tutorial](/docs/keyestudio/KS3025_rasp_python.md)
+  ### **KS3020 Keyestudio Raspberry Pi Pico Ultimate starter Kit**
+   #### [Raspberry Pi Pico Ultimate starter Kit for Windows system c tutorial](/docs/keyestudio/KS3020_C.md)
+   #### [Raspberry Pi Pico Ultimate starter Kit for Windows system Python tutorial](/docs/keyestudio/KS3020_Python.md)
+   #### [Raspberry Pi Pico Ultimate starter Kit system for Raspberry Pi system Python tutorial](/docs/keyestudio/KS3020_rasp_python.md)
   ### **KS3021 Keyestudio Raspberry Pi Pico 24 in 1 Sensor Kit**
    #### [Pico 24 in 1 Sensor Kit for Windows system c tutorial](/docs/keyestudio/KS3021_C.md)
    #### [Pico 24 in 1 Sensor Kit for Windows system Python tutorial](/docs/keyestudio/KS3021_Python.md)
    #### [Pico 24 in 1 Sensor Kit for Raspberry Pi system Python tutorial](/docs/keyestudio/KS3021_rasp_python.md)
+  ### **KS3023 Keyestudio Raspberry Pi Pico 37 in 1 Sensor Kit**  
+   #### [Pico 37 in 1 Sensor Kit for Windows system c tutorial](/docs/keyestudio/KS3023_C.md)
+   #### [Pico 37 in 1 Sensor Kit for Windows system Python tutorial](/docs/keyestudio/KS3023_Python.md)
+   #### [Pico 37 in 1 Sensor Kit for Raspberry Pi system Python tutorial](/docs/keyestudio/KS3023_rasp_python.md)
+  ### **KS3024 Keyestudio Raspberry Pi Pico 42 in 1 Sensor Kit**  
+   #### [Pico 42 in 1 Sensor Kit for Windows system c tutorial](/docs/keyestudio/KS3024_C.md)
+   #### [Pico 42 in 1 Sensor Kit for Windows system Python tutorial](/docs/keyestudio/KS3024_Python.md)
+   #### [Pico 42 in 1 Sensor Kit for Raspberry Pi system Python tutorial](/docs/keyestudio/KS3024_rasp_python.md)
    
-  ## **Raspberry pi PICO robot**
-
+ ## **Raspberry pi PICO robot**
+  ### **KS3027 Keyestudio Beetlebot 3 in 1 Robot for Raspberry Pi PICO **
+   #### [Pico Beetlebot 3 in 1 Robot c tutorial](/docs/keyestudio/KS3027_C.md)
+   #### [Pico Beetlebot 3 in 1 Robot Python tutorial](/docs/keyestudio/KS3027_Python.md)
 
 # **Easy plug STEM**
 
