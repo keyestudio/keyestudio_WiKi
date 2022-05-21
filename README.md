@@ -160,7 +160,10 @@
   ### [KS4022 KS4023 keyestudio EASY PLUG Ultimate Starter Kit for micro bit](/docs/keyestudio/KS4022_KS4023.md)
   ### [KS4027 KS4028 keyestudio Smart Home Kit for micro bit](/docs/keyestudio/KS04027_KS4028.md) 
  ## **Micro:bit robot**
-
+  ### [KS0426 KS4019 keyestudio Mini Smart Robot Car Kit V2 for micro bit](/docs/keyestudio/KS0426_KS4019.md) 
+  ### [KS4013 KS4026 keyestudio Desk Bit Small Car for micro bit](/docs/keyestudio/KS4013_KS4026.md) 
+  ### [KS4014 KS4024 keyestudio Mini Smart Tortoise Car for micro bit](/docs/keyestudio/KS4014_KS4024.md) 
+  ### [KS4031 KS4032 keyestudio 4WD Mecanum Robot Car for micro bit](/docs/keyestudio/KS4031_KS4032.md)    
 # **Raspberry pi**
  ## **Raspberry pi shield**
 
