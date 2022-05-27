@@ -16,3 +16,9 @@
 [submodule "docs/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino"]
 	path = docs/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino
 	url = https://github.com/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino.git
+[submodule "docs/keyestudio/KS0177-keyestudio-RGB-LED-CUBE-KIT"]
+	path = docs/keyestudio/KS0177-keyestudio-RGB-LED-CUBE-KIT
+	url = https://github.com/keyestudio/KS0177-keyestudio-RGB-LED-CUBE-KIT.git
+[submodule "docs/keyestudio/ks0182-keyestudio--LED-Cube-Kit"]
+	path = docs/keyestudio/ks0182-keyestudio--LED-Cube-Kit
+	url = https://github.com/keyestudio/ks0182-keyestudio--LED-Cube-Kit.git
