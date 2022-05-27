@@ -27,7 +27,7 @@
   ### [KS0142 Keyestudio SIM900 GSM_GPRS Shield for Arduino](/docs/keyestudio/Arduino-Shield/KS0142/KS0142%20Keyestudio%20SIM900%20GSM_GPRS%20Module%20Shield.md)
   ### [KS0146 Keyestudio Nano IO Shield for Arduino](/docs/keyestudio/Arduino-Shield/KS0146/KS0146%20keyestudio%20NANO%20IO%20Shield%201.0.md)
   ### [KS0147 Keyestudio TouchKey Shield for Arduino](/docs/keyestudio/Arduino-Shield/KS0147/KS0147%20Keyestudio%20TouchKey%20Shield.md)
-  ### [KS0151 keyestudio CNC Shield V2 for Arduino](/docs/keyestudio/KS0151.md)
+  ### [KS0151 keyestudio CNC Shield V2 for Arduino](/docs/keyestudio/KS0151/KS0151%20keyestudio%20CNC%20Shield%20V2.md)
   ### [KS0152 keyestudio CNC Shield V4 for Arduino](/docs/keyestudio/KS0152.md)
   ### [KS0153 Keyestudio JoyStick Shield for Arduino](/docs/keyestudio/KS0153.md)
   ### [KS0154 Keyestudio RAMPS 1.4 Shield for Arduino](/docs/keyestudio/KS0154.md)
