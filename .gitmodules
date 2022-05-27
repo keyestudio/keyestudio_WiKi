@@ -4,9 +4,6 @@
 [submodule "docs/keyestudio/Arduino-Shield"]
 	path = docs/keyestudio/Arduino-Shield
 	url = https://github.com/keyestudio/Arduino-Shield.git
-
-
-
-[submodule "docs/keyestudio/Arduino-Starter-kit/KS0070--UNO-R3-Breadboard-Kit-For-Arduino"]
-	path = docs/keyestudio/Arduino-Starter-kit/KS0070--UNO-R3-Breadboard-Kit-For-Arduino
+[submodule "docs/keyestudio/Arduino-Starter-kit"]
+	path = docs/keyestudio/Arduino-Starter-kit
 	url = https://github.com/keyestudio/KS0070--UNO-R3-Breadboard-Kit-For-Arduino.git
