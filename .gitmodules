@@ -1,21 +1,9 @@
-[submodule "docs/keyestudio/KS0223-Keyestudio-Smart-Car-Kit-for-Raspberry-Pi"]
-	path = docs/keyestudio/KS0223-Keyestudio-Smart-Car-Kit-for-Raspberry-Pi
-	url = https://github.com/keyestudio/KS0223-Keyestudio-Smart-Car-Kit-for-Raspberry-Pi.git
-[submodule "docs/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino"]
-	path = docs/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino
-	url = https://github.com/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino.git
-[submodule "docs/keyestudio/KS0487-Keyestudio-37-in-1-Sensor-Kit-upgrade-v3.0"]
-	path = docs/keyestudio/KS0487-Keyestudio-37-in-1-Sensor-Kit-upgrade-v3.0
-	url = https://github.com/keyestudio/KS0487-Keyestudio-37-in-1-Sensor-Kit-upgrade-v3.0.git
-[submodule "docs/keyestudio/KS0470-Keyestudio-4WD-BT-Robot-Car-V2.0-Kit"]
-	path = docs/keyestudio/KS0470-Keyestudio-4WD-BT-Robot-Car-V2.0-Kit
-	url = https://github.com/keyestudio/KS0470-Keyestudio-4WD-BT-Robot-Car-V2.0-Kit.git
-[submodule "docs/keyestudio/KS0536-KS0537-Keyestudio-Ultimate-Starter-Kit-for-Arduino"]
-	path = docs/keyestudio/KS0536-KS0537-Keyestudio-Ultimate-Starter-Kit-for-Arduino
-	url = https://github.com/keyestudio/KS0536-KS0537-Keyestudio-Ultimate-Starter-Kit-for-Arduino.git
 [submodule "docs/keyestudio/Arduino-Board"]
 	path = docs/keyestudio/Arduino-Board
 	url = https://github.com/keyestudio/Arduino-Board.git
 [submodule "docs/keyestudio/Arduino-Shield"]
 	path = docs/keyestudio/Arduino-Shield
 	url = https://github.com/keyestudio/Arduino-Shield.git
+
+
+
