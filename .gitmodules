@@ -10,3 +10,9 @@
 [submodule "docs/keyestudio/KS0077--78--79--keyestudio-Super-Learning-Kit-for-ARDUINO"]
 	path = docs/keyestudio/KS0077--78--79--keyestudio-Super-Learning-Kit-for-ARDUINO
 	url = https://github.com/keyestudio/KS0077--78--79--keyestudio-Super-Learning-Kit-for-ARDUINO.git
+[submodule "docs/keyestudio/KS0080--81-82--keyestudio-Maker-Learning-Kit-for-ARDUINO"]
+	path = docs/keyestudio/KS0080--81-82--keyestudio-Maker-Learning-Kit-for-ARDUINO
+	url = https://github.com/keyestudio/KS0080--81-82--keyestudio-Maker-Learning-Kit-for-ARDUINO.git
+[submodule "docs/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino"]
+	path = docs/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino
+	url = https://github.com/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino.git
