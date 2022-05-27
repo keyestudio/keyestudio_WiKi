@@ -22,3 +22,9 @@
 [submodule "docs/keyestudio/ks0182-keyestudio--LED-Cube-Kit"]
 	path = docs/keyestudio/ks0182-keyestudio--LED-Cube-Kit
 	url = https://github.com/keyestudio/ks0182-keyestudio--LED-Cube-Kit.git
+[submodule "docs/keyestudio/KS0344-Arduino-Automatic-Watering-System"]
+	path = docs/keyestudio/KS0344-Arduino-Automatic-Watering-System
+	url = https://github.com/keyestudio/KS0344-Arduino-Automatic-Watering-System.git
+[submodule "docs/keyestudio/KS0345-Electronic-Scale-Kit"]
+	path = docs/keyestudio/KS0345-Electronic-Scale-Kit
+	url = https://github.com/keyestudio/KS0345-Electronic-Scale-Kit.git
