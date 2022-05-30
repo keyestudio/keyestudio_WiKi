@@ -69,9 +69,7 @@
   ### [KS0070 KEYESTUDIO UNO R3 Breadboard kit For Arduino](/docs/keyestudio/KS0070--UNO-R3-Breadboard-Kit-For-Arduino/KS0070%20%20UNO%20R3%20Breadboard%20Kit%20For%20Arduino.md)
   ### [KS0077 KS0078 KS0079 KEYESTUDIO Super starter kit For Arduino](/docs/keyestudio/KS0077--78--79--keyestudio-Super-Learning-Kit-for-ARDUINO/KS0077%20(78%2C79)%20Super%20Learning%20Kit%20for%20Arduino.md)
   ### [KS0080 KS0081 KS0082 KEYESTUDIO Maker starter kit For Arduino](/docs/keyestudio/KS0080--81-82--keyestudio-Maker-Learning-Kit-for-ARDUINO/KS%200080(81%2C82)%20Maker%20Learning%20Kit%20For%20ARDUINO.md)
-  ###  **KS0085 Keyestudio Smart Home Kit**
-   #### [KS0085 Keyestudio Smart Home Kit for Arduino](/docs/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino/KS0085%20Smart%20Home%20Kit%20For%20Arduino/KS0085%20Keyestudio%20Smart%20Home%20Kit%20for%20Arduino.md)
-   #### [KS0085 Keyestudio Smart Home Kit for Mixly](/docs/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino/KS0085%20Smart%20Home%20Kit%20for%20Mixly/ks0085%20Keyestudio%20Smart%20Home%20Kit%20for%20Mixly.md)
+  ###  [KS0085 Keyestudio Smart Home Kit](/docs/keyestudio/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino/ks0085.md)
   ### [KS0177 4*4*4 RGB LED Display CUBE Starter Kit for Arduino](/docs/keyestudio/KS0177-keyestudio-RGB-LED-CUBE-KIT/KS0177%20keyestudio%20RGB%20LED%20CUBE%20KIT%20INSTRUCTION%20155-100.md)
   ### [KS0182 Keyestudio 4x4x4 blue LED Cube Kit for Arduino](/docs/keyestudio/ks0182-keyestudio--LED-Cube-Kit/KS0182%204x4x4%20LED%20Cube%20kit%20with%20Arduino.md)
   ### [KS0344 Keyestudio Automatic Watering System Kit for Arduino](/docs/keyestudio/KS0344-Arduino-Automatic-Watering-System/KS0344%20Arduino%20Automatic%20Watering%20System.md)
