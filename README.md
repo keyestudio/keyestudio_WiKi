@@ -1,10 +1,72 @@
 # Arduino
 
 ## Arduino board
-
-<<<<<<< HEAD
 ### KS0001 Keyestudio UNO R3 Development Board
-=======
+### KS0002 Keyestudio MEGA 2560 R3 Development Board
+### KS0172 Keyestudio UNO Development Board
+### KS0173 Keyestudio NANO CH340 Development Board
+### KS0247 Keyestudio Pro Mini Development Board
+### KS0248 keyestudio Leonardo R3 Development Board
+### KS0249 keyestudio PRO MICRO Development Board
+### KS0341 Keyestudio UNO+ Development Board
+### KS0342 Keyestudio MEGA+ Development Board
+### KS0486 Keyestudio PLUS Development Board
+### KS0497 Keyestudio V4.0 Development Board
+### KS0498 Keyestudio MEGA 4.0 Development Board
+### KS0499 Keyestudio MEGA Plus Development Board
+### [KS0500 Keyestudio MAX Development Board ](/docs/keyestudio/Arduino-Board/KS0500/KS0500%20KEYESTUDIO%20Max%20Development%20Board.md)
+### KS0502 Keyestudio MEGA PRO Development Board
+### KS0503 Keyestudio PRO MICRO Development Board
+### KS0546 Keyestudio 328 PLUS Development Board
+### KS0547 Keyestudio NANO PLUS Development Board
+
+## Arduino shield
+
+### KS0003 Keyestudio ProtoShield for Arduino
+### KS0004 Keyestudio Sensor Shield for Arduino
+### KS0005 Keyestudio MEGA ProtoShield for Arduino
+### KS0007 Keyestudio L298P Motor Shield for Arduino
+### KS0142 Keyestudio SIM900 GSM_GPRS Shield for Arduino
+### KS0146 Keyestudio Nano IO Shield for Arduino
+### KS0147 Keyestudio TouchKey Shield for Arduino
+### KS0151 keyestudio CNC Shield V2 for Arduino
+### KS0152 keyestudio CNC Shield V4 for Arduino
+### KS0153 Keyestudio JoyStick Shield for Arduino
+### KS0154 Keyestudio RAMPS 1.4 Shield for Arduino
+### KS0155 Keyestudio USB Host Shield for Arduino
+### KS0156 keyestudio W5100 Ethernet Shield for Arduino
+### KS0160 keyestudio CNC Shield V3 for Arduino
+### KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield for Arduino
+### KS0164 keyestudio Xbee Sensor Shield V5 for Arduino
+### KS0165 Keyestudio Scratch Shield for Arduino
+### KS0183 keyestudio Multi-purpose Projects Shield V1 for Arduino
+### KS0184 keyestudio Multi-purpose Projects Shield V2 for Arduino
+### KS0202 Keyestudio Balance Robot Car Shield for Arduino
+### KS0250 keyestudio NANO IO Shield for Arduino
+### KS0251 keyestudio 4-channel Relay Shield for Arduino
+### KS0252 keyestudio Proto Screw Shield for Arduino
+### KS0253 keyestudio GPS Shield for Arduino
+### KS0254 Keyestudio Sim800C Shield for Arduino
+### KS0255 keyestudio Bluetooth 4.0 Shield for Arduino
+### KS0256 keyestudio LCD1602 keypad Shield for Arduino
+### KS0257 Keyestudio 2.8 Inch TFT LCD Shield for Arduino
+### KS0258 Keyestudio 16-channel Servo Motor Drive Shield for Arduino
+### KS0259 Keyestudio PN532 NFCRFID Controller Shield for Arduino
+### KS0377 Keyestudio Balance Car Shield V3 for Arduino
+### KS0411 keyestudio CAN-BUS Shield for Arduino
+### KS0412 Keyestudio L298P Motor Shield for Arduino
+### KS0416 keyestudio SK6812 RGB LED Shield for Arduino
+### KS0425 keyestudio NANO Shield for Arduino
+### KS0435 Keyestudio Motor Drive Shield V1 for Arduino
+### KS0443 Keyestudio W5500 Network Shield for Arduino
+### KS0448 Keyestudio L298P 4-Channel Motor Drive Shield for Arduino
+### KS0485 Keyestudio NANO Shield for Arduino
+### KS0489 Keyestudio 4wd tb6612 Motor Driver Shield for Arduino
+### KS0515 Keyestudio FSK Wireless Shield for Arduino
+### KS0516 Keyestudio Data Recording Shield for Arduino
+### KS0521 Keyestudio Solar Charger Shield for Arduino
+### KS0529 Keyestudio DMX （RDM）Shield for Arduino
+
 ## **Arduino starter kit**
   ### [KS0070 KEYESTUDIO UNO R3 Breadboard kit For Arduino](/docs/keyestudio/KS0070--UNO-R3-Breadboard-Kit-For-Arduino/KS0070%20%20UNO%20R3%20Breadboard%20Kit%20For%20Arduino.md)
   ### [KS0077 KS0078 KS0079 KEYESTUDIO Super starter kit For Arduino](/docs/keyestudio/KS0077--78--79--keyestudio-Super-Learning-Kit-for-ARDUINO/KS0077%20(78%2C79)%20Super%20Learning%20Kit%20for%20Arduino.md)
@@ -28,235 +90,37 @@
   ### [KS0538 KS0539 Keyestudio IoT Complete Starter Kit for Arduino](/docs/keyestudio/KS0538_KS0539.md)
   ### [KS0540 KS0541 Keyestudio 2021 Basic Starter Kit for Arduino](/docs/keyestudio/KS0540_KS0541.md)
   ### [KS0549 Keyestudio DIY Electronic Watering Kit ](/docs/keyestudio/KS0549.md)
->>>>>>> 51a2debc5c33c98e4d27c47cb81e084cdcefdfb4
-
-### KS0002 Keyestudio MEGA 2560 R3 Development Board
-
-### KS0172 Keyestudio UNO Development Board
-
-### KS0173 Keyestudio NANO CH340 Development Board
-
-### KS0247 Keyestudio Pro Mini Development Board
-
-### KS0248 keyestudio Leonardo R3 Development Board
-
-### KS0249 keyestudio PRO MICRO Development Board
-
-### KS0341 Keyestudio UNO+ Development Board
-
-### KS0342 Keyestudio MEGA+ Development Board
-
-### KS0486 Keyestudio PLUS Development Board
-
-### KS0497 Keyestudio V4.0 Development Board
-
-### KS0498 Keyestudio MEGA 4.0 Development Board
-
-### KS0499 Keyestudio MEGA Plus Development Board
-
-### [KS0500 Keyestudio MAX Development Board ](/docs/keyestudio/Arduino-Board/KS0500/KS0500%20KEYESTUDIO%20Max%20Development%20Board.md)
-
-### KS0502 Keyestudio MEGA PRO Development Board
-
-### KS0503 Keyestudio PRO MICRO Development Board
-
-### KS0546 Keyestudio 328 PLUS Development Board
-
-### KS0547 Keyestudio NANO PLUS Development Board
-
-## Arduino shield
-
-### KS0003 Keyestudio ProtoShield for Arduino
-
-### KS0004 Keyestudio Sensor Shield for Arduino
-
-### KS0005 Keyestudio MEGA ProtoShield for Arduino
-
-### KS0007 Keyestudio L298P Motor Shield for Arduino
-
-### KS0142 Keyestudio SIM900 GSM_GPRS Shield for Arduino
-
-### KS0146 Keyestudio Nano IO Shield for Arduino
-
-### KS0147 Keyestudio TouchKey Shield for Arduino
-
-### KS0151 keyestudio CNC Shield V2 for Arduino
-
-### KS0152 keyestudio CNC Shield V4 for Arduino
-
-### KS0153 Keyestudio JoyStick Shield for Arduino
-
-### KS0154 Keyestudio RAMPS 1.4 Shield for Arduino
-
-### KS0155 Keyestudio USB Host Shield for Arduino
-
-### KS0156 keyestudio W5100 Ethernet Shield for Arduino
-
-### KS0160 keyestudio CNC Shield V3 for Arduino
-
-### KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield for Arduino
-
-### KS0164 keyestudio Xbee Sensor Shield V5 for Arduino
-
-### KS0165 Keyestudio Scratch Shield for Arduino
-
-### KS0183 keyestudio Multi-purpose Projects Shield V1 for Arduino
-
-### KS0184 keyestudio Multi-purpose Projects Shield V2 for Arduino
-
-### KS0202 Keyestudio Balance Robot Car Shield for Arduino
-
-### KS0250 keyestudio NANO IO Shield for Arduino
-
-### KS0251 keyestudio 4-channel Relay Shield for Arduino
-
-### KS0252 keyestudio Proto Screw Shield for Arduino
-
-### KS0253 keyestudio GPS Shield for Arduino
-
-### KS0254 Keyestudio Sim800C Shield for Arduino
-
-### KS0255 keyestudio Bluetooth 4.0 Shield for Arduino
-
-### KS0256 keyestudio LCD1602 keypad Shield for Arduino
-
-### KS0257 Keyestudio 2.8 Inch TFT LCD Shield for Arduino
-
-### KS0258 Keyestudio 16-channel Servo Motor Drive Shield for Arduino
-
-### KS0259 Keyestudio PN532 NFCRFID Controller Shield for Arduino
-
-### KS0377 Keyestudio Balance Car Shield V3 for Arduino
-
-### KS0411 keyestudio CAN-BUS Shield for Arduino
-
-### KS0412 Keyestudio L298P Motor Shield for Arduino
-
-### KS0416 keyestudio SK6812 RGB LED Shield for Arduino
-
-### KS0425 keyestudio NANO Shield for Arduino
-
-### KS0435 Keyestudio Motor Drive Shield V1 for Arduino
-
-### KS0443 Keyestudio W5500 Network Shield for Arduino
-
-### KS0448 Keyestudio L298P 4-Channel Motor Drive Shield for Arduino
-
-### KS0485 Keyestudio NANO Shield for Arduino
-
-### KS0489 Keyestudio 4wd tb6612 Motor Driver Shield for Arduino
-
-### KS0515 Keyestudio FSK Wireless Shield for Arduino
-
-### KS0516 Keyestudio Data Recording Shield for Arduino
-
-### KS0521 Keyestudio Solar Charger Shield for Arduino
-
-### KS0529 Keyestudio DMX （RDM）Shield for Arduino
-
-## Arduino starter kit
-
-### KS0070 KEYESTUDIO UNO R3 Breadboard kit For Arduino
-
-### KS0077 KS0078 KS0079 KEYESTUDIO Super starter kit For Arduino
-
-### KS0080 KS0081 KS0082 KEYESTUDIO Maker starter kit For Arduino
-
-### KS0085 Keyestudio Smart Home Kit
-
-### KS0177 4*4*4 RGB LED Display CUBE Starter Kit for Arduino
-
-### KS0182 Keyestudio 4x4x4 blue LED Cube Kit for Arduino
-
-### KS0344 Keyestudio Automatic Watering System Kit for Arduino
-
-### KS0345 Keyestudio Electronic Scale Kit for Arduino
-
-### KS0349 Keyestudio 48 in 1 Sensor Starter Kit With Gift Box
-
-### KS0399 KS0400 KS0401 Keyestudio 37 in 1 Sensor Starter Kit V2.0
-
-### KS0402 KS0403 KS0404 Keyestudio basic Starter Kit V2.0
-
-### KS0474 Keyestudio GAMEPI DIY Kit for Arduino
-
-### KS0487 Keyestudio 37 in 1 Sensor Kit upgrade v3.0
-
-### KS0505 Keyestudio STEM Starter Kit for Plus Board
-
-### KS0506 Keyestudio STEM Starter Kit for MEGA Plus Board
-
-### KS0519 Keyestudio DIY Smart Sports Watch Kit
-
-### KS0522 Keyestudio 48 in 1 Sensor Starter Kit
-
-### KS0530 Keyestudio Smart Solar Tracker System Tracking Starter Kit
-
-### KS0536 KS0537 Keyestudio IoT Ultimate Starter Kit for Arduino
-
-### KS0538 KS0539 Keyestudio IoT Complete Starter Kit for Arduino
-
-### KS0540 KS0541 Keyestudio 2021 Basic Starter Kit for Arduino
-
-### [KS0549 Keyestudio DIY Electronic Watering Kit ](/docs/keyestudio/KS0549.md)
 
 ## Arduino robot
 
 ### KS0193 keyestudio Self-balancing Car Kit For Arduino
-
 ### KS0198 Keyestudio 4DOF Acrylic Robot Arm Kit for Arduino
-
 ### KS0358 keyestudio Electronic Parts DIY Kit For OTTO
-
 ### KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit
-
-#### [KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit for arduino ](/docs/keyestudio/KS0428_arduino.md)
-
-#### KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit for mixly
-
+ #### [KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit for arduino ](/docs/keyestudio/KS0428_arduino.md)
+ #### KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit for mixly
 ### KS0441 Keyestudio Desktop Mini Smart Robot Car Kit
-
-#### [KS0441 Keyestudio Desktop Mini Smart Robot Car Kit for arduino](/docs/keyestudio/KS0441_arduino.md)
-
-#### KS0441 Keyestudio Desktop Mini Smart Robot Car Kit for mixly
-
+ #### [KS0441 Keyestudio Desktop Mini Smart Robot Car Kit for arduino](/docs/keyestudio/KS0441_arduino.md)
+ #### KS0441 Keyestudio Desktop Mini Smart Robot Car Kit for mixly
 ### KS0446 Keyestudio DIY 4-DOF Frog Robot Kit
-
-#### [KS0446 Keyestudio DIY 4-DOF Frog Robot Kit for arduino](/docs/keyestudio/KS0446_arduino.md)
-
-#### KS0446 Keyestudio DIY 4-DOF Frog Robot Kit for mixly
-
+ #### [KS0446 Keyestudio DIY 4-DOF Frog Robot Kit for arduino](/docs/keyestudio/KS0446_arduino.md)
+ #### KS0446 Keyestudio DIY 4-DOF Frog Robot Kit for mixly
 ### KS0464 Keyestudio Smart Little Turtle Robot V3.0
-
-#### [KS0464 Keyestudio Smart Little Turtle Robot V3.0 for arduino](/docs/keyestudio/KS0464_arduino.md)
-
-#### KS0464 Keyestudio Smart Little Turtle Robot V3.0 for mixly
-
+ #### [KS0464 Keyestudio Smart Little Turtle Robot V3.0 for arduino](/docs/keyestudio/KS0464_arduino.md)
+ #### KS0464 Keyestudio Smart Little Turtle Robot V3.0 for mixly
 ### KS0470 Keyestudio 4WD Multi BT Robot Car Kit V2.0
-
-#### [KS0470 Keyestudio 4WD Multi BT Robot Car Kit V2.0 for arduino](/docs/keyestudio/KS0470_arduino.md)
-
-#### KS0470 Keyestudio 4WD Multi BT Robot Car Kit V2.0 for mixly
-
+ #### [KS0470 Keyestudio 4WD Multi BT Robot Car Kit V2.0 for arduino](/docs/keyestudio/KS0470_arduino.md)
+ #### KS0470 Keyestudio 4WD Multi BT Robot Car Kit V2.0 for mixly
 ### KS0488 Keyestudio 4DF Metallic Robot Arm Learning Starter Kit V2.0
-
 ### [KS0507 Keyestudio Smart RV Robot Starter Kit ](/docs/keyestudio/KS0507.md)
-
 ### KS0520 Keyestudio 4DOF Mechanical Arm Robot Car Starter Kit
-
 ### KS0523 Keyestudio 4WD Mechanical Arm Robot Smart Car
-
 ### KS0526 Keyestudio DIY Mini Tank V3.0 Smart Robot car kit
-
-#### [KS0526 Keyestudio DIY Mini Tank V3.0 Smart Robot car kit for arduino](/docs/keyestudio/KS0526_arduino.md)
-
-#### KS0526 Keyestudio DIY Mini Tank V3.0 Smart Robot car kit for mixly
-
+ #### [KS0526 Keyestudio DIY Mini Tank V3.0 Smart Robot car kit for arduino](/docs/keyestudio/KS0526_arduino.md)
+ #### KS0526 Keyestudio DIY Mini Tank V3.0 Smart Robot car kit for mixly
 ### KS0543 Keyestudio Beetlebot 3 in 1 Robot
-
-#### [KS0543 Keyestudio Beetlebot 3 in 1 Robot for arduino](/docs/keyestudio/KS0543_arduino.md)
-
-#### KS0543 Keyestudio Beetlebot 3 in 1 Robot for scratch
+ #### [KS0543 Keyestudio Beetlebot 3 in 1 Robot for arduino](/docs/keyestudio/KS0543_arduino.md)
+ #### KS0543 Keyestudio Beetlebot 3 in 1 Robot for scratch
 
 # Micro:bit
 
