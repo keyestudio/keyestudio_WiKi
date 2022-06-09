@@ -46,4 +46,6 @@
 [submodule "docs/keyestudio/KS0506-STEM-Starter-Kit-for-MEGA-2560--Plus-Board"]
 	path = docs/keyestudio/KS0506-STEM-Starter-Kit-for-MEGA-2560--Plus-Board
 	url = https://github.com/keyestudio/KS0506-STEM-Starter-Kit-for-MEGA-2560--Plus-Board.git
-
+[submodule "docs/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino"]
+	path = docs/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino
+	url = https://github.com/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino.git
