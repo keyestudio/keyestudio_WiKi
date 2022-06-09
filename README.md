@@ -10,7 +10,7 @@
 ### KS0249 keyestudio PRO MICRO Development Board
 ### KS0341 Keyestudio UNO+ Development Board
 ### KS0342 Keyestudio MEGA+ Development Board
-### KS0486 Keyestudio PLUS Development Board
+### KS0486 Keyestudio PLUS+ Development Board
 ### KS0497 Keyestudio V4.0 Development Board
 ### KS0498 Keyestudio MEGA 4.0 Development Board
 ### KS0499 Keyestudio MEGA Plus Development Board
