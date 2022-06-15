@@ -1,5 +1,5 @@
 # Arduino
-## Arduino board
+## [Arduino board](docs/arduino%20board.md)
 ## Arduino shield
 ## Arduino starter kit
 ## Arduino robot
