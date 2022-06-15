@@ -1,8 +1,8 @@
 # Arduino
 ## [Arduino board](docs/arduino%20board.md)
-## Arduino shield
-## Arduino starter kit
-## Arduino robot
+## [Arduino shield](docs/arduino%20shield.md)
+## [Arduino starter kit](docs/arduino%20starter%20kit.md)
+## [Arduino robot](docs/arduino%20robot.md)
 
 # Micro:bit
 ## Micro:bit board
