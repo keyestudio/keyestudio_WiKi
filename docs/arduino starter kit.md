@@ -1,22 +1,44 @@
-###### [KS0070 KEYESTUDIO UNO R3 Breadboard kit For Arduino](/docs/keyestudio/KS0070--UNO-R3-Breadboard-Kit-For-Arduino/KS0070%20%20UNO%20R3%20Breadboard%20Kit%20For%20Arduino.md)
-  ###### [KS0077 KS0078 KS0079 KEYESTUDIO Super starter kit For Arduino](/docs/keyestudio/KS0077--78--79--keyestudio-Super-Learning-Kit-for-ARDUINO/KS0077%20(78%2C79)%20Super%20Learning%20Kit%20for%20Arduino.md)
-  ###### [KS0080 KS0081 KS0082 KEYESTUDIO Maker starter kit For Arduino](/docs/keyestudio/KS0080--81-82--keyestudio-Maker-Learning-Kit-for-ARDUINO/KS%200080(81%2C82)%20Maker%20Learning%20Kit%20For%20ARDUINO.md)
-  ######  [KS0085 Keyestudio Smart Home Kit](/docs/keyestudio/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino/ks0085.md)
-  ###### [KS0177 4*4*4 RGB LED Display CUBE Starter Kit for Arduino](/docs/keyestudio/KS0177-keyestudio-RGB-LED-CUBE-KIT/KS0177%20keyestudio%20RGB%20LED%20CUBE%20KIT%20INSTRUCTION%20155-100.md)
-  ###### [KS0182 Keyestudio 4x4x4 blue LED Cube Kit for Arduino](/docs/keyestudio/ks0182-keyestudio--LED-Cube-Kit/KS0182%204x4x4%20LED%20Cube%20kit%20with%20Arduino.md)
-  ###### [KS0344 Keyestudio Automatic Watering System Kit for Arduino](/docs/keyestudio/KS0344-Arduino-Automatic-Watering-System/KS0344%20Arduino%20Automatic%20Watering%20System.md)
-  ###### [KS0345 Keyestudio Electronic Scale Kit for Arduino](/docs/keyestudio/KS0345-Electronic-Scale-Kit/KS0345%20Electronic%20Scale%20Kit.md)
-  ###### [KS0349 Keyestudio 48 in 1 Sensor Starter Kit With Gift Box](/docs/keyestudio/KS0349-Keyestudio-48-in-1-Sensor-Kit/KS0349%20Keyestudio%2048%20in%201%20Sensor%20Kit.md)
-  ###### [KS0399 KS0400 KS0401 Keyestudio 37 in 1 Sensor Starter Kit V2.0](/docs/keyestudio/KS0399--400--401--keyestudio-37-in-1-Sensor-V2.0-Kit-for-Arduino/KS0399%20(400%2C%20%20401)%20Keyestudio%2037%20in%201%20Sensor%20V2.0%20Kit%20for%20Arduino.md)
-  ###### [KS0402 KS0403 KS0404 Keyestudio basic Starter Kit V2.0](/docs/keyestudio/KS0402--403--404--keyestudio-Basic-Starter-V2-Kit-for-Arduino/KS0402%20(403，%20404)%20Keyestudio%20Basic%20Starter%20V2%20Kit.md)
-  ###### [KS0474 Keyestudio GAMEPI DIY Kit for Arduino](/docs/keyestudio/KS0474-Keyestudio-GAMEPI-DIY-Game-Console-Learning-Board-Kit-for-ARDUINO/KS0474%20Keyestudio%20GAMEPI%20DIY%20Game%20Console%20Learning%20Board%20Based%20On%20ARDUINO.md)
-  ###### [KS0487 Keyestudio 37 in 1 Sensor Kit upgrade v3.0](/docs/keyestudio/KS0487-Keyestudio-37-in-1-Sensor-Kit-Upgraded-v3.0/ks0487%20keyestudio%2037%20in%201%20sensor%20kit%20upgraded%20v3.0.md)
-  ###### [KS0505 Keyestudio STEM Starter Kit for Plus Board](/docs/keyestudio/KS0505-STEM-Starter-Kit-for-plus-board/ks0505%20stem%20starter%20kit%20for%20arduino.md)
-  ###### [KS0506 Keyestudio STEM Starter Kit for MEGA Plus Board](/docs/keyestudio/KS0506-STEM-Starter-Kit-for-MEGA-2560--Plus-Board/keyestudio%20MEGA%20plus%20stem%20starter%20kit%20for%20arduino.md)
-  ###### [KS0519 Keyestudio DIY Smart Sports Watch Kit](/docs/keyestudio/KS0519.md)
-  ###### [KS0522 Keyestudio 48 in 1 Sensor Starter Kit](/docs/keyestudio/KS0522.md)
-  ###### [KS0530 Keyestudio Smart Solar Tracker System Tracking Starter Kit](/docs/keyestudio/KS0530.md)
-  ###### [KS0536 KS0537 Keyestudio IoT Ultimate Starter Kit for Arduino](/docs/keyestudio/KS0536_KS0537.md)
-  ###### [KS0538 KS0539 Keyestudio IoT Complete Starter Kit for Arduino](/docs/keyestudio/KS0538_KS0539.md)
-  ###### [KS0540 KS0541 Keyestudio 2021 Basic Starter Kit for Arduino](/docs/keyestudio/KS0540_KS0541.md)
-  ###### [KS0549 Keyestudio DIY Electronic Watering Kit ](/docs/keyestudio/KS0549.md)
+ [KS0070 KEYESTUDIO UNO R3 Breadboard kit For Arduino](/docs/keyestudio/KS0070--UNO-R3-Breadboard-Kit-For-Arduino/KS0070%20%20UNO%20R3%20Breadboard%20Kit%20For%20Arduino.md)
+ 
+[KS0077 KS0078 KS0079 KEYESTUDIO Super starter kit For Arduino](/docs/keyestudio/KS0077--78--79--keyestudio-Super-Learning-Kit-for-ARDUINO/KS0077%20(78%2C79)%20Super%20Learning%20Kit%20for%20Arduino.md)
+
+[KS0080 KS0081 KS0082 KEYESTUDIO Maker starter kit For Arduino](/docs/keyestudio/KS0080--81-82--keyestudio-Maker-Learning-Kit-for-ARDUINO/KS%200080(81%2C82)%20Maker%20Learning%20Kit%20For%20ARDUINO.md)
+
+[KS0085 Keyestudio Smart Home Kit](/docs/keyestudio/keyestudio/KS0085-Keyestudio-Smart-Home-Kit-for-Arduino/ks0085.md)
+
+[KS0177 4*4*4 RGB LED Display CUBE Starter Kit for Arduino](/docs/keyestudio/KS0177-keyestudio-RGB-LED-CUBE-KIT/KS0177%20keyestudio%20RGB%20LED%20CUBE%20KIT%20INSTRUCTION%20155-100.md)
+
+[KS0182 Keyestudio 4x4x4 blue LED Cube Kit for Arduino](/docs/keyestudio/ks0182-keyestudio--LED-Cube-Kit/KS0182%204x4x4%20LED%20Cube%20kit%20with%20Arduino.md)
+
+[KS0344 Keyestudio Automatic Watering System Kit for Arduino](/docs/keyestudio/KS0344-Arduino-Automatic-Watering-System/KS0344%20Arduino%20Automatic%20Watering%20System.md)
+
+[KS0345 Keyestudio Electronic Scale Kit for Arduino](/docs/keyestudio/KS0345-Electronic-Scale-Kit/KS0345%20Electronic%20Scale%20Kit.md)
+
+[KS0349 Keyestudio 48 in 1 Sensor Starter Kit With Gift Box](/docs/keyestudio/KS0349-Keyestudio-48-in-1-Sensor-Kit/KS0349%20Keyestudio%2048%20in%201%20Sensor%20Kit.md)
+
+[KS0399 KS0400 KS0401 Keyestudio 37 in 1 Sensor Starter Kit V2.0](/docs/keyestudio/KS0399--400--401--keyestudio-37-in-1-Sensor-V2.0-Kit-for-Arduino/KS0399%20(400%2C%20%20401)%20Keyestudio%2037%20in%201%20Sensor%20V2.0%20Kit%20for%20Arduino.md)
+
+[KS0402 KS0403 KS0404 Keyestudio basic Starter Kit V2.0](/docs/keyestudio/KS0402--403--404--keyestudio-Basic-Starter-V2-Kit-for-Arduino/KS0402%20(403，%20404)%20Keyestudio%20Basic%20Starter%20V2%20Kit.md)
+
+[KS0474 Keyestudio GAMEPI DIY Kit for Arduino](/docs/keyestudio/KS0474-Keyestudio-GAMEPI-DIY-Game-Console-Learning-Board-Kit-for-ARDUINO/KS0474%20Keyestudio%20GAMEPI%20DIY%20Game%20Console%20Learning%20Board%20Based%20On%20ARDUINO.md)
+
+[KS0487 Keyestudio 37 in 1 Sensor Kit upgrade v3.0](/docs/keyestudio/KS0487-Keyestudio-37-in-1-Sensor-Kit-Upgraded-v3.0/ks0487%20keyestudio%2037%20in%201%20sensor%20kit%20upgraded%20v3.0.md)
+
+[KS0505 Keyestudio STEM Starter Kit for Plus Board](/docs/keyestudio/KS0505-STEM-Starter-Kit-for-plus-board/ks0505%20stem%20starter%20kit%20for%20arduino.md)
+
+[KS0506 Keyestudio STEM Starter Kit for MEGA Plus Board](/docs/keyestudio/KS0506-STEM-Starter-Kit-for-MEGA-2560--Plus-Board/keyestudio%20MEGA%20plus%20stem%20starter%20kit%20for%20arduino.md)
+
+[KS0519 Keyestudio DIY Smart Sports Watch Kit](/docs/keyestudio/KS0519.md)
+
+[KS0522 Keyestudio 48 in 1 Sensor Starter Kit](/docs/keyestudio/KS0522.md)
+
+[KS0530 Keyestudio Smart Solar Tracker System Tracking Starter Kit](/docs/keyestudio/KS0530.md)
+
+[KS0536 KS0537 Keyestudio IoT Ultimate Starter Kit for Arduino](/docs/keyestudio/KS0536_KS0537.md)
+
+[KS0538 KS0539 Keyestudio IoT Complete Starter Kit for Arduino](/docs/keyestudio/KS0538_KS0539.md)
+
+[KS0540 KS0541 Keyestudio 2021 Basic Starter Kit for Arduino](/docs/keyestudio/KS0540_KS0541.md)
+   
+   
+[KS0549 Keyestudio DIY Electronic Watering Kit ](/docs/keyestudio/KS0549.md)
