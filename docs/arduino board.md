@@ -1,4 +1,4 @@
-# Development Board For Arduino
+# Development board for Arduino
 ---
 KS0001 Keyestudio UNO R3 Development Board
  
