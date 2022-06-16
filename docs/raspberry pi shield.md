@@ -1,4 +1,7 @@
- KS0210 keyestudio 16-key Capacitive Touch Keypad for Raspberry pi
+   # Raspberry Pi shield
+---
+ 
+  KS0210 keyestudio 16-key Capacitive Touch Keypad for Raspberry pi
 
  KS0211 keyestudio JoyStick Shield for Raspberry pi
 

@@ -1,3 +1,6 @@
+ # Micro bit Starter kit
+---
+ 
  KS0305 keyestudio Basic Starter Kit for micro bit
 
  KS0306 keyestudio Beginner Starter Kit for micro bit
