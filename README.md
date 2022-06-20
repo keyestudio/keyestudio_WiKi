@@ -1,5 +1,5 @@
 # Arduino
-   [mcu board](docs/arduino%20board.md)
+   [mcu board](https://arduino-board.readthedocs.io/en/latest/)
 
    [shield](docs/arduino%20shield.md)
 
