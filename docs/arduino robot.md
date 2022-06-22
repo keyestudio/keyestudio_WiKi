@@ -2,9 +2,9 @@
 ---
  [KS0193 keyestudio Self-balancing Car Kit For Arduino](https://ks0193-self-balancing-car-kit.readthedocs.io/en/latest/)
 
- KS0198 Keyestudio 4DOF Acrylic Robot Arm Kit for Arduino
+ [KS0198 Keyestudio 4DOF Acrylic Robot Arm Kit for Arduino](https://ks0198x-4dof-robot-mechanical-arm-kit-for-arduino-diy.readthedocs.io/en/latest/)
 
- KS0358 keyestudio Electronic Parts DIY Kit For OTTO
+ [KS0358 keyestudio Electronic Parts DIY Kit For OTTO](https://ks0358-electronic-parts-diy-kit-for-otto.readthedocs.io/en/latest/)
 
  KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit
  
