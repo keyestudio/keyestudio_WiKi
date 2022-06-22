@@ -2,7 +2,7 @@
 
 ## [mcu board](https://arduino-board.readthedocs.io/en/latest/)
 
-## [shield](docs/arduino%20shield.md)
+## [shield](https://arduino-shield.readthedocs.io/en/latest/)
 
 ## [starter kit](docs/arduino%20starter%20kit.md)
 
