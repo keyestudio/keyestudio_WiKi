@@ -14,7 +14,7 @@
 
  KS0464 Keyestudio Smart Little Turtle Robot V3.0
 
- [KS0470 Keyestudio 4WD Multi BT Robot Car Kit V2.0](/dos/KS0470.md)
+ [KS0470 Keyestudio 4WD Multi BT Robot Car Kit V2.0](/docs/KS0470.md)
 
  KS0488 Keyestudio 4DF Metallic Robot Arm Kit V2.0
 
