@@ -1,6 +1,6 @@
  # Robot car kit for Arduino
 ---
- KS0193 keyestudio Self-balancing Car Kit For Arduino
+ [KS0193 keyestudio Self-balancing Car Kit For Arduino](https://ks0193-self-balancing-car-kit.readthedocs.io/en/latest/)
 
  KS0198 Keyestudio 4DOF Acrylic Robot Arm Kit for Arduino
 
