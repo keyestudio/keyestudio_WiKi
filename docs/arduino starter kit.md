@@ -6,7 +6,7 @@
 
 [KS0080 KS0081 KS0082 KEYESTUDIO Maker starter kit For Arduino](https://ks0080-81-82-keyestudio-maker-learning-kit-for-arduino.readthedocs.io/en/latest/)
 
-[KS0085 Keyestudio Smart Home Kit](/docs/KS0085.md)
+[KS0085 KEYESTUDIO Smart Home Kit For Arduino](/docs/KS0085.md)
 
 [KS0177 4*4*4 RGB LED Display CUBE Starter Kit for Arduino](https://ks0177-keyestudio-rgb-led-cube-kit.readthedocs.io/en/latest/)
 
