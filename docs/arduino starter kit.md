@@ -28,7 +28,7 @@
 
 [KS0505 Keyestudio STEM Starter Kit for Plus Board](/docs/keyestudio/KS0505-STEM-Starter-Kit-for-plus-board/ks0505%20stem%20starter%20kit%20for%20arduino.md)
 
-[KS0506 Keyestudio STEM Starter Kit for MEGA Plus Board](/docs/keyestudio/KS0506-STEM-Starter-Kit-for-MEGA-2560--Plus-Board/keyestudio%20MEGA%20plus%20stem%20starter%20kit%20for%20arduino.md)
+[KS0506 Keyestudio STEM Starter Kit for MEGA Plus Board](https://ks0506-stem-starter-kit-for-mega-2560-plus-board.readthedocs.io/en/latest)
 
 [KS0519 Keyestudio DIY Smart Sports Watch Kit](/docs/keyestudio/KS0519.md)
 
