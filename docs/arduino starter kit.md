@@ -30,11 +30,11 @@
 
 [KS0506 Keyestudio STEM Starter Kit for MEGA Plus Board](https://ks0506-stem-starter-kit-for-mega-2560-plus-board.readthedocs.io/en/latest)
 
-[KS0519 Keyestudio DIY Smart Sports Watch Kit](/docs/Keyestudio/KS0519.md)
+[KS0519 Keyestudio DIY Smart Sports Watch Kit](https://ks0519-diy-smart-sports-watch.readthedocs.io/en/latest/)
 
-[KS0522 Keyestudio 48 in 1 Sensor Starter Kit](/docs/Keyestudio/KS0522.md)
+[KS0522 Keyestudio 48 in 1 Sensor Starter Kit](https://ks0522-keyestudio-48-in-1-sensor-kit.readthedocs.io/en/latest/)
 
-[KS0530 Keyestudio Smart Solar Tracker System Tracking Starter Kit](/docs/Keyestudio/KS0530.md)
+[KS0530 Keyestudio Smart Solar Tracker System Tracking Starter Kit](https://ks0530-keyestudio-solar-tracking-kit.readthedocs.io/en/latest/)
 
 [KS0536 KS0537 Keyestudio IoT Ultimate Starter Kit for Arduino](/docs/Keyestudio/KS0536_KS0537.md)
 
@@ -43,4 +43,4 @@
 [KS0540 KS0541 Keyestudio 2021 Basic Starter Kit for Arduino](/docs/Keyestudio/KS0540_KS0541.md)
    
    
-[KS0549 Keyestudio DIY Electronic Watering Kit ](/docs/Keyestudio/KS0549.md)
+[KS0549 Keyestudio DIY Electronic Watering Kit ](https://ks0549-keyestudio-dit-automatic-watering-device.readthedocs.io/en/latest/)
