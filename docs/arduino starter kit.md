@@ -26,7 +26,7 @@
 
 [KS0487 Keyestudio 37 in 1 Sensor Kit upgrade v3.0](/docs/keyestudio/KS0487-Keyestudio-37-in-1-Sensor-Kit-Upgraded-v3.0/ks0487%20keyestudio%2037%20in%201%20sensor%20kit%20upgraded%20v3.0.md)
 
-[KS0505 Keyestudio STEM Starter Kit for Plus Board](/docs/keyestudio/KS0505-STEM-Starter-Kit-for-plus-board/ks0505%20stem%20starter%20kit%20for%20arduino.md)
+[KS0505 Keyestudio STEM Starter Kit for Plus Board](https://ks0505-stem-starter-kit-with-plus-board.readthedocs.io/en/latest/)
 
 [KS0506 Keyestudio STEM Starter Kit for MEGA Plus Board](https://ks0506-stem-starter-kit-for-mega-2560-plus-board.readthedocs.io/en/latest)
 
@@ -36,11 +36,11 @@
 
 [KS0530 Keyestudio Smart Solar Tracker System Tracking Starter Kit](/docs/keyestudio/KS0530.md)
 
-[KS0536 KS0537 Keyestudio IoT Ultimate Starter Kit for Arduino](/docs/keyestudio/KS0536_KS0537.md)
+[KS0536 KS0537 Keyestudio IoT Ultimate Starter Kit for Arduino](https://ks0536-ks0537-keyestudio-ultimate-starter-kit-for-arduino.readthedocs.io/en/latest/)
 
-[KS0538 KS0539 Keyestudio IoT Complete Starter Kit for Arduino](/docs/keyestudio/KS0538_KS0539.md)
+[KS0538 KS0539 Keyestudio IoT Complete Starter Kit for Arduino](https://ks0538-ks0539-keyestudio-complete-starter-kit.readthedocs.io/en/latest/)
 
-[KS0540 KS0541 Keyestudio 2021 Basic Starter Kit for Arduino](/docs/keyestudio/KS0540_KS0541.md)
+[KS0540 KS0541 Keyestudio 2021 Basic Starter Kit for Arduino](https://ks0540-ks0541-keyestudio-basic-starter-kit-for-arduino.readthedocs.io/en/latest/)
    
    
-[KS0549 Keyestudio DIY Electronic Watering Kit ](/docs/keyestudio/KS0549.md)
+[KS0549 Keyestudio DIY Electronic Watering Kit ](https://ks0549-keyestudio-dit-automatic-watering-device.readthedocs.io/en/latest/)
