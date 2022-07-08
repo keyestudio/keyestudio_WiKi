@@ -10,7 +10,7 @@
 
 ---
 # Micro:bit
-## [shield](docs/microbit%20shield.md)
+## [shield](https://microbit-shield.readthedocs.io/en/latest/)
 
 ## [starter kit](docs/microbit%20kit.md)
 
