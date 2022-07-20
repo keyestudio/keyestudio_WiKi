@@ -40,9 +40,16 @@
 
 ---
 # Easy plug 
-## [starter kit](docs/easy%20plug%20kit.md)
+## [Easy plug board](https://arduino-board.readthedocs.io/en/latest/)
 
-## [sensor and module](docs/easy%20plug%20module.md)
+## [Easy plug starter kit](docs/arduino%20starter%20kit.md)
+
+## [Easy plug robot car](doc/arduino%20robot.md)
+
+## [Easy plug module](doc/arduino%20robot.md)
+
+
+
 
 
 
