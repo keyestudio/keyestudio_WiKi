@@ -17,28 +17,26 @@
 ## [robot car](docs/microbit%20robot.md)
 
 ---
-# Raspberry pi 4B
-## [shield](docs/raspberry%20pi%20shield.md)
+# Raspberry pi
 
-## [starter kit](docs/raspberry%20pi%20kit.md)
+## Raspberry pi 4B
 
-## [robot car](docs/raspberry%20pi%20robot.md)
+
+### [shield](docs/raspberry%20pi%20shield.md)
+
+### [starter kit](docs/raspberry%20pi%20kit.md)
+
+### [robot car](docs/raspberry%20pi%20robot.md)
    
----
-# Raspberry pi pico
-## [shield](docs/pico%20shield.md)
+## Raspberry pi pico
 
-## [starter kit](docs/pico%20starter%20kit.md)
-
-## [robot car](docs/pico%20robot.md)
-
----
+--
 # ESP32 ESP8266
-## [shield](docs/esp32%20shield.md)
+## [ESP01](docs/esp32%20shield.md)
 
-## [starter kit](docs/esp32%20starter%20kit.md)
+## [ESP8266](docs/esp32%20starter%20kit.md)
 
-## [robot car](docs/esp32%20robot.md)
+## [ESP32](docs/esp32%20robot.md)
 
 ---
 # Easy plug 
