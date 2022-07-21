@@ -1,15 +1,27 @@
    # Raspberry Pi shield
 ---
- 
-  KS0210 keyestudio 16-key Capacitive Touch Keypad for Raspberry pi
 
- KS0211 keyestudio JoyStick Shield for Raspberry pi
+KS0210 keyestudio RPI TTP229L 16-key Capacitive Touch Keypad
+ 
+
+KS0210 keyestudio 16-key Capacitive Touch Keypad for Raspberry pi
+
+
+KS0211 keyestudio JoyStick Shield for Raspberry pi
+
+
 
  KS0212 keyestudio 4-channel Relay Shield for Raspberry pi
+ 
+
 
  KS0213 keyestudio GPIO-PCF8591 Shield for Raspberry pi
+ 
+
 
  KS0214 keyestudio TFT 3.5 LCD Shield for Raspberry pi
+ 
+
 
  KS0215 keyestudio T-type GPIO Shield for Raspberry pi
 
