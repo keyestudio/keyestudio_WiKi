@@ -17,20 +17,17 @@
 ## [robot car](docs/microbit%20robot.md)
 
 ---
-# Raspberry pi
+# Raspberry pi 4B 3B+
 
-## Raspberry pi 4B
+## [shield](docs/raspberry%20pi%20shield.md)
 
+## [starter kit](docs/raspberry%20pi%20kit.md)
 
-### [shield](docs/raspberry%20pi%20shield.md)
+## [robot car](docs/raspberry%20pi%20robot.md)
 
-### [starter kit](docs/raspberry%20pi%20kit.md)
+# Raspberry pi pico
 
-### [robot car](docs/raspberry%20pi%20robot.md)
-   
-## Raspberry pi pico
-
---
+---
 # ESP32 ESP8266
 ## [ESP01](docs/esp32%20shield.md)
 
