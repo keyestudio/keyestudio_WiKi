@@ -7,7 +7,7 @@
 
 ![KS0361 KS0365 keyestudio 37 in 1 Starter Kit for BBC micro:bit](https://ks0361-ks0365-keyestudio-37-in-1-starter-kit-for-bbc-micro-bit.readthedocs.io/en/latest/)
 
-![KS0456 Keyestudio Honeycomb Smart Wearable Coding Kit for Micro:bit](https://ks0456-keyestudio-honeycomb-smart-wearable-coding-kit.readthedocs.io/en/latest/)
+[KS0456 Keyestudio Honeycomb Smart Wearable Coding Kit for Micro:bit](https://ks0456-keyestudio-honeycomb-smart-wearable-coding-kit.readthedocs.io/en/latest/)
 
 ![KS4003 KS4004 keyestudio Basic Starter Kit for micro bit](https://ks4003-ks4004-keyestudio-basic-starter-kit-for-bbc-microbit.readthedocs.io/en/latest/)
 
