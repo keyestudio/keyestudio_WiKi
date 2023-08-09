@@ -8,7 +8,7 @@
 
 ![KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit](/docs/arduino/KS0428.md)
  
-![KS0441 Keyestudio Desktop Mini Smart Robot Car Kit](https://ks0441-desktop-mini-bluetooth-smart-car-v30.readthedocs.io/en/latest/)
+[KS0441 Keyestudio Desktop Mini Smart Robot Car Kit](https://ks0441-desktop-mini-bluetooth-smart-car-v30.readthedocs.io/en/latest/)
 
 ![KS0446 Keyestudio DIY 4-DOF Frog Robot Kit](/docs/arduino/KS0446.md)
 
