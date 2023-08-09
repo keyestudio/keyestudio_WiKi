@@ -12,7 +12,7 @@
 
 [KS0446 Keyestudio DIY 4-DOF Frog Robot Kit](/docs/arduino/KS0446.md)
 
-![KS0464 Keyestudio Smart Little Turtle Robot V3.0](/docs/arduino/KS0464.md)
+[KS0464 Keyestudio Smart Little Turtle Robot V3.0](/docs/arduino/KS0464.md)
 
 ![KS0470 Keyestudio 4WD Multi BT Robot Car Kit V2.0](/docs/arduino/KS0470.md)
 
