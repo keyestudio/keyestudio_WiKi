@@ -20,7 +20,7 @@
 
 [KS0507 Keyestudio Smart RV Robot Starter Kit ](https://ks0507-keyestudio-smart-motorhome-kit.readthedocs.io/en/latest/)
 
-![KS0520 Keyestudio 4DOF Mechanical Arm Robot Car Starter Kit](https://ks0520-4dof-mechanical-robot-arm-car.readthedocs.io/en/latest/)
+[KS0520 Keyestudio 4DOF Mechanical Arm Robot Car Starter Kit](https://ks0520-4dof-mechanical-robot-arm-car.readthedocs.io/en/latest/)
 
 [KS0523 Keyestudio 4WD Mechanical Arm Robot Smart Car](https://ks0523-4wd-mechanical-robot-arm-smart-car.readthedocs.io/en/latest/)
  
