@@ -24,7 +24,7 @@
 
 [KS0474 Keyestudio GAMEPI DIY Kit for Arduino](https://ks0474-Keyestudio-gamepi-diy-game-console-learning-board-kit.readthedocs.io/en/latest/)
 
-![KS0487 Keyestudio 37 in 1 Sensor Kit upgrade v3.0](https://ks0487-keyestudio-37-in-1-sensor-kit-upgraded-v30.readthedocs.io/en/latest/)
+[KS0487 Keyestudio 37 in 1 Sensor Kit upgrade v3.0](https://ks0487-keyestudio-37-in-1-sensor-kit-upgraded-v30.readthedocs.io/en/latest/)
 
 ![KS0505 Keyestudio STEM Starter Kit for Plus Board](https://ks0505-stem-starter-kit-with-plus-board.readthedocs.io/en/latest/)
 
