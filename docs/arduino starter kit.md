@@ -36,7 +36,7 @@
 
 ![KS0530 Keyestudio Smart Solar Tracker System Tracking Starter Kit](https://ks0530-keyestudio-solar-tracking-kit.readthedocs.io/en/latest/)
 
-![KS0536 KS0537 Keyestudio IoT Ultimate Starter Kit for Arduino](https://ks0536-ks0537-keyestudio-ultimate-starter-kit-for-arduino.readthedocs.io/en/latest/)
+[KS0536 KS0537 Keyestudio IoT Ultimate Starter Kit for Arduino](https://ks0536-ks0537-keyestudio-ultimate-starter-kit-for-arduino.readthedocs.io/en/latest/)
 
 ![KS0538 KS0539 Keyestudio IoT Complete Starter Kit for Arduino](https://ks0538-ks0539-keyestudio-complete-starter-kit-for-arduino.readthedocs.io/en/latest/)
 
