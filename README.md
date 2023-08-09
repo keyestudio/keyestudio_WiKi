@@ -29,10 +29,11 @@
 ---
 # ESP32 
 
-
 * [starter kit](docs/esp32%20kit.md)
 
 * [robot car](docs/esp32%20robot.md)
+
+* [esp32 shield](docs/esp32%20shield.md)
 
 ---
 # Easy plug 
