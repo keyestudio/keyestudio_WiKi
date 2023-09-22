@@ -1,5 +1,9 @@
 # Development board for Arduino
 ---
+
+* [Arduino STEM electronic building block](/docs/arduino/Mainboard/KS0500/Arduino%20STEM/Arduino%20STEM%20electronic%20building%20block.md)
+
+
 KS0001 Keyestudio UNO R3 Development Board
  
 KS0002 Keyestudio MEGA 2560 R3 Development Board
