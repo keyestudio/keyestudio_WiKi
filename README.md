@@ -1,6 +1,6 @@
 # Arduino
 
-* [arduino board](docs/arduino%20board.md)
+<!--* [arduino board](docs/arduino%20board.md)-->
 
 * [starter kit](docs/arduino%20starter%20kit.md)
 
