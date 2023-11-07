@@ -10,11 +10,11 @@
 
 [KS0441 Keyestudio Desktop Mini Smart Robot Car Kit](https://ks0441-desktop-mini-bluetooth-smart-car-v30.readthedocs.io/en/latest/)
 
-[KS0446 Keyestudio DIY 4-DOF Frog Robot Kit](/docs/arduino/KS0446.md)
+[KS0446 Keyestudio DIY 4-DOF Frog Robot Kit](https://ks0446-frog-robot-for-arduino.readthedocs.io/en/latest/)
 
-[KS0464 Keyestudio Smart Little Turtle Robot V3.0](/docs/arduino/KS0464.md)
+[KS0464 Keyestudio Smart Little Turtle Robot V3.0](https://ks0464-keyestudio-smart-little-turtle-robot-for-arduino.readthedocs.io/en/latest/)
 
-[KS0470 Keyestudio 4WD Multi BT Robot Car Kit V2.0](/docs/arduino/KS0470.md)
+[KS0470 Keyestudio 4WD Multi BT Robot Car Kit V2.0](https://ks0470-4wd-bt-multi-purpose-robot-car-v20-kit-for-arduino.readthedocs.io/en/latest/)
 
 [KS0488X Keyestudio 4DF Metallic Robot Arm Kit V2.0](https://ks0488-x-keyestudio-4dof-robot-arm-arduino-learning-kit.readthedocs.io/en/latest/)
 
@@ -24,7 +24,7 @@
 
 [KS0523 Keyestudio 4WD Mechanical Arm Robot Smart Car](https://ks0523-4wd-mechanical-robot-arm-smart-car.readthedocs.io/en/latest/)
  
-[KS0526 Keyestudio DIY Mini Tank V3.0 Smart Robot car kit](/docs/arduino/KS0526.md)
+[KS0526 Keyestudio DIY Mini Tank V3.0 Smart Robot car kit](https://ks0526-keyestudio-mini-tank-robot-v3-arduino.readthedocs.io/en/latest/)
 
 [KS0543 Keyestudio Beetlebot 3 in 1 Robot](/docs/arduino/KS0543.md)
 
