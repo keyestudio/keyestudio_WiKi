@@ -6,7 +6,7 @@
 
 [KS0358 keyestudio Electronic Parts DIY Kit For OTTO](https://ks0358-electronic-parts-diy-kit-for-otto.readthedocs.io/en/latest/)
 
-[KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit](/docs/arduino/KS0428.md)
+[KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit](https://ks0428-mini-tank-robot-v2-for-arduino.readthedocs.io/en/latest/)
 
 [KS0441 Keyestudio Desktop Mini Smart Robot Car Kit](https://ks0441-desktop-mini-bluetooth-smart-car-v30.readthedocs.io/en/latest/)
 
