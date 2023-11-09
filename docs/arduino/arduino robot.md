@@ -26,7 +26,7 @@
  
 [KS0526 Keyestudio DIY Mini Tank V3.0 Smart Robot car kit](https://ks0526-keyestudio-mini-tank-robot-v3-arduino.readthedocs.io/en/latest/)
 
-[KS0543 Keyestudio Beetlebot 3 in 1 Robot](/docs/arduino/KS0543.md)
+[KS0543 Keyestudio Beetlebot 3 in 1 Robot](https://ks0543-keyestudio-beetlebot-3-in-1-robot.readthedocs.io/en/latest/)
 
 [KS0551 Keyestudio 4WD Mecanum Robot for Arduino](https://ks0551-keyestudio-4wd-mecanum-robot-for-arduino.readthedocs.io/en/latest/)-->
 
