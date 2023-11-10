@@ -32,7 +32,7 @@
 
 [KS0552 Keyestudio Writing Machine for Arduino DIY](https://ks0552-keyestudio-writing-machine-for-arduino-diy.readthedocs.io/en/latest/)-->
 
-[KS0555 Keyestudio Mini Caterpillar Tank Robot V3.0 (Popular Edition)](/docs/arduino/KS0555.md)
+[KS0555 Keyestudio Mini Caterpillar Tank Robot V3.0 (Popular Edition)](https://ks0555-keyestudio-mini-caterpillar-tank-robot.readthedocs.io/en/latest/)
 
 [KS0559 Keyestudio 4WD BT Multi-purpose Car V2.0](/docs/arduino/KS0559.md)
 
