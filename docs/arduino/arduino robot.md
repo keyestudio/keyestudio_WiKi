@@ -34,7 +34,7 @@
 
 [KS0555 Keyestudio Mini Caterpillar Tank Robot V3.0 (Popular Edition)](https://ks0555-keyestudio-mini-caterpillar-tank-robot.readthedocs.io/en/latest/)
 
-[KS0559 Keyestudio 4WD BT Multi-purpose Car V2.0](/docs/arduino/KS0559.md)
+[KS0559 Keyestudio 4WD BT Multi-purpose Car V2.0](https://ks0559-keyestudio-4wd-bt-multi-purpose-car-v20.readthedocs.io/en/latest/)
 
 
 
