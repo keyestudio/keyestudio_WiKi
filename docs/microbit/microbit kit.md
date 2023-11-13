@@ -23,5 +23,5 @@
 
 [KS4022 KS4023 keyestudio EASY PLUG Ultimate Starter Kit for micro bit](https://ks4022-ks4023-keyestudio-microbiteasy-plug-ultimate-starter-kit.readthedocs.io/en/latest/)
 
-[KS4027 KS4028 keyestudio Smart Home Kit for micro bit](/docs/microbit/KS4027-KS4028.md)
+[KS4027 KS4028 keyestudio Smart Home Kit for micro bit](http://ks4027-ks4028-microbit-smart-home.readthedocs.io/)
 
