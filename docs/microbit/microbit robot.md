@@ -7,7 +7,7 @@
 
 [KS4014 KS4024 keyestudio Mini Smart Tortoise Car for micro bit](https://ks4014-ks4024-smart-turtle-car-kit.readthedocs.io/en/latest/)
  
-[KS4031 KS4032 Keyestudio 4WD Mecanum Robot Car for Micro:bit](/docs/microbit/KS4031-KS4032.md)
+[KS4031 KS4032 Keyestudio 4WD Mecanum Robot Car for Micro:bit](https://ks4031-4032-4wd-mecanum-robot.readthedocs.io/en/latest/)
 
 
 
