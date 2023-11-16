@@ -12,9 +12,9 @@
 
 [KS5009 Keyestudio Smart Home Kit for ESP32](/docs/esp32/KS5009.md)
 
-[KS5010 Keyestudio ESP32 Learning Kit Ultimate Edition](/docs/esp32/KS5010.md)
+[KS5010 Keyestudio ESP32 Learning Kit Ultimate Edition](http://ks5010-ks5010f-keyestudio-esp32-learning-kit-ultimate-edition.readthedocs.io/)
 
-[KS5011 Keyestudio ESP32 Learning Kit Complete Edition](/docs/esp32/KS5011(KS5011F).md)
+[KS5011 Keyestudio ESP32 Learning Kit Complete Edition](http://ks5011ks5011f-keyestudio-esp32-learning-kit-complete-edition.readthedocs.io)
  
 [KS5012 Keyestudio ESP32 Learning Kit Basic Edition](http://ks5012-keyestudio-esp32-learning-kit-basic-edition.readthedocs.io/)
 
