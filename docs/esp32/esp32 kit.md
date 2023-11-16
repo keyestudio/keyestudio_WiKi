@@ -8,9 +8,9 @@
 
 [KS5005 KS5006 Keyestudio ESP32 37 in 1 Sensor Kit](/docs/esp32/KS5005-KS5006.md)
 
-[KS5007 KS5008 Keyestudio ESP32 24 in 1 Sensor Kit](/docs/esp32/KS5007-KS5008.md)
+[KS5007 KS5008 Keyestudio ESP32 24 in 1 Sensor Kit](http://ks5007ks5008keyestudio-esp32-24-in-1-sensor-kit.readthedocs.io)
 
-[KS5009 Keyestudio Smart Home Kit for ESP32](/docs/esp32/KS5009.md)
+[KS5009 Keyestudio Smart Home Kit for ESP32](http://ks5009-keyestudio-smart-home-kit-for-esp32.readthedocs.io)
 
 [KS5010 Keyestudio ESP32 Learning Kit Ultimate Edition](http://ks5010-ks5010f-keyestudio-esp32-learning-kit-ultimate-edition.readthedocs.io/)
 

@@ -5,7 +5,7 @@
 
 [KS3021 Keyestudio Raspberry Pi Pico 24 in 1 Sensor Kit](https://ks3021-keyestudio-raspberry-pi-pico-24-in-1-sensor-kit.readthedocs.io/en/latest/)
 
-[KS3023 Keyestudio Raspberry Pi Pico 37 in 1 Sensor Kit](/docs/raspberrypi/KS3023.md)
+[KS3023 Keyestudio Raspberry Pi Pico 37 in 1 Sensor Kit](https://ks3023-keyestudio-raspberry-pi-pico-37-in-1-sensor-kit.readthedocs.io/en/latest/)
 
 [KS3024 Keyestudio Raspberry Pi Pico 42 in 1 Sensor Kit](/docs/raspberrypi/KS3024(KS3024F).md)
 
