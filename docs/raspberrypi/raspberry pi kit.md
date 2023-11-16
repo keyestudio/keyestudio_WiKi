@@ -7,5 +7,5 @@
 
 * [KS3015 keyestudio Complete Starter Kit for Raspberry Pi 4B 3B+](https://ks3015-raspberry-pi-complete-rfid-starter-kit.readthedocs.io/en/latest/)
 
-* [KS3016 keyestudio Sensor Starter Kit for Raspberry Pi 4B 3B+](/docs/raspberrypi/KS3016.md)
+* [KS3016 keyestudio Sensor Starter Kit for Raspberry Pi 4B 3B+](https://ks3016-raspberry-pi-sensor-starter-kit.readthedocs.io/en/latest/)
 

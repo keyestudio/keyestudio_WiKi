@@ -16,7 +16,7 @@
 
 [KS5011 Keyestudio ESP32 Learning Kit Complete Edition](/docs/esp32/KS5011(KS5011F).md)
  
-[KS5012 Keyestudio ESP32 Learning Kit Basic Edition](/docs/esp32/KS5012.md)
+[KS5012 Keyestudio ESP32 Learning Kit Basic Edition](http://ks5012-keyestudio-esp32-learning-kit-basic-edition.readthedocs.io/)
 
 
 
