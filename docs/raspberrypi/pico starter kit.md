@@ -11,4 +11,4 @@
 
 [KS3025 Keyestudio Raspberry Pi Pico Complete starter Kit](https://ks3025-keyestudio-raspberry-pi-pico-complete-learning-kit.readthedocs.io/en/latest/)
 
-[KS3026 Keyestudio Raspberry Pi Pico Basic starter Kit](/docs/raspberrypi/KS3026.md)
+[KS3026 Keyestudio Raspberry Pi Pico Basic starter Kit](https://ks3026-keyestudio-raspberry-pi-pico-basic-learning-kit.readthedocs.io/en/latest/)
