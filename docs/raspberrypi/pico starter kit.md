@@ -9,6 +9,6 @@
 
 [KS3024 Keyestudio Raspberry Pi Pico 42 in 1 Sensor Kit](/docs/raspberrypi/KS3024(KS3024F).md)
 
-[KS3025 Keyestudio Raspberry Pi Pico Complete starter Kit](/docs/raspberrypi/KS3025(KS3025F).md)
+[KS3025 Keyestudio Raspberry Pi Pico Complete starter Kit](https://ks3025-keyestudio-raspberry-pi-pico-complete-learning-kit.readthedocs.io/en/latest/)
 
 [KS3026 Keyestudio Raspberry Pi Pico Basic starter Kit](/docs/raspberrypi/KS3026.md)
