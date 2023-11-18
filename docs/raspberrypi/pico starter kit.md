@@ -1,7 +1,7 @@
 # Pico starter kit
 ---
 
-[KS3020 Keyestudio Raspberry Pi Pico Ultimate starter Kit](/docs/raspberrypi/KS3020.md)
+[KS3020 Keyestudio Raspberry Pi Pico Ultimate starter Kit](https://keyestudio-raspberry-pi-pico-ultimate-learning-kit.readthedocs.io/en/latest/)
 
 [KS3021 Keyestudio Raspberry Pi Pico 24 in 1 Sensor Kit](https://ks3021-keyestudio-raspberry-pi-pico-24-in-1-sensor-kit.readthedocs.io/en/latest/)
 
