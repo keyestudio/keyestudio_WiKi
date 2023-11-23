@@ -15,7 +15,7 @@
 
 * [KS5012 Keyestudio ESP32 Learning Kit Basic Edition](http://ks5012-keyestudio-esp32-learning-kit-basic-edition.readthedocs.io/)
 
-* [FKS0001 Keyestudio ESP32 Inventor Starter Kit](http://fks0001-keyestudio-esp32-core-board.readthedocs.io/)
+* [FKS0001 Keyestudio ESP32 Inventor Starter Kit](https://fks0001-keyestudio-esp32-inventor-starter-kit.readthedocs.io/en/latest/)
 
 
 
