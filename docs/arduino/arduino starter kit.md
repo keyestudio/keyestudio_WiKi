@@ -44,3 +44,4 @@
 
 [KS0549 Keyestudio DIY Electronic Watering Kit ](https://ks0549-keyestudio-dit-automatic-watering-device.readthedocs.io/en/latest/)
 
+[FKS0002 Keyestudio Nano Inventor Starter Kit](http://fks0002-keyestudio-nano.readthedocs.io/)

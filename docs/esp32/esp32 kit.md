@@ -1,9 +1,6 @@
 # **esp32 starter kit**
 ---
 
-* [FKS0001 Keyestudio ESP32 Core Board](http://fks0001-keyestudio-esp32-core-board.readthedocs.io/)
-* [FKS0002 Keyestudio Nano](http://fks0002-keyestudio-nano.readthedocs.io/)
-
 * [KS5003 KS5004 Keyestudio ESP32 42 in 1 Sensor Kit](http://ks5003-ks5004-keyestudio-esp32-42-in-1-sensor-kit.readthedocs.io/)
 
 * [KS5005 KS5006 Keyestudio ESP32 37 in 1 Sensor Kit](http://ks5005ks5006keyestudio-esp32-37-in-1-sensor-kit.readthedocs.io/)
@@ -18,7 +15,7 @@
 
 * [KS5012 Keyestudio ESP32 Learning Kit Basic Edition](http://ks5012-keyestudio-esp32-learning-kit-basic-edition.readthedocs.io/)
 
-
+* [FKS0001 Keyestudio ESP32 Inventor Starter Kit](http://fks0001-keyestudio-esp32-core-board.readthedocs.io/)
 
 
 
