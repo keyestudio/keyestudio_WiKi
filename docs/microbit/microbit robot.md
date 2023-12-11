@@ -9,6 +9,8 @@
  
 [KS4031 KS4032 Keyestudio 4WD Mecanum Robot Car for Micro:bit](https://ks4031-4032-4wd-mecanum-robot.readthedocs.io/en/latest/)
 
+[KS4034 Keyestudio micro bit 4WD Mecanum Robot Car Kit V2.0](http://ks4034-keyestudio-micro-bit-4wd-mecanum-robot-car-kit-v20.readthedocs.io/)
+
 [KS4036F Keyestudio Smart Robot Car for Micro:bit](http://ks4036f-keyestudio-microbit-smart-robot-car.readthedocs.io/)
 
 
