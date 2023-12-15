@@ -13,7 +13,7 @@
 
 [KS4036F Keyestudio Smart Robot Car for Micro:bit](http://ks4036f-keyestudio-microbit-smart-robot-car.readthedocs.io/)
 
-
+[KS4040 KS4041 Keyestudio Micro bit Desk Bit car](http://ks4040-ks4041-keyestudio-micro-bit-desk-bit-car.readthedocs.io/)
 
 
 
