@@ -36,7 +36,7 @@
 
 [KS0559 Keyestudio 4WD BT Multi-purpose Car V2.0](https://ks0559-keyestudio-4wd-bt-multi-purpose-car-v20.readthedocs.io/en/latest/)
 
-
+[KS0576 Keyestudio Smart Eco House Kit](http://ks0576-keyestudio-smart-eco-house-kit.readthedocs.io/)
 
 
 
