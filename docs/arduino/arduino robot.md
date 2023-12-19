@@ -28,9 +28,9 @@
 
 [KS0543 Keyestudio Beetlebot 3 in 1 Robot](https://ks0543-keyestudio-beetlebot-3-in-1-robot.readthedocs.io/en/latest/)
 
-[KS0551 Keyestudio 4WD Mecanum Robot for Arduino](https://ks0551-keyestudio-4wd-mecanum-robot-for-arduino.readthedocs.io/en/latest/)-->
+[KS0551 Keyestudio 4WD Mecanum Robot for Arduino](https://ks0551-keyestudio-4wd-mecanum-robot-for-arduino.readthedocs.io/en/latest/)
 
-[KS0552 Keyestudio Writing Machine for Arduino DIY](https://ks0552-keyestudio-writing-machine-for-arduino-diy.readthedocs.io/en/latest/)-->
+[KS0552 Keyestudio Writing Machine for Arduino DIY](https://ks0552-keyestudio-writing-machine-for-arduino-diy.readthedocs.io/en/latest/)
 
 [KS0555 Keyestudio Mini Caterpillar Tank Robot V3.0 (Popular Edition)](https://ks0555-keyestudio-mini-caterpillar-tank-robot.readthedocs.io/en/latest/)
 
