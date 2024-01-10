@@ -68,6 +68,15 @@
 
 
 
+# Software tutorial
+
+* [KidsBlock](https://kidsblocks.readthedocs.io/en/latest/)
+
+
+
+
+
+
 
 
 
