@@ -20,6 +20,8 @@
 project = 'keyestudio docs'
 copyright = 'keyestudio'
 author = 'keyestudio'
+copyright = 'Shenzhen keyestudio Technology Co., Ltd'
+
 
 # -- General configuration ---------------------------------------------------
 
