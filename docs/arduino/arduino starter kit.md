@@ -48,6 +48,8 @@
 
 [KS0575 Keyestudio 4x4x4 RGB Cube](http://ks0575-keyestudio-4x4x4-rgb-cube.readthedocs.io/)
 
+[KS0576 Keyestudio Smart Eco-Friendly House Kit](http://ks0576-keyestudio-smart-eco-friendly-house-kit.readthedocs.io/)
+
 [FKS0002 Keyestudio Nano Inventor Starter Kit](https://fks0002-keyestudio-nano-inventor-starter-kit.readthedocs.io/en/latest/)
 
 
