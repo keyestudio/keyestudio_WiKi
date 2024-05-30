@@ -1,7 +1,12 @@
 # Development board for Arduino
 ---
 
-* [Arduino STEM electronic building block](/docs/arduino/Mainboard/Arduino%20STEM/Arduino%20STEM%20electronic%20building%20block.md)
+
+
+* [KS0499 Keyestudio Mega 2560 Plus Board](https://docs.keyestudio.com/projects/KS0499/en/latest/)
+
+
+
 
 
 KS0001 Keyestudio UNO R3 Development Board
