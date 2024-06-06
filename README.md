@@ -73,15 +73,10 @@
 
 # Software tutorial
 
-* [KidsBlock](https://kidsblocks.readthedocs.io/en/latest/)
-* [Getting started with Arduino](http://getting-started-with-arduino.readthedocs.io/)
-
-
-
-
-
-
-
+* [KidsBlock](https://docs.keyestudio.com/projects/KidsBlock/en/latest/)
+* [Getting started with Arduino](https://docs.keyestudio.com/projects/Arduino/en/latest/)
+* [Getting-started-with-V4.0](https://getting-started-with-v40.readthedocs.io/en/latest/)
+* [Micro bit](https://docs.keyestudio.com/projects/Microbit/en/latest/)
 
 
 
