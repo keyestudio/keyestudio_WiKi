@@ -54,8 +54,6 @@
 * [FKS0002 Keyestudio Nano Inventor Starter Kit](https://docs.keyestudio.com/projects/FKS0002/en/latest/)
 
 
-* [KS0804 Keyestudio STEM Programming DIY Colorful Lamp](https://docs.keyestudio.com/projects/KS0804/en/latest/)
-
 
 
 
