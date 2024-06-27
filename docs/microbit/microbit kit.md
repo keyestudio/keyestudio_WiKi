@@ -28,6 +28,7 @@
 
 * [KS0801 Keyestudio STEM Programming DIY Button Piano Learning Kit](https://docs.keyestudio.com/projects/KS0801/en/latest/docs/)
 * [KS0804 Keyestudio STEM Programming DIY Colorful Lamp](https://docs.keyestudio.com/projects/KS0804/en/latest/)
+* [KS0805 STEM Programming DIY Distance Detection Robot Kit](https://docs.keyestudio.com/projects/KS0805/en/latest/)
 
 
 
