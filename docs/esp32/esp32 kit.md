@@ -21,6 +21,8 @@
 * [KS5018 Keyestudio ESP32 Easy Coding Board](https://docs.keyestudio.com/projects/KS5018/en/latest/)
 
 * [FKS0001 Keyestudio ESP32 Inventor Starter Kit](https://docs.keyestudio.com/projects/FKS0001/en/latest/)
+* [FKS0003 KEYESTUDIO Smart Robot Arm Kit with Joystick for ESP32](https://docs.keyestudio.com/projects/FKS0003/en/latest/)
+
 
 
 
