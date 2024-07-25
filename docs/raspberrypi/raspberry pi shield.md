@@ -23,6 +23,6 @@
 
 * [KS0219 keyestudio T-type GPIO Shield Kit for Raspberry pi]()
 
-* [KS0314 keyestudio ReSpeaker 2-Mic Pi HAT V1.0 for Raspberry pi]()
+* [KS0314 keyestudio ReSpeaker 2-Mic Pi HAT V1.0 for Raspberry pi](https://docs.keyestudio.com/projects/KS0314/en/latest/)
 
 * [KS3019 Motor Shield for Raspberry pi 4WD Smart Car]()
