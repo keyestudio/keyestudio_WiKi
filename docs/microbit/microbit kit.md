@@ -26,10 +26,6 @@
 * [KS4027 KS4028 keyestudio Smart Home Kit for micro bit](https://docs.keyestudio.com/projects/KS4027-KS4028/en/latest/)
 
 
-* [KS0801 Keyestudio STEM Programming DIY Button Piano Learning Kit](https://docs.keyestudio.com/projects/KS0801/en/latest/docs/)
-* [KS0804 Keyestudio STEM Programming DIY Colorful Lamp](https://docs.keyestudio.com/projects/KS0804/en/latest/)
-* [KS0805 STEM Programming DIY Distance Detection Robot Kit](https://docs.keyestudio.com/projects/KS0805/en/latest/)
-
 
 
 

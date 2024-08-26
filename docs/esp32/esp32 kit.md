@@ -22,12 +22,10 @@
 
 * [FKS0001 Keyestudio ESP32 Inventor Starter Kit](https://docs.keyestudio.com/projects/FKS0001/en/latest/)
 * [FKS0003 KEYESTUDIO Smart Robot Arm Kit with Joystick for ESP32](https://docs.keyestudio.com/projects/FKS0003/en/latest/)
-* [KS0802-Keyestudio-STEM-](https://docs.keyestudio.com/projects/KS0802/en/latest/)
-* [KS0803 Keyestudio STEM Programming DIY Mini Light Control Phonograph Kit](https://docs.keyestudio.com/projects/KS0803/en/latest/)
+
 * [Keyestudio-328-WIFI-PLUS-Main-Control-Board](https://docs.keyestudio.com/projects/KS5013/en/latest/)
 * [KS5017-Keyestudio-Vision-Smart-Car](https://docs.keyestudio.com/projects/KS5017/en/latest/)
 
-* [KS0806 STEM Programming DIY Ocarina Learning Kit](https://docs.keyestudio.com/projects/KS0806/en/latest/)
 
 
 
