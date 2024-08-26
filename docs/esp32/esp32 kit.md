@@ -27,7 +27,7 @@
 * [Keyestudio-328-WIFI-PLUS-Main-Control-Board](https://docs.keyestudio.com/projects/KS5013/en/latest/)
 * [KS5017-Keyestudio-Vision-Smart-Car](https://docs.keyestudio.com/projects/KS5017/en/latest/)
 
-
+* [KS0806 STEM Programming DIY Ocarina Learning Kit](https://docs.keyestudio.com/projects/KS0806/en/latest/)
 
 
 
