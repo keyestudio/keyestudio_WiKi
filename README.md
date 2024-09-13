@@ -87,7 +87,8 @@
 * [Getting started with Arduino](https://docs.keyestudio.com/projects/Arduino/en/latest/)
 * [Getting-started-with-V4.0](https://getting-started-with-v40.readthedocs.io/en/latest/)
 * [Micro bit](https://docs.keyestudio.com/projects/Microbit/en/latest/)
-
+* [UNO R4 Main Board](https://docs.keyestudio.com/projects/UNO-R4-Main-Board/en/latest/)
+* [UNO R4 Arduino IDE Tutorial](https://docs.keyestudio.com/projects/UNO-R4-Arduino-IDE-Tutorial/en/latest/)
 
 
 
