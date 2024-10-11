@@ -53,7 +53,7 @@
 
 * [FKS0002 Keyestudio Nano Inventor Starter Kit](https://docs.keyestudio.com/projects/FKS0002/en/latest/)
 
-
+* [KS0590 (KS0594) Keyestudio  Arduino UNO R4 Smart Living and Learning Kit](https://docs.keyestudio.com/projects/KS0590-KS0594/en/latest/)
 
 
 
