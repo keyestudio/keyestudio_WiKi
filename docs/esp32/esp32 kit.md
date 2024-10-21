@@ -28,6 +28,7 @@
 
 * [KS0808 Keyestudio STEM Programming DIY Excavator Learning Kit](https://docs.keyestudio.com/projects/KS0808/en/latest/)
 
+* [KS0809 Keyestudio STEM Programming DIY Greeting Robot Learning Kit](https://docs.keyestudio.com/projects/KS0809/en/latest/)
 
 
 
