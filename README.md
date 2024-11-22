@@ -78,7 +78,7 @@
 * [KS0804 Keyestudio STEM Programming DIY Colorful Lamp](https://docs.keyestudio.com/projects/KS0804/en/latest/)
 * [KS0805 STEM Programming DIY Distance Detection Robot Kit](https://docs.keyestudio.com/projects/KS0805/en/latest/)
 * [KS0806 STEM Programming DIY Ocarina Learning Kit](https://docs.keyestudio.com/projects/KS0806/en/latest/)
-
+* [KE0164 YX5200-24SS MP3](https://docs.keyestudio.com/projects/KE0164/en/latest/)
 
 
 # Software tutorial
