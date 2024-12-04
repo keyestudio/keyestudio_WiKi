@@ -25,7 +25,7 @@
 
 * [KS4027 KS4028 keyestudio Smart Home Kit for micro bit](https://docs.keyestudio.com/projects/KS4027-KS4028/en/latest/)
 
-* [KS4048 Keyestudio microbit V2 Smart home Kit](https://docs.keyestudio.com/projects/KS4048/en/latest/)
+* [KS4048 KS4049 Keyestudio microbit V2 Smart home Kit](https://docs.keyestudio.com/projects/KS4048-KS4049/en/latest/)
 
 
 
