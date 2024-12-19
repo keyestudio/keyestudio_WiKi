@@ -36,7 +36,7 @@
 <!-- [KS5018 Keyestudio ESP32 Easy Coding Board](https://docs.keyestudio.com/projects/KS5018/en/latest/) -->
 
 
-
+* [KS5020](https://docs.keyestudio.com/projects/KS5020/en/latest/)
 
 
 
