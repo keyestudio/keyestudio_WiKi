@@ -18,7 +18,7 @@
 
 | [starter kit](docs/microbit/microbit%20kit.md)| [robot car](docs/microbit/microbit%20robot.md)|
 |-----------------------------------------------|-----------------------------------------------|
-
+|||
 
 
 
@@ -28,7 +28,7 @@
 
 | [starter kit](docs/raspberrypi/raspberry%20pi%20kit.md)| [robot car](docs/raspberrypi/raspberry%20pi%20robot.md)|
 |--------------------------------------------------------|--------------------------------------------------------|
-
+|||
 
 
 
@@ -36,7 +36,7 @@
 
 | [starter kit](docs/raspberrypi/pico%20starter%20kit.md)| [robot car](docs/raspberrypi/pico%20robot.md)|
 |--------------------------------------------------------|----------------------------------------------|
-
+|||
 
 
 
@@ -44,7 +44,7 @@
 
 | [starter kit](docs/esp32/esp32%20kit.md)| [robot car](docs/esp32/esp32%20robot.md)|
 |-----------------------------------------|-----------------------------------------|
-
+|||
 
 
 
@@ -57,7 +57,7 @@
 
 | [starter kit](docs/easyplug/easy%20plug%20kit.md)| [robot car](docs/easyplug/easy%20plug%20robot.md)|
 |--------------------------------------------------------|--------------------------------------------------------|
-
+|||
 
 ---
 # Synthetical Suite
