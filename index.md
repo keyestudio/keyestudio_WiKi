@@ -1,18 +1,24 @@
+# keyestudio docs
 
-# <a href="https://docs.keyestudio.com/en/latest/docs/arduino/arduino.html" target="_blank">Arduino</a>
-
-
-# <a href="https://docs.keyestudio.com/en/latest/docs/microbit/microbit.html" target="_blank">Micro:bit</a>
-
-
-# <a href="https://docs.keyestudio.com/en/latest/docs/raspberrypi/raspberrypi.html" target="_blank">Raspberry pi</a>
-
-# <a href="https://docs.keyestudio.com/en/latest/docs/raspberrypi/pico.html" target="_blank">pico</a>
-
-# <a href="https://docs.keyestudio.com/en/latest/docs/esp32/esp32.html" target="_blank">ESP32</a>
+   README.md
+   docs/index.md
 
 
-# <a href="https://docs.keyestudio.com/en/latest/docs/easyplug/easyplug.html" target="_blank">Easy plug</a>
+## [Arduino](https://docs.keyestudio.com/en/latest/docs/arduino/arduino.html)
+
+
+## [https://docs.keyestudio.com/en/latest/docs/microbit/microbit.html](Micro:bit]
+
+
+## [https://docs.keyestudio.com/en/latest/docs/raspberrypi/raspberrypi.html](Raspberry pi]
+
+## [https://docs.keyestudio.com/en/latest/docs/raspberrypi/pico.html](pico]
+
+## [https://docs.keyestudio.com/en/latest/docs/esp32/esp32.html](ESP32]
+
+
+## [https://docs.keyestudio.com/en/latest/docs/easyplug/easyplug.html](Easy plug]
+
 
 
 # Synthetical Suite
@@ -34,35 +40,6 @@
 * [Micro bit](https://docs.keyestudio.com/projects/Microbit/en/latest/)
 * [UNO R4 Main Board](https://docs.keyestudio.com/projects/UNO-R4-Main-Board/en/latest/)
 * [UNO R4 Arduino IDE Tutorial](https://docs.keyestudio.com/projects/UNO-R4-Arduino-IDE-Tutorial/en/latest/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
