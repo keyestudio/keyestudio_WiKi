@@ -51,6 +51,8 @@
 
 * [starter kit](https://docs.keyestudio.com/en/latest/docs/easyplug/easy%20plug%20kit.html)
 * [robot car](https://docs.keyestudio.com/en/latest/docs/easyplug/easy%20plug%20robot.html)
+* [robot car](https://docs.keyestudio.com/en/latest/docs/easyplug/easy%20plug%20robot.html)
+* [robot car](https://docs.keyestudio.com/en/latest/docs/easyplug/easy%20plug%20robot.html)
 
 
 
