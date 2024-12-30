@@ -1,7 +1,7 @@
 # Arduino
 
 
-| [starter kit](docs/arduino/arduino%20starter%20kit.md)| [robot car](docs/arduino/arduino%20robot.md)| [arduino board](docs/arduino/arduino%20board.md)|
+| [starter kit    ](docs/arduino/arduino%20starter%20kit.md)| [robot car](docs/arduino/arduino%20robot.md)| [arduino board](docs/arduino/arduino%20board.md)|
 |-------------------------------------------------------|---------------------------------------------|-------------------------------------------------|
 |||
 
