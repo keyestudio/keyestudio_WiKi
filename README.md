@@ -1,6 +1,6 @@
 # Arduino
 
-## starter kit
+## Starter kit
 
 * [KS0070 Keyestudio Basic Breadboard kit For Arduino](https://docs.keyestudio.com/projects/KS0070/en/latest/)
 
@@ -57,7 +57,7 @@
 * [KS0590 (KS0594) Keyestudio  Arduino UNO R4 Smart Living and Learning Kit](https://docs.keyestudio.com/projects/KS0590-KS0594/en/latest/)
 
 
-## robot car
+## Robot car
 
 * [KS0193 keyestudio Self-balancing Car Kit For Arduino](https://docs.keyestudio.com/projects/KS0193/en/latest/)
 
@@ -97,7 +97,7 @@
 
 
 
-## arduino board
+## Arduino board
 
 * [KS0499 Keyestudio Mega 2560 Plus Board](https://docs.keyestudio.com/projects/KS0499/en/latest/)
 
@@ -108,7 +108,7 @@
 ---
 # Micro:bit
 
-## starter kit
+## Starter kit
 
 * [KS0305 keyestudio Basic Starter Kit for micro bit](https://docs.keyestudio.com/projects/KS0305/en/latest/)
 
@@ -144,7 +144,7 @@
 
 
 
-## robot car
+## Robot car
 
 * [KS0426 KS4019 keyestudio Mini Smart Robot Car Kit V2 for micro bit](https://docs.keyestudio.com/projects/KS0426/en/latest/)
 
@@ -166,7 +166,7 @@
 ---
 # Raspberry pi 4B 3B+
 
-## starter kit
+## Starter kit
 
 
 * [KS3013 keyestudio Basic Starter Kit for Raspberry Pi 4B 3B+](https://docs.keyestudio.com/projects/KS3013/en/latest/)
@@ -185,7 +185,7 @@
 
 
 
-## robot car
+## Robot car
 
 
 * [KS0223 Keyestudio Smart Car Kit for Raspberry Pi](https://docs.keyestudio.com/projects/KS0223/en/latest/)
@@ -199,7 +199,7 @@
 ---
 # Raspberry pi pico
 
-## starter kit
+## Starter kit
 
 * [KS3020 Keyestudio Raspberry Pi Pico Ultimate starter Kit](https://docs.keyestudio.com/projects/KS3020/en/latest/)
 
@@ -218,7 +218,7 @@
 
 
 
-## robot car
+## Robot car
 
 
 * [KS3027 Keyestudio Beetlebot 3 in 1 Robot for Raspberry Pi PICO](https://docs.keyestudio.com/projects/KS3027/en/latest/)
@@ -236,7 +236,7 @@
 ---
 # Easy plug
 
-## starter kit
+## Starter kit
 
 
 * [KS0158 Keyestudio EASY Plug Starter Kit for Arduino](https://docs.keyestudio.com/projects/KS0158/en/latest/)
@@ -246,7 +246,7 @@
 
 
 
-## robot car
+## Robot car
 
 
 * [KS0353 keyestudio easy plug KEYBOT Coding Education Robot for Arduino STEM](https://docs.keyestudio.com/projects/KS0353/en/latest/)
