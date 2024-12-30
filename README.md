@@ -49,9 +49,17 @@
 ---
 # Easy plug 
 
-
 * [starter kit](docs/easyplug/easy%20plug%20kit.md)
 * [robot car](docs/easyplug/easy%20plug%20robot.md)
+
+---
+---
+---
+
+* [starter kit](https://docs.keyestudio.com/en/latest/docs/easyplug/easy%20plug%20kit.md)
+* [robot car](https://docs.keyestudio.com/en/latest/docs/easyplug/easy%20plug%20robot.md)
+
+
 
 ---
 # Synthetical Suite
