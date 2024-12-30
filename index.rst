@@ -3,7 +3,7 @@
    :maxdepth: 5
    :caption: keyestudio docs
 
-   README.md
+README.md
    docs/index.md
 
 
