@@ -1,19 +1,19 @@
 # keyestudio docs
 
-## [Arduino](https://docs.keyestudio.com/en/latest/docs/arduino/arduino.html)
+## [Arduino](https://docs.keyestudio.com/en/latest/docs/arduino/arduino.md)
 
 
-## [https://docs.keyestudio.com/en/latest/docs/microbit/microbit.html](Micro:bit)
+## [Micro:bit](https://docs.keyestudio.com/en/latest/docs/microbit/microbit.html)
 
 
-## [https://docs.keyestudio.com/en/latest/docs/raspberrypi/raspberrypi.html](Raspberry pi)
+## [Raspberry pi](https://docs.keyestudio.com/en/latest/docs/raspberrypi/raspberrypi.html)
 
-## [https://docs.keyestudio.com/en/latest/docs/raspberrypi/pico.html](pico)
+## [pico](https://docs.keyestudio.com/en/latest/docs/raspberrypi/pico.html)
 
-## [https://docs.keyestudio.com/en/latest/docs/esp32/esp32.html](ESP32)
+## [ESP32](https://docs.keyestudio.com/en/latest/docs/esp32/esp32.html)
 
 
-## [https://docs.keyestudio.com/en/latest/docs/easyplug/easyplug.html](Easy plug)
+## [Easy plug](https://docs.keyestudio.com/en/latest/docs/easyplug/easyplug.html)
 
 
 
