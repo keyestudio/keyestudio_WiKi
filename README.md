@@ -4,7 +4,7 @@
 |-------------------------------------------------------|---------------------------------------------|-------------------------------------------------|
 | [starter kit](docs/arduino/arduino%20starter%20kit.md)| [robot car](docs/arduino/arduino%20robot.md)| [arduino board](docs/arduino/arduino%20board.md)|
 
-
+---
 # Micro:bit
 
 
@@ -16,7 +16,7 @@
 
 
 
-
+---
 # Raspberry pi 4B 3B+
 
 |#############|#############|
@@ -26,7 +26,7 @@
 
 
 
-
+---
 # Raspberry pi pico
 
 |/////////////|/////////////|
@@ -34,7 +34,7 @@
 | [starter kit](docs/raspberrypi/pico%20starter%20kit.md)| [robot car](docs/raspberrypi/pico%20robot.md)|
 
 
-
+---
 # ESP32 
 
 |*************|*************|
