@@ -5,15 +5,5 @@
 
    README.md
    docs/index.md
-
-
-a exmall.c 
-
-`website`_
-
-.. _website: https://keyestudio.com
-
-
-
-
+   docs/arduino
 
