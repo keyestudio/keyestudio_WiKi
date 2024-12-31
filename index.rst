@@ -5,5 +5,5 @@
 
    README.md
    docs/index.md
-   docs/arduino
+   docs/arduino/arduino
 
