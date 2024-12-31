@@ -3,16 +3,14 @@
    :maxdepth: 5
    :caption: keyestudio docs
 
-README.md
+   README.md
    docs/index.md
 
 
+a exmall.c 
 
-.. toctree::
-    :maxdepth: 2
 
-    docs/arduino/arduino
-
+.. _A cool website: https://keyestudio.com
 
 
 
