@@ -10,7 +10,7 @@
 a exmall.c 
 
 
-.. _A cool website: https://keyestudio.com
+.. _website: https://keyestudio.com
 
 
 
