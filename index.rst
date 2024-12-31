@@ -5,5 +5,5 @@
 
    README.md
    docs/index.md
-   docs/arduino/arduino
+   docs/arduino/arduino2222
 
