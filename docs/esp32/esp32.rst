@@ -83,9 +83,9 @@ Shield
 .. _KS0465 keyestudio ESP32-IO Shield (Black and Eco-friendly): https://docs.keyestudio.com/projects/KS0465/en/latest/
 
 
+* `KS5019-keyestudio ESP32 development board Type-C USB port`_
 
-
-
+`` _KS5019-keyestudio ESP32 development board Type-C USB port: https://docs.keyestudio.com/projects/KS5019/en/latest/
 
 
 
