@@ -3,7 +3,7 @@ Easyplug
 ========
 
 
-EASY plug kit for Arduino
+EASY plug kit
 =========================
 
 
@@ -19,7 +19,7 @@ EASY plug kit for Arduino
 
 
 
-EASY plug robot for Arduino
+EASY plug robot
 ===========================
 
 * `KS0353 keyestudio easy plug KEYBOT Coding Education Robot for Arduino STEM`_

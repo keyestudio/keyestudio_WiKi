@@ -3,7 +3,7 @@ Arduino
 =======
 
 
-Development board for Arduino
+Development board
 ==============================
 
 
@@ -21,7 +21,7 @@ Development board for Arduino
 
 
 
-Robot car kit for Arduino
+Robot car kit
 =========================
 
 * `KS0193 keyestudio Self-balancing Car Kit For Arduino`_
@@ -98,28 +98,7 @@ Robot car kit for Arduino
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Starter kit for Arduino
+Starter kit
 =======================
 
 

@@ -2,7 +2,7 @@
 Raspberry Pi
 ============
 
-Raspberry Pi starter kit
+Starter kit
 =========================
 
 * `KS3013 keyestudio Basic Starter Kit for Raspberry Pi 4B 3B+`_
@@ -28,7 +28,7 @@ Raspberry Pi starter kit
 
 
 
-Raspberry Pi robot kit
+Robot kit
 =======================
 
 * `KS0223 Keyestudio Smart Car Kit for Raspberry Pi`_
