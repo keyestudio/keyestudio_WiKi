@@ -55,9 +55,9 @@ Robot car kit for Arduino
 
 .. _KS0488X Keyestudio 4DF Metallic Robot Arm Kit V2.0: https://docs.keyestudio.com/projects/KS0488/en/latest/
 
-`KS0507 Keyestudio Smart RV Robot Starter Kit `_
+`KS0507 Keyestudio Smart RV Robot Starter Kit`_
 
-.. _KS0507 Keyestudio Smart RV Robot Starter Kit : https://docs.keyestudio.com/projects/KS0507/en/latest/
+.. _KS0507 Keyestudio Smart RV Robot Starter Kit: https://docs.keyestudio.com/projects/KS0507/en/latest/
 
 `KS0520 Keyestudio 4DOF Mechanical Arm Robot Car Starter Kit`_
 
@@ -202,9 +202,9 @@ Starter kit for Arduino
 
 .. _KS0540 KS0541 Keyestudio 2021 Basic Starter Kit for Arduino: https://docs.keyestudio.com/projects/KS0540-KS0541/en/latest/
 
-`KS0549 Keyestudio DIY Electronic Watering Kit `_
+`KS0549 Keyestudio DIY Electronic Watering Kit`_
 
-.. _KS0549 Keyestudio DIY Electronic Watering Kit : https://docs.keyestudio.com/projects/KS0549/en/latest/
+.. _KS0549 Keyestudio DIY Electronic Watering Kit: https://docs.keyestudio.com/projects/KS0549/en/latest/
 
 `KS0564 Motion Sensing Glove Gesture Control Smart Car`_
 

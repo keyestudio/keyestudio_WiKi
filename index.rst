@@ -3,7 +3,7 @@
    :maxdepth: 5
    :caption: keyestudio docs
 
-   README.md
+   README.mdX
    docs/index.md
-   docs/arduino/arduino2222
+   docs/arduino/arduino
 
