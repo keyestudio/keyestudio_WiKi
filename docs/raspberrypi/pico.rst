@@ -1,5 +1,10 @@
-# Pico starter kit
----
+====
+Pico
+====
+
+
+Pico starter kit
+================
 
 * `KS3020 Keyestudio Raspberry Pi Pico Ultimate starter Kit`
 
@@ -26,16 +31,10 @@
 .. _KS3026 Keyestudio Raspberry Pi Pico Basic starter Kit: https://docs.keyestudio.com/projects/KS3026/en/latest/
 
 
+==============
+Pico robot kit
+==============
 
-
-
-
-
-
-
-
-# Pico robot kit
----
 
 * `KS3027 Keyestudio Beetlebot 3 in 1 Robot for Raspberry Pi PICO`
 
