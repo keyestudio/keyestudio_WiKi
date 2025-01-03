@@ -3,7 +3,7 @@ Pico
 ====
 
 
-Pico starter kit
+Starter kit
 ================
 
 * `KS3020 Keyestudio Raspberry Pi Pico Ultimate starter Kit`_
@@ -32,7 +32,7 @@ Pico starter kit
 
 
 
-Pico robot kit
+Robot kit
 ==============
 
 

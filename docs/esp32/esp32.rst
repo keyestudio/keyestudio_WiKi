@@ -3,7 +3,7 @@ Esp32
 =====
 
 
-esp32 starter kit
+Starter kit
 =================
 
 
@@ -71,7 +71,7 @@ esp32 starter kit
 
 
 
-esp32 shield
+Shield
 ============
 
 * `KS0413 Keyestudio ESP32 Core Board (Black and Eco-friendly)`_
