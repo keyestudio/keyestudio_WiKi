@@ -31,7 +31,7 @@ Pico starter kit
 .. _KS3026 Keyestudio Raspberry Pi Pico Basic starter Kit: https://docs.keyestudio.com/projects/KS3026/en/latest/
 
 
-==============
+
 Pico robot kit
 ==============
 

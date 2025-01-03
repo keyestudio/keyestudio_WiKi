@@ -52,6 +52,7 @@ Micro bit Starter kit
 * `KS4027 KS4028 keyestudio Smart Home Kit for micro bit`_
 
 .. _KS4027 KS4028 keyestudio Smart Home Kit for micro bit: https://docs.keyestudio.com/projects/KS4027-KS4028/en/latest/
+
 * `KS4048 KS4049 Keyestudio microbit V2 Smart home Kit`_
 
 .. _KS4048 KS4049 Keyestudio microbit V2 Smart home Kit: https://docs.keyestudio.com/projects/KS4048-KS4049/en/latest/
@@ -59,10 +60,13 @@ Micro bit Starter kit
 * `KS0807 Keyestudio STEM Programming DIY Stone Thrower Learning Kit`_
 
 .. _KS0807 Keyestudio STEM Programming DIY Stone Thrower Learning Kit: https://docs.keyestudio.com/projects/KS0807/en/latest/
+
 * `KS0808 Keyestudio STEM Programming DIY Excavator Learning Kit`_
+
 .. _KS0808 Keyestudio STEM Programming DIY Excavator Learning Kit: https://docs.keyestudio.com/projects/KS0808/en/latest/
 
 * `KS0809 Keyestudio STEM Programming DIY Greeting Robot Learning Kit`_
+
 .. _KS0809 Keyestudio STEM Programming DIY Greeting Robot Learning Kit: https://docs.keyestudio.com/projects/KS0809/en/latest/
 
 

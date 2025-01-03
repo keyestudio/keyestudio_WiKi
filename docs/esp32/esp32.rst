@@ -43,6 +43,7 @@ esp32 starter kit
 * `FKS0001 Keyestudio ESP32 Inventor Starter Kit`_
 
 .. _FKS0001 Keyestudio ESP32 Inventor Starter Kit: https://docs.keyestudio.com/projects/FKS0001/en/latest/
+
 * `FKS0003 KEYESTUDIO Smart Robot Arm Kit with Joystick for ESP32`_
 
 .. _FKS0003 KEYESTUDIO Smart Robot Arm Kit with Joystick for ESP32: https://docs.keyestudio.com/projects/FKS0003/en/latest/
@@ -50,6 +51,7 @@ esp32 starter kit
 * `Keyestudio-328-WIFI-PLUS-Main-Control-Board`_
 
 .. _Keyestudio-328-WIFI-PLUS-Main-Control-Board: https://docs.keyestudio.com/projects/KS5013/en/latest/
+
 * `KS5017-Keyestudio-Vision-Smart-Car`_
 
 .. _KS5017-Keyestudio-Vision-Smart-Car: https://docs.keyestudio.com/projects/KS5017/en/latest/
@@ -57,6 +59,7 @@ esp32 starter kit
 * `KS5023 Keyestudio ESP32-CAM 2WD Monitoring Car`_
 
 .. _KS5023 Keyestudio ESP32-CAM 2WD Monitoring Car: https://docs.keyestudio.com/projects/KS5023/en/latest/
+
 * `KS5024 Keyestudio ESP32-CAM 4WD Monitoring Car`_
 
 .. _KS5024 Keyestudio ESP32-CAM 4WD Monitoring Car: https://docs.keyestudio.com/projects/KS5024/en/latest/
@@ -74,12 +77,10 @@ esp32 shield
 * `KS0413 Keyestudio ESP32 Core Board (Black and Eco-friendly)`_
 
 .. _KS0413 Keyestudio ESP32 Core Board (Black and Eco-friendly): https://docs.keyestudio.com/projects/KS0413/en/latest/
- 
+
 * `KS0465 keyestudio ESP32-IO Shield (Black and Eco-friendly)`_
 
 .. _KS0465 keyestudio ESP32-IO Shield (Black and Eco-friendly): https://docs.keyestudio.com/projects/KS0465/en/latest/
- 
-* ![KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module](https://docs.keyestudio.com/projects/KS5001/en/latest/)
 
 
 
