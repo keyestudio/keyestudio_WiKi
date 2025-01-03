@@ -1,8 +1,9 @@
+=========
+Micro bit
+=========
 
-
-
-# Micro bit Starter kit
----
+Micro bit Starter kit
+=====================
 
 * `KS0305 keyestudio Basic Starter Kit for micro bit`
 
@@ -59,36 +60,14 @@
 
 .. _KS0807 Keyestudio STEM Programming DIY Stone Thrower Learning Kit: https://docs.keyestudio.com/projects/KS0807/en/latest/
 * `KS0808 Keyestudio STEM Programming DIY Excavator Learning Kit`
-
 .. _KS0808 Keyestudio STEM Programming DIY Excavator Learning Kit: https://docs.keyestudio.com/projects/KS0808/en/latest/
-* `KS0809 Keyestudio STEM Programming DIY Greeting Robot Learning Kit`
 
+* `KS0809 Keyestudio STEM Programming DIY Greeting Robot Learning Kit`
 .. _KS0809 Keyestudio STEM Programming DIY Greeting Robot Learning Kit: https://docs.keyestudio.com/projects/KS0809/en/latest/
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Micro bit Robot kit
----
+Micro bit Robot kit
+===================
 
 * `KS0426 KS4019 keyestudio Mini Smart Robot Car Kit V2 for micro bit`
 
