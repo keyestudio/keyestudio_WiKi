@@ -1,5 +1,5 @@
 ========
-easyplug
+Easyplug
 ========
 
 
