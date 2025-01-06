@@ -7,13 +7,19 @@ EASY plug kit
 =========================
 
 
-* `KS0158 Keyestudio EASY Plug Starter Kit for Arduino`_
+* |KS0158 Keyestudio EASY Plug Starter Kit for Arduino|
 
-.. _KS0158 Keyestudio EASY Plug Starter Kit for Arduino: https://docs.keyestudio.com/projects/KS0158/en/latest/
+.. |KS0158 Keyestudio EASY Plug Starter Kit for Arduino| raw:: html
 
-* `KS0398 keyestudio EASY plug Ultimate Starter Kit for Arduino STEM EDU`_
+  <a href="https://docs.keyestudio.com/projects/KS0158/en/latest/" target="_blank">KS0158 Keyestudio EASY Plug Starter Kit for Arduino</a>
 
-.. _KS0398 keyestudio EASY plug Ultimate Starter Kit for Arduino STEM EDU: https://docs.keyestudio.com/projects/KS0398/en/latest/
+
+* |KS0398 keyestudio EASY plug Ultimate Starter Kit for Arduino STEM EDU|
+
+.. |KS0398 keyestudio EASY plug Ultimate Starter Kit for Arduino STEM EDU| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0398/en/latest/" target="_blank">KS0398 keyestudio EASY plug Ultimate Starter Kit for Arduino STEM EDU</a>
+
 
 
 
@@ -22,9 +28,12 @@ EASY plug kit
 EASY plug robot
 ===========================
 
-* `KS0353 keyestudio easy plug KEYBOT Coding Education Robot for Arduino STEM`_
+* |KS0353 keyestudio easy plug KEYBOT Coding Education Robot for Arduino STEM|
 
-.. _KS0353 keyestudio easy plug KEYBOT Coding Education Robot for Arduino STEM: https://docs.keyestudio.com/projects/KS0353/en/latest/
+.. |KS0353 keyestudio easy plug KEYBOT Coding Education Robot for Arduino STEM| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0353/en/latest/" target="_blank">KS0353 keyestudio easy plug KEYBOT Coding Education Robot for Arduino STEM</a>
+
 
 
 
