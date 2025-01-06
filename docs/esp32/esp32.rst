@@ -85,7 +85,7 @@ Shield
 
 * `KS5019-keyestudio ESP32 development board Type-C USB port`_
 
-`` _KS5019-keyestudio ESP32 development board Type-C USB port: https://docs.keyestudio.com/projects/KS5019/en/latest/
+.. _KS5019-keyestudio ESP32 development board Type-C USB port: https://docs.keyestudio.com/projects/KS5019/en/latest/
 
 
 
