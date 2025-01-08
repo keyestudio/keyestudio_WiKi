@@ -29,7 +29,7 @@ KS0112 Keyestudio EASY plug White LED Module
 
 KS0113 Keyestudio EASY plug White LED Module
 
-[KS0114 Keyestudio EASY plug White LED Module](/docs/keyestudio/KS0100.md)
+KS0114 Keyestudio EASY plug White LED Module
 
 KS0114 Keyestudio EASY plug White LED Module
 

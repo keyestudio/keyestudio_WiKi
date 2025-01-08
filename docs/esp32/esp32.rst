@@ -92,6 +92,13 @@ Starter kit
   <a href="https://docs.keyestudio.com/projects/KS5017/en/latest/" target="_blank">KS5017-Keyestudio-Vision-Smart-Car</a>
 
 
+* |KS5002 Keyestudio Beetlebot 3 in 1 Robot for ESP32|
+
+.. |KS5002 Keyestudio Beetlebot 3 in 1 Robot for ESP32| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5002/en/latest/" target="_blank">KS5002 Keyestudio Beetlebot 3 in 1 Robot for ESP32</a>
+
+
 * |KS5023 Keyestudio ESP32-CAM 2WD Monitoring Car|
 
 .. |KS5023 Keyestudio ESP32-CAM 2WD Monitoring Car| raw:: html
