@@ -149,6 +149,13 @@ Shield
 
 
 
+* |KS5016 Keyestudio ESP32 PLUS|
+
+.. |KS5016 Keyestudio ESP32 PLUS| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5016/en/latest/" target="_blank">KS5016 Keyestudio ESP32 PLUS</a>
+
+
 
 
 
