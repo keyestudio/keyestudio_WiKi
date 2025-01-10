@@ -3,7 +3,7 @@
    :maxdepth: 5
    :caption: keyestudio docs
 
-   README.mdX
+   README
    docs/index.md
    docs/arduino/arduino
    docs/easyplug/easyplug

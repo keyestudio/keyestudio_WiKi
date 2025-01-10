@@ -1,20 +1,4 @@
 
-# <a href="https://docs.keyestudio.com/en/latest/docs/arduino/arduinomd.html" target="_blank">Ardui343434no</a>
-
-
-# <a href="https://docs.keyestudio.com/en/latest/docs/microbit/microbit.html" target="_blank">Micro:bit</a>
-
-
-# <a href="https://docs.keyestudio.com/en/latest/docs/raspberrypi/raspberrypi.html" target="_blank">Raspberry pi</a>
-
-# <a href="https://docs.keyestudio.com/en/latest/docs/raspberrypi/pico.html" target="_blank">pico</a>
-
-# <a href="https://docs.keyestudio.com/en/latest/docs/esp32/esp32.html" target="_blank">ESP32</a>
-
-
-# <a href="https://docs.keyestudio.com/en/latest/docs/easyplug/easyplug.html" target="_blank">Easy plug</a>
-
-
 # Synthetical Suite
 
 * [KS0801 Keyestudio STEM Programming DIY Button Piano Learning Kit](https://docs.keyestudio.com/projects/KS0801/en/latest/docs/)
