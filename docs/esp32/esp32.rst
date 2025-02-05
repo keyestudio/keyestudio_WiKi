@@ -113,11 +113,11 @@ Starter kit
   <a href="https://docs.keyestudio.com/projects/KS5024/en/latest/" target="_blank">KS5024 Keyestudio ESP32-CAM 4WD Monitoring Car</a>
 
 
-* |KS5020|
+* |KS5020 Keyestudio IOT Learning Kit for ESP32|
 
-.. |KS5020| raw:: html
+.. |KS5020 Keyestudio IOT Learning Kit for ESP32| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS5020/en/latest/" target="_blank">KS5020</a>
+  <a href="https://docs.keyestudio.com/projects/KS5020/en/latest/" target="_blank">KS5020 Keyestudio IOT Learning Kit for ESP32</a>
 
 
 
