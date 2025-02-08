@@ -3,6 +3,22 @@ Arduino
 =======
 
 
+
+Modules
+==============================
+
+
+* |KS6082 keyestudio 2021 Atomization Module|
+
+.. |KS6082 keyestudio 2021 Atomization Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6082/en/latest/" target="_blank">KS6082 keyestudio 2021 Atomization Module</a>
+
+
+
+
+
+
 Development board
 ==============================
 

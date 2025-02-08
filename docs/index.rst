@@ -53,6 +53,12 @@ Synthetical Suite
   <a href="https://docs.keyestudio.com/projects/KE0164/en/latest/" target="_blank">KE0164 YX5200-24SS MP3  </a>
 
 
+* |OR0356 Keyes Hall Water Flow Sensor|
+
+.. |OR0356 Keyes Hall Water Flow Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/OR0356/en/latest/" target="_blank">OR0356 Keyes Hall Water Flow Sensor</a>
+
 
 
 Software tutorial
