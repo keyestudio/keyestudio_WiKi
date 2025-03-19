@@ -7,6 +7,7 @@
    docs/arduino/arduino
    docs/easyplug/easyplug
    docs/esp32/esp32
+   docs/foxbit/foxbit
    docs/microbit/microbit
    docs/raspberrypi/raspberrypi
    docs/raspberrypi/pico
