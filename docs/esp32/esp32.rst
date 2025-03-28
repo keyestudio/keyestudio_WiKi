@@ -121,6 +121,12 @@ Starter kit
 
 
 
+* |KT0303 IOT Electronic Engineering Learning Kit for ESP-32|
+
+.. |KT0303 IOT Electronic Engineering Learning Kit for ESP-32| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KT0303/en/latest/" target="_blank">KT0303 IOT Electronic Engineering Learning Kit for ESP-32</a>
+
 
 
 Shield
