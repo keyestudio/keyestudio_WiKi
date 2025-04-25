@@ -86,11 +86,11 @@ Starter kit
 Robot kit
 ==========
 
-* |FKS0003 KEYESTUDIO Smart Robot Arm Kit with Joystick for ESP32|
+* |FKS0003 Keyestudio Smart Robot Arm Kit with Joystick for ESP32|
 
-.. |FKS0003 KEYESTUDIO Smart Robot Arm Kit with Joystick for ESP32| raw:: html
+.. |FKS0003 Keyestudio Smart Robot Arm Kit with Joystick for ESP32| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/FKS0003/en/latest/" target="_blank">FKS0003 KEYESTUDIO Smart Robot Arm Kit with Joystick for ESP32</a>
+  <a href="https://docs.keyestudio.com/projects/FKS0003/en/latest/" target="_blank">FKS0003 Keyestudio Smart Robot Arm Kit with Joystick for ESP32</a>
 
 
 * |KS5002 Keyestudio Beetlebot 3 in 1 Robot for ESP32|
