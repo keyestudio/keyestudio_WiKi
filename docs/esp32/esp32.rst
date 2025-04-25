@@ -94,11 +94,11 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/ESP32S3_128X64/en/latest/" target="_blank">KS5026 Xiao Zhi AI Chatbot Breadboard DIY Kit with 128x64 OLED Screen</a>
 
-* |# KS5027 Xiao Zhi AI Chatbot Breadboard DIY Kit with 1.54-Inch Display Screen|
+* |KS5027 Xiao Zhi AI Chatbot Breadboard DIY Kit with 1.54-Inch Display Screen|
 
-.. |# KS5027 Xiao Zhi AI Chatbot Breadboard DIY Kit with 1.54-Inch Display Screen| raw:: html
+.. |KS5027 Xiao Zhi AI Chatbot Breadboard DIY Kit with 1.54-Inch Display Screen| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/ESP32S3_LCD154/en/latest/" target="_blank"># KS5027 Xiao Zhi AI Chatbot Breadboard DIY Kit with 1.54-Inch Display Screen</a>
+  <a href="https://docs.keyestudio.com/projects/ESP32S3_LCD154/en/latest/" target="_blank">KS5027 Xiao Zhi AI Chatbot Breadboard DIY Kit with 1.54-Inch Display Screen</a>
 
 
 
