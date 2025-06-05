@@ -372,6 +372,16 @@ Starter kit
 
 
 
+Shield
+=======
+
+* |KS0155 Keyestudio USB Host Shield for Arduino|
+
+.. |KS0155 Keyestudio USB Host Shield for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0155/en/latest/" target="_blank">KS0155 Keyestudio USB Host Shield for Arduino</a>
+
+
 
 
 
