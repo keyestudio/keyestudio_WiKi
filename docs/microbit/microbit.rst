@@ -2,6 +2,19 @@
 Micro bit
 =========
 
+Micro bit Shield
+================
+
+* |KS4012 Keyestudio Micro bit Expansion Board with IO Ports|
+
+.. |KS4012 Keyestudio Micro bit Expansion Board with IO Ports| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4012/en/latest" target="_blank">KS4012 Keyestudio Micro bit Expansion Board with IO Ports</a>
+
+
+
+
+
 Starter kit
 =====================
 
