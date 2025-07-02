@@ -45,4 +45,3 @@ KS4018 Keyestudio Micro:bit TB6612 Motor Driver Shield
 
 KS4029 Keyestudio Micro bit IO Ports shield with BBC Micro:Bit
 
-KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield

@@ -11,6 +11,11 @@ Micro bit Shield
 
   <a href="https://docs.keyestudio.com/projects/KS4012/en/latest" target="_blank">KS4012 Keyestudio Micro bit Expansion Board with IO Ports</a>
 
+* |KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield|
+
+.. |KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4033/en/latest/" target="_blank">KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield</a>
 
 
 
