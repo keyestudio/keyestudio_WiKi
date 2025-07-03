@@ -7,12 +7,25 @@ Arduino
 Modules
 ==============================
 
-
 * |KS6082 keyestudio 2021 Atomization Module|
 
 .. |KS6082 keyestudio 2021 Atomization Module| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS6082/en/latest/" target="_blank">KS6082 keyestudio 2021 Atomization Module</a>
+
+* |KS6085 keyestudio I2S Audio Power Amplifier Module|
+
+.. |KS6085 keyestudio I2S Audio Power Amplifier Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6085/en/latest/" target="_blank">KS6085 keyestudio I2S Audio Power Amplifier Module</a>
+
+* |KS6086 keyestudio MES Microphone Module|
+
+.. |KS6086 keyestudio MES Microphone Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6086/en/latest/" target="_blank">KS6086 keyestudio MES Microphone Module</a>
+
+
 
 
 
