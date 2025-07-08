@@ -25,16 +25,6 @@ Modules
 
   <a href="https://docs.keyestudio.com/projects/KS6086/en/latest/" target="_blank">KS6086 keyestudio MES Microphone Module</a>
 
-* |FB0005 foxbit Camera (Black and eco-friendly)|
-
-.. |FB0005 foxbit Camera (Black and eco-friendly)| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/FB0005/en/latest/" target="_blank">FB0005 foxbit Camera (Black and eco-friendly)</a>
-
-
-
-
-
 
 
 
