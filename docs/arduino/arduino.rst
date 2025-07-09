@@ -13,6 +13,12 @@ Modules
 
   <a href="https://docs.keyestudio.com/projects/KS6082/en/latest/" target="_blank">KS6082 keyestudio 2021 Atomization Module</a>
 
+* |KS6084 keyestudio DIY Electronic Building Blocks SU03 Xiaozhi English Voice Module|
+
+.. |KS6084 keyestudio DIY Electronic Building Blocks SU03 Xiaozhi English Voice Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6084/en/latest/" target="_blank">KS6084 keyestudio DIY Electronic Building Blocks SU03 Xiaozhi English Voice Module</a>
+
 * |KS6085 keyestudio I2S Audio Power Amplifier Module|
 
 .. |KS6085 keyestudio I2S Audio Power Amplifier Module| raw:: html
