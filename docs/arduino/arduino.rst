@@ -31,6 +31,14 @@ Modules
 
   <a href="https://docs.keyestudio.com/projects/KS6086/en/latest/" target="_blank">KS6086 keyestudio MES Microphone Module</a>
 
+* |MD0798|
+
+.. |MD0798| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/MD0798/en/latest/" target="_blank">MD0798</a>
+
+
+
 
 
 
