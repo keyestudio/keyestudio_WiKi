@@ -1,7 +1,7 @@
 # APP
 
 |Name|APP LOGO|Android APK|Google Play|IOS|
-|-|-|-|-|-|
+|:-:|:-:|:-:|:-:|:-:|
 |Frog Otto|![](./APP/FrogOtto.jpg)| [Click download](https://xiazai.keyesrobot.cn/APP/Frog%20Otto.apk) | [Go Google Play](https://play.google.com/store/apps/details?id=com.keyestudio.frogotto) | [Go App Store](https://apps.apple.com/cn/app/frog-otto/id1468989742) |
 |IOT farm|![](./APP/IOTfarm.png)| [Click download](https://xiazai.keyesrobot.cn/APP/IOT%20farm.apk) | [Go Google Play](https://play.google.com/store/apps/details?id=com.keyestudio.IOTfarm) | [Go App Store](https://apps.apple.com/cn/app/iot-farm/id6449963351) |
 |keyes arm|![](./APP/keyesarm.png)| [Click download](https://xiazai.keyesrobot.cn/APP/keyes%20arm.apk) | [Go Google Play](https://play.google.com/store/apps/details?id=com.keyestudio.keyes_arm_123) | [Go App Store](https://apps.apple.com/cn/app/keyes-arm/id1487006837) |
