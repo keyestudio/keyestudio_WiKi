@@ -8,6 +8,11 @@ Foxbit
 
   <a href="https://docs.keyestudio.com/projects/FB0001/en/latest/" target="_blank">FB0001 Foxbit STEM Education Development Board</a>
 
+* |FB0002 fox:bit T-type robot expansion board|
+
+.. |FB0002 fox:bit T-type robot expansion board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/FB0002/en/latest/" target="_blank">FB0002 fox:bit T-type robot expansion board</a>
 
 * |FB0005 foxbit Camera (Black and eco-friendly)|
 
