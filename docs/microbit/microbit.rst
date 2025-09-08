@@ -17,6 +17,13 @@ Micro bit Shield
 
   <a href="https://docs.keyestudio.com/projects/KS4033/en/latest/" target="_blank">KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield</a>
 
+* |KS4017 Keyestudio Micro:bit V2.0 Basic Starter Kit|
+
+.. |KS4017 Keyestudio Micro:bit V2.0 Basic Starter Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4017/en/latest/" target="_blank">KS4017 Keyestudio Micro:bit V2.0 Basic Starter Kit</a>
+
+
 
 
 
