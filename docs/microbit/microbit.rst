@@ -23,6 +23,11 @@ Micro bit Shield
 
   <a href="https://docs.keyestudio.com/projects/KS4017/en/latest/" target="_blank">KS4017 Keyestudio Micro:bit V2.0 Basic Starter Kit</a>
 
+* |KS4042 FoxBit Mini 3-Channel Servo Expansion Board Compatible with Microbit|
+
+.. |KS4042 FoxBit Mini 3-Channel Servo Expansion Board Compatible with Microbit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4042/en/latest/" target="_blank">KS4042 FoxBit Mini 3-Channel Servo Expansion Board Compatible with Microbit</a>
 
 
 
