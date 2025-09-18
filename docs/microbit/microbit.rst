@@ -29,6 +29,11 @@ Micro bit Shield
 
   <a href="https://docs.keyestudio.com/projects/KS4042/en/latest/" target="_blank">KS4042 FoxBit Mini 3-Channel Servo Expansion Board Compatible with Microbit</a>
 
+* |MB0110 Micro:bit Main Board+USB Cable+Battery Holder with Batteries|
+
+.. |MB0110 Micro:bit Main Board+USB Cable+Battery Holder with Batteries| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/MB0110/en/latest/" target="_blank">MB0110 Micro:bit Main Board+USB Cable+Battery Holder with Batteries</a>
 
 
 
