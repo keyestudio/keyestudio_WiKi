@@ -10,6 +10,5 @@
    docs/foxbit/foxbit
    docs/microbit/microbit
    docs/raspberrypi/raspberrypi
-   docs/raspberrypi/pico
    docs/index.md
    docs/APP
