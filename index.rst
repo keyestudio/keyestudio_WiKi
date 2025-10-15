@@ -10,8 +10,7 @@
    docs/foxbit/foxbit
    docs/microbit/microbit
    docs/raspberrypi/raspberrypi
+   docs/othermodules/othermodules
    docs/index.md
    docs/APP
-   docs/othermodules/othermodules
-
 
