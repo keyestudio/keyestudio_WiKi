@@ -11,4 +11,5 @@
    docs/microbit/microbit
    docs/raspberrypi/raspberrypi
    docs/index.md
+   docs/othermodules/othermodules
    docs/APP
