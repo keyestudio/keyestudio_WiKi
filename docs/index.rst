@@ -46,13 +46,6 @@ Synthetical Suite
   <a href="https://docs.keyestudio.com/projects/KS0806/en/latest/" target="_blank">KS0806 STEM Programming DIY Ocarina Learning Kit  </a>
 
 
-* |KE0164 YX5200-24SS MP3|
-
-.. |KE0164 YX5200-24SS MP3| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KE0164/en/latest/" target="_blank">KE0164 YX5200-24SS MP3  </a>
-
-
 * |OR0356 Keyes Hall Water Flow Sensor|
 
 .. |OR0356 Keyes Hall Water Flow Sensor| raw:: html
