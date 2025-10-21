@@ -13,6 +13,13 @@ Starter kit
   <a href="https://docs.keyestudio.com/projects/KS0567/en/latest/" target="_blank">KS0567 Keyestudio ESP32 Smart Farm Kit</a>
 
 
+* |KS0597 Smart School Learning Kit|
+
+.. |KS0597 Smart School Learning Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0597/en/latest/" target="_blank">KS0597 Smart School Learning Kit</a>
+
+
 * |KS5003 KS5004 Keyestudio ESP32 42 in 1 Sensor Kit|
 
 .. |KS5003 KS5004 Keyestudio ESP32 42 in 1 Sensor Kit| raw:: html
