@@ -20,6 +20,14 @@ Starter kit
   <a href="https://docs.keyestudio.com/projects/KE0187/en/latest/" target="_blank">KE0187 keyes NANO Expansion Board for Arduino Nano3.0 4.0</a>
 
 
+* |MB0183 S3 mini|
+
+.. |MB0183 S3 mini| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/MB0183/en/latest/" target="_blank">MB0183 S3 mini</a>
+
+
+
 
 
 
