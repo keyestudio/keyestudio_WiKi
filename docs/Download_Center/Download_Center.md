@@ -10,5 +10,6 @@
 
 | Driver Name |                        Windows System                        |                          Mac System                          |
 | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    CH340    | [👉🏼Click to download](https://xiazai.keyesrobot.cn/software/ch340/CH341SER.ZIP) | [👉🏼Click to download](https://xiazai.keyesrobot.cn/software/ch340/CH34XSER_MAC.ZIP) |
-|   CP2102    | [👉🏼Click to download](https://xiazai.keyesrobot.cn/software/cp2102/CP2102_Driver.zip) | [👉🏼Click to download](https://xiazai.keyesrobot.cn/software/cp2102/Mac_OSX_VCP_Driver.zip) |
+|    CH340    | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/ch340/CH341SER.ZIP) | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/ch340/CH34XSER_MAC.ZIP) |
+|   CP2102    | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/cp2102/CP2102_Driver.zip) | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/cp2102/Mac_OSX_VCP_Driver.zip) |
+
