@@ -407,6 +407,20 @@ Shield
   <a href="https://docs.keyestudio.com/projects/KS0155/en/latest/" target="_blank">KS0155 Keyestudio USB Host Shield for Arduino</a>
 
 
+* |MB0183 S3 mini|
+
+.. |MB0183 S3 mini| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/MB0183/en/latest/" target="_blank">MB0183 S3 mini</a>
+
+* |MB0184 S3 cam|
+
+.. |MB0184 S3 cam| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/MB0184/en/latest/" target="_blank">MB0184 S3 cam</a>
+
+
+
 
 
 
