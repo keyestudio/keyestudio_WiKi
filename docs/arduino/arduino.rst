@@ -31,6 +31,12 @@ Modules
 
   <a href="https://docs.keyestudio.com/projects/KS6086/en/latest/" target="_blank">KS6086 keyestudio MES Microphone Module</a>
 
+* |KS6089 keyestudio DIY Electronic Brick ICS Microphone Module|
+
+.. |KS6089 keyestudio DIY Electronic Brick ICS Microphone Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6089/en/latest/" target="_blank">KS6089 keyestudio DIY Electronic Brick ICS Microphone Module</a>
+
 * |MD0798 Servo Control Module|
 
 .. |MD0798 Servo Control Module| raw:: html
