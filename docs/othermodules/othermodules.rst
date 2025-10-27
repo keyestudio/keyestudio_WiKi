@@ -6,6 +6,19 @@ Other Modules
 Starter kit
 =========================
 
+* |KS6089 keyestudio DIY Electronic Brick ICS Microphone Module|
+
+.. |KS6089 keyestudio DIY Electronic Brick ICS Microphone Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6089/en/latest/" target="_blank">KS6089 keyestudio DIY Electronic Brick ICS Microphone Module</a>
+
+* |MB0184 S3 cam|
+
+.. |MB0184 S3 cam| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/MB0184/en/latest/" target="_blank">MB0184 S3 cam</a>
+
+
 * |KT0351 Sengo2 Smart Vision Card Maker Extension Kit|
 
 .. |KT0351 Sengo2 Smart Vision Card Maker Extension Kit| raw:: html
