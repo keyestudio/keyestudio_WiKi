@@ -2,6 +2,16 @@
 Other Modules
 ==============
 
+* |ks0387 Keyestudio YX5200-24SS MP3 Module|
+
+.. |ks0387 Keyestudio YX5200-24SS MP3 Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/ks0387/en/latest/" target="_blank">ks0387 Keyestudio YX5200-24SS MP3 Module</a>
+
+
+
+
+
 
 Starter kit
 =========================
