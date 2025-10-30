@@ -53,6 +53,12 @@ Modules
 Development board
 ==============================
 
+* |Ks0001 keyestudio UNO R3 BOARD|
+
+.. |Ks0001 keyestudio UNO R3 BOARD| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0001/en/latest/" target="_blank">Ks0001 keyestudio UNO R3 BOARD</a>
+
 
 * |KS0499 Keyestudio Mega 2560 Plus Board|
 
