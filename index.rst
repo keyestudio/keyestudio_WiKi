@@ -12,6 +12,5 @@
    docs/raspberrypi/raspberrypi
    docs/othermodules/othermodules
    docs/index.md
-   docs/APP
    docs/Download_Center/Download_Center
 
