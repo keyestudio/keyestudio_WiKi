@@ -208,6 +208,13 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0559/en/latest/" target="_blank">KS0559 Keyestudio 4WD BT Multi-purpose Car V2.0</a>
 
+* |KS0560 Keyestudio 4WD Mecanum Robot for Arduino|
+
+.. |KS0560 Keyestudio 4WD Mecanum Robot for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0560/en/latest/" target="_blank">KS0560 Keyestudio 4WD Mecanum Robot for Arduino</a>
+
+
 
 
 
