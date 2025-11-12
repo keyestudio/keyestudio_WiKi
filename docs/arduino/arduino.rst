@@ -59,6 +59,12 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0001/en/latest/" target="_blank">Ks0001 keyestudio UNO R3 BOARD</a>
 
+* |KS0002 Keyestudio MEGA R3 Board|
+
+.. |KS0002 Keyestudio MEGA R3 Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0002/en/latest/" target="_blank">KS0002 Keyestudio MEGA R3 Board</a>
+
 
 * |KS0499 Keyestudio Mega 2560 Plus Board|
 
