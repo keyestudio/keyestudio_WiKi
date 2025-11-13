@@ -50,6 +50,8 @@ Modules
 
 
 
+
+
 Development board
 ==============================
 
@@ -64,6 +66,12 @@ Development board
 .. |KS0002 Keyestudio MEGA R3 Board| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0002/en/latest/" target="_blank">KS0002 Keyestudio MEGA R3 Board</a>
+
+* |Ks0248 keyestudio Leonardo R3 Development Board_renamed|
+
+.. |Ks0248 keyestudio Leonardo R3 Development Board_renamed| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0248/en/latest/" target="_blank">Ks0248 keyestudio Leonardo R3 Development Board_renamed</a>
 
 
 * |KS0499 Keyestudio Mega 2560 Plus Board|
