@@ -242,6 +242,11 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0070/en/latest/" target="_blank">KS0070 Keyestudio Basic Breadboard kit For Arduino</a>
 
+* |Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino|
+
+.. |Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0074-KS0075-KS0076/en/latest/" target="_blank">Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino</a>
 
 * |KS0077 KS0078 KS0079 Keyestudio Super Starter Kit For Arduino|
 
