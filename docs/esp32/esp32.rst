@@ -176,6 +176,20 @@ Board
   <a href="https://docs.keyestudio.com/projects/KS5013/en/latest/" target="_blank">KS5013 Keyestudio-328-WIFI-PLUS-Main-Control-Board</a>
 
 
+* |MB0183 S3 mini|
+
+.. |MB0183 S3 mini| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/MB0183/en/latest/" target="_blank">MB0183 S3 mini</a>
+
+* |MB0184 S3 cam|
+
+.. |MB0184 S3 cam| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/MB0184/en/latest/" target="_blank">MB0184 S3 cam</a>
+
+
+
 * |MD0750 ESP32-S3-DevKitC-1 Development Board|
 
 .. |MD0750 ESP32-S3-DevKitC-1 Development Board| raw:: html
