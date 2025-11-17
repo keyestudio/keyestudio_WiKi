@@ -301,6 +301,48 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0146/en/latest/" target="_blank">KS0146 keyestudio Nano IO Shield</a>
 
+* |KS0147 keyestudio Touch Key USB shield|
+
+.. |KS0147 keyestudio Touch Key USB shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0147/en/latest/" target="_blank">KS0147 keyestudio Touch Key USB shield</a>
+
+* |KS0148 keyestudio W5100|
+
+.. |KS0148 keyestudio W5100| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0148/en/latest/" target="_blank">KS0148 keyestudio W5100</a>
+
+* |KS0151 keyestudio CNC Shield V2|
+
+.. |KS0151 keyestudio CNC Shield V2| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0151/en/latest/" target="_blank">KS0151 keyestudio CNC Shield V2</a>
+
+* |KS0152 keyestudio CNC Shield V4|
+
+.. |KS0152 keyestudio CNC Shield V4| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0152/en/latest/" target="_blank">KS0152 keyestudio CNC Shield V4</a>
+
+* |KS0153 keyestudio JoyStick Shield|
+
+.. |KS0153 keyestudio JoyStick Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0153/en/latest/" target="_blank">KS0153 keyestudio JoyStick Shield</a>
+
+* |KS0154 keyestudio Mega Pololu Shield (RAMPS 1.4 )|
+
+.. |KS0154 keyestudio Mega Pololu Shield (RAMPS 1.4 )| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0154/en/latest/" target="_blank">KS0154 keyestudio Mega Pololu Shield (RAMPS 1.4 )</a>
+
+* |KS0156 keyestudio W5100 Ethernet Shield|
+
+.. |KS0156 keyestudio W5100 Ethernet Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0156/en/latest/" target="_blank">KS0156 keyestudio W5100 Ethernet Shield</a>
+
 * |KS0177 4x4x4 RGB LED Display CUBE Kit for Arduino|
 
 .. |KS0177 4x4x4 RGB LED Display CUBE Kit for Arduino| raw:: html
