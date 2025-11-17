@@ -67,6 +67,12 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0002/en/latest/" target="_blank">KS0002 Keyestudio MEGA R3 Board</a>
 
+* |KS0003 keyestudio Protoshield for Arduino with Mini Breadboard|
+
+.. |KS0003 keyestudio Protoshield for Arduino with Mini Breadboard| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0003/en/latest/" target="_blank">KS0003 keyestudio Protoshield for Arduino with Mini Breadboard</a>
+
 * |Ks0248 keyestudio Leonardo R3 Development Board_renamed|
 
 .. |Ks0248 keyestudio Leonardo R3 Development Board_renamed| raw:: html
@@ -235,6 +241,23 @@ Robot car kit
 Starter kit
 =======================
 
+* |KS0004 keyestudio Sensor Shield V5|
+
+.. |KS0004 keyestudio Sensor Shield V5| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0004/en/latest/" target="_blank">KS0004 keyestudio Sensor Shield V5</a>
+
+* |KS0005 keyestudio MEGA ProtoShield V3 with Tiny Breadboard|
+
+.. |KS0005 keyestudio MEGA ProtoShield V3 with Tiny Breadboard| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0005/en/latest/" target="_blank">KS0005 keyestudio MEGA ProtoShield V3 with Tiny Breadboard</a>
+
+* |KS0007 keyestudio L298P Motor Shield|
+
+.. |KS0007 keyestudio L298P Motor Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0007/en/latest/" target="_blank">KS0007 keyestudio L298P Motor Shield</a>
 
 * |KS0070 Keyestudio Basic Breadboard kit For Arduino|
 
@@ -254,13 +277,11 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0077-KS0078-KS0079/en/latest/" target="_blank">KS0077 KS0078 KS0079 Keyestudio Super Starter Kit For Arduino</a>
 
-
 * |KS0080 KS0081 KS0082 Keyestudio Maker Starter Kit For Arduino|
 
 .. |KS0080 KS0081 KS0082 Keyestudio Maker Starter Kit For Arduino| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0080-KS0081-KS0082/en/latest/" target="_blank">KS0080 KS0081 KS0082 Keyestudio Maker Starter Kit For Arduino</a>
-
 
 * |KS0085 Keyestudio Smart Home Kit For Arduino|
 
@@ -268,6 +289,17 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0085/en/latest/" target="_blank">KS0085 Keyestudio Smart Home Kit For Arduino</a>
 
+* |KS0142 keyestudio SIM900 GSM/GPRS Module Shield|
+
+.. |KS0142 keyestudio SIM900 GSM/GPRS Module Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0142/en/latest/" target="_blank">KS0142 keyestudio SIM900 GSM/GPRS Module Shield</a>
+
+* |KS0146 keyestudio Nano IO Shield|
+
+.. |KS0146 keyestudio Nano IO Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0146/en/latest/" target="_blank">KS0146 keyestudio Nano IO Shield</a>
 
 * |KS0177 4x4x4 RGB LED Display CUBE Kit for Arduino|
 
