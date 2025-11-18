@@ -79,6 +79,12 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0248/en/latest/" target="_blank">Ks0248 keyestudio Leonardo R3 Development Board_renamed</a>
 
+* |KS0304 Keyestudio W5500 ETHERNET DEVELOPMENT BOARD (WITHOUT POE)|
+
+.. |KS0304 Keyestudio W5500 ETHERNET DEVELOPMENT BOARD (WITHOUT POE)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0304/en/latest/" target="_blank">KS0304 Keyestudio W5500 ETHERNET DEVELOPMENT BOARD (WITHOUT POE)</a>
+
 
 * |KS0499 Keyestudio Mega 2560 Plus Board|
 
@@ -103,6 +109,36 @@ Development board
 
 Robot car kit
 =========================
+
+* |KS0160 keyestudio CNC Shield V3|
+
+.. |KS0160 keyestudio CNC Shield V3| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0160/en/latest/" target="_blank">KS0160 keyestudio CNC Shield V3</a>
+
+* |KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield|
+
+.. |KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0163/en/latest/" target="_blank">KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield</a>
+
+* |KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface|
+
+.. |KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0164/en/latest/" target="_blank">KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface</a>
+
+* |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)|
+
+.. |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0485/en/latest/" target="_blank">KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)</a>
+
+* |KS0489 Keyestudio 4WD TB6612 Motor Driver Shield (Black and Eco-friendly)|
+
+.. |KS0489 Keyestudio 4WD TB6612 Motor Driver Shield (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0489/en/latest/" target="_blank">KS0489 Keyestudio 4WD TB6612 Motor Driver Shield (Black and Eco-friendly)</a>
 
 * |KS0193 keyestudio Self-balancing Car Kit For Arduino|
 
@@ -234,6 +270,12 @@ Robot car kit
 .. |KS0560 Keyestudio 4WD Mecanum Robot for Arduino| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0560/en/latest/" target="_blank">KS0560 Keyestudio 4WD Mecanum Robot for Arduino</a>
+
+* |KS4018 Micro:bit|
+
+.. |KS4018 Micro:bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4018/en/latest/" target="_blank">KS4018 Micro:bit</a>
 
 
 
