@@ -128,6 +128,12 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0164/en/latest/" target="_blank">KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface</a>
 
+* |KS0252 keyestudio Proto Screw Shield for Arduino|
+
+.. |KS0252 keyestudio Proto Screw Shield for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0252/en/latest/" target="_blank">KS0252 keyestudio Proto Screw Shield for Arduino</a>
+
 * |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)|
 
 .. |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)| raw:: html
