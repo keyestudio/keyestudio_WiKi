@@ -638,6 +638,73 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS4016/en/latest/" target="_blank">KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)</a>
 
+* |KS0202 keyestudio Balance Car Shield|
+
+.. |KS0202 keyestudio Balance Car Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0202/en/latest/" target="_blank">KS0202 keyestudio Balance Car Shield</a>
+
+* |KS0250 keyestudio NANO IO Shield|
+
+.. |KS0250 keyestudio NANO IO Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0250/en/latest/" target="_blank">KS0250 keyestudio NANO IO Shield</a>
+
+* |KS0251 keyestudio 4-channel Relay Shield|
+
+.. |KS0251 keyestudio 4-channel Relay Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0251/en/latest/" target="_blank">KS0251 keyestudio 4-channel Relay Shield</a>
+
+* |KS0253 keyestudio GPS Shield|
+
+.. |KS0253 keyestudio GPS Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0253/en/latest/" target="_blank">KS0253 keyestudio GPS Shield</a>
+
+* |KS0254 keyestudio Sim800c Shield|
+
+.. |KS0254 keyestudio Sim800c Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0254/en/latest/" target="_blank">KS0254 keyestudio Sim800c Shield</a>
+
+* |KS0255 keyestudio Bluetooth 4.0 Expansion Shield|
+
+.. |KS0255 keyestudio Bluetooth 4.0 Expansion Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0255/en/latest/" target="_blank">KS0255 keyestudio Bluetooth 4.0 Expansion Shield</a>
+
+* |KS0256 keyestudio LCD1602 Expansion Shield|
+
+.. |KS0256 keyestudio LCD1602 Expansion Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0256/en/latest/" target="_blank">KS0256 keyestudio LCD1602 Expansion Shield</a>
+
+* |KS0257 keyestudio 2.8 Inch TFT LCD Shield|
+
+.. |KS0257 keyestudio 2.8 Inch TFT LCD Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0257/en/latest/" target="_blank">KS0257 keyestudio 2.8 Inch TFT LCD Shield</a>
+
+* |KS0258 keyestudio 16-channel Servo Motor Drive Shield|
+
+.. |KS0258 keyestudio 16-channel Servo Motor Drive Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0258/en/latest/" target="_blank">KS0258 keyestudio 16-channel Servo Motor Drive Shield</a>
+
+* |KS0259 keyestudio PN532 NFC/RFID Controller Shield|
+
+.. |KS0259 keyestudio PN532 NFC/RFID Controller Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0259/en/latest/" target="_blank">KS0259 keyestudio PN532 NFC/RFID Controller Shield</a>
+
+* |KS0298 Keyestudio quick connectors Motor Drive Shield|
+
+.. |KS0298 Keyestudio quick connectors Motor Drive Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0298/en/latest/" target="_blank">KS0298 Keyestudio quick connectors Motor Drive Shield</a>
+
+
 
 
 
