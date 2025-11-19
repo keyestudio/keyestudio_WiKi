@@ -602,6 +602,42 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS4030/en/latest/" target="_blank">KS4030 Keyestudio Micro：bit IO Port Expansion Sensor Shield with Level Conversion</a>
 
+* |KS0183 keyestudio Multi-purpose Shield V1|
+
+.. |KS0183 keyestudio Multi-purpose Shield V1| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0183/en/latest/" target="_blank">KS0183 keyestudio Multi-purpose Shield V1</a>
+
+* |KS0184 keyestudio Multi-purpose Shield V2|
+
+.. |KS0184 keyestudio Multi-purpose Shield V2| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0184/en/latest/" target="_blank">KS0184 keyestudio Multi-purpose Shield V2</a>
+
+* |KS0196 keyestudio PM2.5 Shield|
+
+.. |KS0196 keyestudio PM2.5 Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0196/en/latest/" target="_blank">KS0196 keyestudio PM2.5 Shield</a>
+
+* |KS0556 Keyestudio 8833 Motor Driver Expansion Board|
+
+.. |KS0556 Keyestudio 8833 Motor Driver Expansion Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0556/en/latest/" target="_blank">KS0556 Keyestudio 8833 Motor Driver Expansion Board</a>
+
+* |KS3022 Keyestudio Pico IO Prototype Expansion Board|
+
+.. |KS3022 Keyestudio Pico IO Prototype Expansion Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS3022/en/latest/" target="_blank">KS3022 Keyestudio Pico IO Prototype Expansion Board</a>
+
+* |KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)|
+
+.. |KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4016/en/latest/" target="_blank">KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)</a>
+
 
 
 
