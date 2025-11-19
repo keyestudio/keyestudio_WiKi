@@ -93,6 +93,18 @@ Development board
   <a href="https://docs.keyestudio.com/projects/KS0499/en/latest/" target="_blank">KS0499 Keyestudio Mega 2560 Plus Board</a>
 
 
+* |KS0503 Keyestudio PRO MICRO 5V 16MHZ Development Board(Black and Eco-friendly)|
+
+.. |KS0503 Keyestudio PRO MICRO 5V 16MHZ Development Board(Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0503/en/latest/" target="_blank">KS0503 Keyestudio PRO MICRO 5V 16MHZ Development Board(Black and Eco-friendly)</a>
+
+* |KS0548(KS0548A)Keyestudio PLUS V2 Development Board|
+
+.. |KS0548(KS0548A)Keyestudio PLUS V2 Development Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0548/en/latest/" target="_blank">KS0548(KS0548A)Keyestudio PLUS V2 Development Board</a>
+
 * |KS0589 keyestudio 328P Development Board+ Motor Drive (DRV8835)|
 
 .. |KS0589 keyestudio 328P Development Board+ Motor Drive (DRV8835)| raw:: html
@@ -454,7 +466,6 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0487/en/latest/" target="_blank">KS0487 Keyestudio 37 in 1 Sensor Kit upgrade v3.0</a>
 
-
 * |KS0505 Keyestudio STEM Starter Kit for Plus Board|
 
 .. |KS0505 Keyestudio STEM Starter Kit for Plus Board| raw:: html
@@ -567,7 +578,29 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0155/en/latest/" target="_blank">KS0155 Keyestudio USB Host Shield for Arduino</a>
 
+* |KS0516 Keyestudio Expansion Board+TF Card for Data Recording|
 
+.. |KS0516 Keyestudio Expansion Board+TF Card for Data Recording| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0516/en/latest/" target="_blank">KS0516 Keyestudio Expansion Board+TF Card for Data Recording</a>
+
+* |KS0529 Keyestudio DMX（RDM）Shield|
+
+.. |KS0529 Keyestudio DMX（RDM）Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0529/en/latest/" target="_blank">KS0529 Keyestudio DMX（RDM）Shield</a>
+
+* |KS0550 Keyestudio Servo Driver Expansion Board(Black and Eco-friendly)|
+
+.. |KS0550 Keyestudio Servo Driver Expansion Board(Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0550/en/latest/" target="_blank">KS0550 Keyestudio Servo Driver Expansion Board(Black and Eco-friendly)</a>
+
+* |KS4030 Keyestudio Micro：bit IO Port Expansion Sensor Shield with Level Conversion|
+
+.. |KS4030 Keyestudio Micro：bit IO Port Expansion Sensor Shield with Level Conversion| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4030/en/latest/" target="_blank">KS4030 Keyestudio Micro：bit IO Port Expansion Sensor Shield with Level Conversion</a>
 
 
 
