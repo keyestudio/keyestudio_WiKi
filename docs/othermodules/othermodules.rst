@@ -22,12 +22,6 @@ Other Modules
 Starter kit
 =========================
 
-* |MB0184 S3 cam|
-
-.. |MB0184 S3 cam| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/MB0184/en/latest/" target="_blank">MB0184 S3 cam</a>
-
 * |KT0351 Sengo2 Smart Vision Card Maker Extension Kit|
 
 .. |KT0351 Sengo2 Smart Vision Card Maker Extension Kit| raw:: html
