@@ -8,11 +8,11 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/ks0387/en/latest/" target="_blank">ks0387 Keyestudio YX5200-24SS MP3 Module</a>
 
-* |KS6001 keyestudio LED Module|
+* |KS6001 KS6002 KS6003 KS6004 KS6005 keyestudio LED Module|
 
-.. |KS6001 keyestudio LED Module| raw:: html
+.. |KS6001 KS6002 KS6003 KS6004 KS6005 keyestudio LED Module| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS6001/en/latest/" target="_blank">KS6001 keyestudio LED Module</a>
+  <a href="https://docs.keyestudio.com/projects/KS6001-KS6002-KS6003-KS6004-KS6005/en/latest/" target="_blank">KS6001 KS6002 KS6003 KS6004 KS6005 keyestudio LED Module</a>
 
 
 
