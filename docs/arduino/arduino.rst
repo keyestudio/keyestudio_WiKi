@@ -750,6 +750,95 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0298/en/latest/" target="_blank">KS0298 Keyestudio quick connectors Motor Drive Shield</a>
 
+* |KS0390 EASY plug I2C Interface Conversion Shield (Black and Eco-friendly)|
+
+.. |KS0390 EASY plug I2C Interface Conversion Shield (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0390/en/latest/" target="_blank">KS0390 EASY plug I2C Interface Conversion Shield (Black and Eco-friendly)</a>
+
+* |KS0392 keyestudio I2C Interface Conversion Shield (Black and Eco-friendly)|
+
+.. |KS0392 keyestudio I2C Interface Conversion Shield (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0392/en/latest/" target="_blank">KS0392 keyestudio I2C Interface Conversion Shield (Black and Eco-friendly)</a>
+
+* |KS0406 keyestudio RS232 to TTL Conversion Shield Compatible with Arduino|
+
+.. |KS0406 keyestudio RS232 to TTL Conversion Shield Compatible with Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0406/en/latest/" target="_blank">KS0406 keyestudio RS232 to TTL Conversion Shield Compatible with Arduino</a>
+
+* |KS0411 keyestudio CAN-BUS Shield|
+
+.. |KS0411 keyestudio CAN-BUS Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0411/en/latest/" target="_blank">KS0411 keyestudio CAN-BUS Shield</a>
+
+* |KS0412 keyestudio L298P Shield|
+
+.. |KS0412 keyestudio L298P Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0412/en/latest/" target="_blank">KS0412 keyestudio L298P Shield</a>
+
+* |KS0416 keyestudio SK6812 Shield|
+
+.. |KS0416 keyestudio SK6812 Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0416/en/latest/" target="_blank">KS0416 keyestudio SK6812 Shield</a>
+
+* |KS0425 keyestudio NANO Shield|
+
+.. |KS0425 keyestudio NANO Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0425/en/latest/" target="_blank">KS0425 keyestudio NANO Shield</a>
+
+* |KS0435 Keyestudio Motor Drive Shield V2|
+
+.. |KS0435 Keyestudio Motor Drive Shield V2| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0435/en/latest/" target="_blank">KS0435 Keyestudio Motor Drive Shield V2</a>
+
+* |KS0443 Keyestudio W5500 Network Shield|
+
+.. |KS0443 Keyestudio W5500 Network Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0443/en/latest/" target="_blank">KS0443 Keyestudio W5500 Network Shield</a>
+
+* |KS0448 Keyestudio L298P 4-Channel Motor Drive Shield|
+
+.. |KS0448 Keyestudio L298P 4-Channel Motor Drive Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0448/en/latest/" target="_blank">KS0448 Keyestudio L298P 4-Channel Motor Drive Shield</a>
+
+* |KS0515 Keyestudio FSK Wireless Shield RFM69HCW 868mhz(Black and Eco-friendly)|
+
+.. |KS0515 Keyestudio FSK Wireless Shield RFM69HCW 868mhz(Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0515/en/latest/" target="_blank">KS0515 Keyestudio FSK Wireless Shield RFM69HCW 868mhz(Black and Eco-friendly)</a>
+
+* |KS0521 Keyestudio Solar Charger Shield (Black and Eco-friendly)|
+
+.. |KS0521 Keyestudio Solar Charger Shield (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0521/en/latest/" target="_blank">KS0521 Keyestudio Solar Charger Shield (Black and Eco-friendly)</a>
+
+* |KS3031 Keyestudio SIM7600X 4G Shield Development Kit for Raspberry Pi|
+
+.. |KS3031 Keyestudio SIM7600X 4G Shield Development Kit for Raspberry Pi| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS3031/en/latest/" target="_blank">KS3031 Keyestudio SIM7600X 4G Shield Development Kit for Raspberry Pi</a>
+
+* |KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)|
+
+.. |KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5001/en/latest/" target="_blank">KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)</a>
+
+
+
+
+
+
 
 
 
