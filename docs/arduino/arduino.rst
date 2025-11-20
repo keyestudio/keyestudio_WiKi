@@ -171,6 +171,11 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0198/en/latest/" target="_blank">KS0198X Keyestudio 4DOF Acrylic Robot Arm Kit for Arduino</a>
 
+* |KS0318 keyestudio Tb6560 Stepper Motor Drive Board|
+
+.. |KS0318 keyestudio Tb6560 Stepper Motor Drive Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0318/en/latest/" target="_blank">KS0318 keyestudio Tb6560 Stepper Motor Drive Board</a>
 
 * |KS0358 keyestudio Electronic Parts DIY Kit For OTTO|
 
@@ -178,6 +183,47 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0358/en/latest/" target="_blank">KS0358 keyestudio Electronic Parts DIY Kit For OTTO</a>
 
+* |KS0363 keyestudio TB6612FNG Motor/Servo Drive Shield with PS2 Socket|
+
+.. |KS0363 keyestudio TB6612FNG Motor/Servo Drive Shield with PS2 Socket| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0363/en/latest/" target="_blank">KS0363 keyestudio TB6612FNG Motor/Servo Drive Shield with PS2 Socket</a>
+
+* |KS0366 Keyestudio ESP13 Shield Serial Port Module|
+
+.. |KS0366 Keyestudio ESP13 Shield Serial Port Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0366/en/latest/" target="_blank">KS0366 Keyestudio ESP13 Shield Serial Port Module</a>
+
+* |KS0377 Keyestudio Balance Car Shield V3|
+
+.. |KS0377 Keyestudio Balance Car Shield V3| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0377/en/latest/" target="_blank">KS0377 Keyestudio Balance Car Shield V3</a>
+
+* |KS0385 Keyestudio ESP 01S WIFI to Serial Shield for Arduino|
+
+.. |KS0385 Keyestudio ESP 01S WIFI to Serial Shield for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0385/en/latest/" target="_blank">KS0385 Keyestudio ESP 01S WIFI to Serial Shield for Arduino</a>
+
+* |KS0386 Keyestudio ESP-01S Wifi Module Adapter Board for Arduino|
+
+.. |KS0386 Keyestudio ESP-01S Wifi Module Adapter Board for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0386/en/latest/" target="_blank">KS0386 Keyestudio ESP-01S Wifi Module Adapter Board for Arduino</a>
+
+* |KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield|
+
+.. |KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0388/en/latest/" target="_blank">KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield</a>
+
+* |KS3017 Keyestudio Raspberry Pico IO Shield|
+
+.. |KS3017 Keyestudio Raspberry Pico IO Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS3017/en/latest/" target="_blank">KS3017 Keyestudio Raspberry Pico IO Shield</a>
 
 * |KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit|
 
