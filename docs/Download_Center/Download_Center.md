@@ -29,6 +29,13 @@
 
 ## 💻 Programming Software Download
 
+
+### MuEditor Software
+
+| Version |                        Windows System                        |                          Mac System                          | User Guide                                                   |
+| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+|  1.2.0  | [✔️Click to download](https://xiazai.keyesrobot.cn/software/MuEditor/MuEditor-win64-1.2.0.msi) | [✔️Click to download](https://xiazai.keyesrobot.cn/software/MuEditor/MuEditor-OSX-1.2.0.dmg) |  |
+
 ### KidsBlock Software
 
 | Version |                        Windows System                        |                          Mac System                          | User Guide                                                   |
