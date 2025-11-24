@@ -26,6 +26,8 @@
 | Beetlebot       | ![](./media/Beetlebot.png)     | [👇Click to download](https://xiazai.keyesrobot.cn/APP/Beetlebot.apk) | [🏈Go Google Play](https://play.google.com/store/apps/details?id=com.keyestudio.beetlecar) | Not yet available                                            |
 | keyes Bit Car   | ![](./media/keyesBitCar.png)   | [👇Click to download](https://xiazai.keyesrobot.cn/APP/keyes%20Bit%20Car.apk) | [🏈Go Google Play](https://play.google.com/store/apps/details?id=com.keyestudio.desk_bit_car) | [🚀Jump to the App Store](https://apps.apple.com/cn/app/keyes-bit-car/id1524897128) |
 | IoT keyes       | ![](./media/IoTkeyes.png)      | [👇Click to download](https://xiazai.keyesrobot.cn/APP/keyes%20IoT.apk) | [🏈Go Google Play](https://play.google.com/store/apps/details?id=com.keyestudio.iot_keyes) | [🚀Jump to the App Store](https://apps.apple.com/cn/app/iot-keyes/id1487578236) |
+| Balance car Keyes       | ![](./media/BalancecarKeyes.jpg)      | [👇Click to download](https://xiazai.keyesrobot.cn/APP/Balance_car_Keyes.apk) |       | Not yet available                                            |
+
 
 ## 💻 Programming Software Download
 
