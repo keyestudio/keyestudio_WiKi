@@ -7,6 +7,20 @@ Arduino
 Modules
 ==============================
 
+* |KS6026 KS6026S keyestudio Light Sensor (LDR) Module|
+
+.. |KS6026 KS6026S keyestudio Light Sensor (LDR) Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6026/en/latest/" target="_blank">KS6026 KS6026S keyestudio Light Sensor (LDR) Module</a>
+
+* |KS6033 Humidity temperature Module|
+
+.. |KS6033 Humidity temperature Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6033/en/latest/" target="_blank">KS6033 Humidity temperature Module</a>
+
+
+
 * |KS6082 keyestudio 2021 Atomization Module|
 
 .. |KS6082 keyestudio 2021 Atomization Module| raw:: html
