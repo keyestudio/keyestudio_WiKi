@@ -19,6 +19,12 @@ Modules
 
   <a href="https://docs.keyestudio.com/projects/KS6033/en/latest/" target="_blank">KS6033 Humidity temperature Module</a>
 
+* |KS6034 18B20 Module|
+
+.. |KS6034 18B20 Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6034/en/latest/" target="_blank">KS6034 18B20 Module</a>
+
 
 
 * |KS6082 keyestudio 2021 Atomization Module|
