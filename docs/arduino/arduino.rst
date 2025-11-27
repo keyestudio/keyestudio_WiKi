@@ -386,6 +386,46 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0007/en/latest/" target="_blank">KS0007 keyestudio L298P Motor Shield</a>
 
+* |KS0068 37 in 1 Sensor Kit|
+
+.. |KS0068 37 in 1 Sensor Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0068/en/latest/" target="_blank">KS0068 37 in 1 Sensor Kit</a>
+
+* |KS0069 KS0072 KS0073 Sensor Kit|
+
+.. |KS0069 KS0072 KS0073 Sensor Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0069-KS0072-KS0073/en/latest/" target="_blank">KS0069 KS0072 KS0073 Sensor Kit</a>
+
+* |KS0083 Arduino Tutorial|
+
+.. |KS0083 Arduino Tutorial| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0083/en/latest/" target="_blank">KS0083 Arduino Tutorial</a>
+
+* |KS0084 Arduino Tutorial|
+
+.. |KS0084 Arduino Tutorial| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0084/en/latest/" target="_blank">KS0084 Arduino Tutorial</a>
+
+* |KS0087 Arduino Tutorial|
+
+.. |KS0087 Arduino Tutorial| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0087/en/latest/" target="_blank">KS0087 Arduino Tutorial</a>
+
+
+* |KS0501 Arduino Tutorial|
+
+.. |KS0501 Arduino Tutorial| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0501/en/latest/" target="_blank">KS0501 Arduino Tutorial</a>
+
+
+
+
 * |KS0070 Keyestudio Basic Breadboard kit For Arduino|
 
 .. |KS0070 Keyestudio Basic Breadboard kit For Arduino| raw:: html
