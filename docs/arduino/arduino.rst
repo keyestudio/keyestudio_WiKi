@@ -386,42 +386,42 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0007/en/latest/" target="_blank">KS0007 keyestudio L298P Motor Shield</a>
 
-* |KS0068 37 in 1 Sensor Kit|
+* |KS0068 keyestudio 37 in 1 Sensor Kit for Arduino Starters|
 
-.. |KS0068 37 in 1 Sensor Kit| raw:: html
+.. |KS0068 keyestudio 37 in 1 Sensor Kit for Arduino Starters| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0068/en/latest/" target="_blank">KS0068 37 in 1 Sensor Kit</a>
+  <a href="https://docs.keyestudio.com/projects/KS0068/en/latest/" target="_blank">KS0068 keyestudio 37 in 1 Sensor Kit for Arduino Starters</a>
 
-* |KS0069 KS0072 KS0073 Sensor Kit|
+* |KS0069 KS0072 KS0073 keyestudio Basic Starter Kit for Arduino Starters|
 
-.. |KS0069 KS0072 KS0073 Sensor Kit| raw:: html
+.. |KS0069 KS0072 KS0073 keyestudio Basic Starter Kit for Arduino Starters| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0069-KS0072-KS0073/en/latest/" target="_blank">KS0069 KS0072 KS0073 Sensor Kit</a>
+  <a href="https://docs.keyestudio.com/projects/KS0069-KS0072-KS0073/en/latest/" target="_blank">KS0069 KS0072 KS0073 keyestudio Basic Starter Kit for Arduino Starters</a>
 
-* |KS0083 Arduino Tutorial|
+* |KS0083 keyestudio New sensor kit with Uno|
 
-.. |KS0083 Arduino Tutorial| raw:: html
+.. |KS0083 keyestudio New sensor kit with Uno| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0083/en/latest/" target="_blank">KS0083 Arduino Tutorial</a>
+  <a href="https://docs.keyestudio.com/projects/KS0083/en/latest/" target="_blank">KS0083 keyestudio New sensor kit with Uno</a>
 
-* |KS0084 Arduino Tutorial|
+* |KS0084 keyestudio New sensor kit with 2560 R3|
 
-.. |KS0084 Arduino Tutorial| raw:: html
+.. |KS0084 keyestudio New sensor kit with 2560 R3| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0084/en/latest/" target="_blank">KS0084 Arduino Tutorial</a>
+  <a href="https://docs.keyestudio.com/projects/KS0084/en/latest/" target="_blank">KS0084 keyestudio New sensor kit with 2560 R3</a>
 
-* |KS0087 Arduino Tutorial|
+* |KS0087 keyestudio DIY Electronic Scale|
 
-.. |KS0087 Arduino Tutorial| raw:: html
+.. |KS0087 keyestudio DIY Electronic Scale| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0087/en/latest/" target="_blank">KS0087 Arduino Tutorial</a>
+  <a href="https://docs.keyestudio.com/projects/KS0087/en/latest/" target="_blank">KS0087 keyestudio DIY Electronic Scale</a>
 
 
-* |KS0501 Arduino Tutorial|
+* |KS0501 Keyestudio  UNO MAX Kit|
 
-.. |KS0501 Arduino Tutorial| raw:: html
+.. |KS0501 Keyestudio  UNO MAX Kit| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0501/en/latest/" target="_blank">KS0501 Arduino Tutorial</a>
+  <a href="https://docs.keyestudio.com/projects/KS0501/en/latest/" target="_blank">KS0501 Keyestudio  UNO MAX Kit</a>
 
 
 
