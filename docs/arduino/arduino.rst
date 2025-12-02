@@ -410,12 +410,47 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0084/en/latest/" target="_blank">KS0084 keyestudio New sensor kit with 2560 R3</a>
 
+* |KS0086 Starter Kit|
+
+.. |KS0086 Starter Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0086/en/latest/" target="_blank">KS0086 Starter Kit</a>
+
 * |KS0087 keyestudio DIY Electronic Scale|
 
 .. |KS0087 keyestudio DIY Electronic Scale| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0087/en/latest/" target="_blank">KS0087 keyestudio DIY Electronic Scale</a>
 
+* |KS0178 keyestudio Sensor Kit for ARDUINO starters- K1|
+
+.. |KS0178 keyestudio Sensor Kit for ARDUINO starters- K1| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0178/en/latest/" target="_blank">KS0178 keyestudio Sensor Kit for ARDUINO starters- K1</a>
+
+* |KS0179 keyestudio Sensor Kit for ARDUINO starters- K2|
+
+.. |KS0179 keyestudio Sensor Kit for ARDUINO starters- K2| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0179/en/latest/" target="_blank">KS0179 keyestudio Sensor Kit for ARDUINO starters- K2</a>
+
+* |KS0180 keyestudio Sensor Kit for ARDUINO starters- K3|
+
+.. |KS0180 keyestudio Sensor Kit for ARDUINO starters- K3| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0180/en/latest/" target="_blank">KS0180 keyestudio Sensor Kit for ARDUINO starters- K3</a>
+
+* |KS0181 keyestudio Sensor Kit for ARDUINO starters- K4|
+
+.. |KS0181 keyestudio Sensor Kit for ARDUINO starters- K4| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0181/en/latest/" target="_blank">KS0181 keyestudio Sensor Kit for ARDUINO starters- K4</a>
+
+* |KS0188 keyestudio Maker Touch Starter Kit|
+
+.. |KS0188 keyestudio Maker Touch Starter Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0188/en/latest/" target="_blank">KS0188 keyestudio Maker Touch Starter Kit</a>
 
 * |KS0501 Keyestudio  UNO MAX Kit|
 

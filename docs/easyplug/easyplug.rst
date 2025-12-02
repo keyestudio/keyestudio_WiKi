@@ -7,6 +7,12 @@ EASY plug kit
 =========================
 
 
+* |KS0157 keyestudio EASY plug learning kit for Arduino super makers|
+
+.. |KS0157 keyestudio EASY plug learning kit for Arduino super makers| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0157/en/latest/" target="_blank">KS0157 keyestudio EASY plug learning kit for Arduino super makers</a>
+
 * |KS0158 Keyestudio EASY Plug Starter Kit for Arduino|
 
 .. |KS0158 Keyestudio EASY Plug Starter Kit for Arduino| raw:: html
