@@ -119,6 +119,12 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0503/en/latest/" target="_blank">KS0503 Keyestudio PRO MICRO 5V 16MHZ Development Board(Black and Eco-friendly)</a>
 
+* |KS0547 Keyestudio NANO PLUS|
+
+.. |KS0547 Keyestudio NANO PLUS| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0547/en/latest/" target="_blank">KS0547 Keyestudio NANO PLUS</a>
+
 * |KS0548(KS0548A)Keyestudio PLUS V2 Development Board|
 
 .. |KS0548(KS0548A)Keyestudio PLUS V2 Development Board| raw:: html
