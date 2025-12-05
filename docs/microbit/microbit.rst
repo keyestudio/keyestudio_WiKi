@@ -198,6 +198,13 @@ Robot kit
   <a href="https://docs.keyestudio.com/projects/KS4036/en/latest/" target="_blank">KS4036F Keyestudio Smart Robot Car for Micro:bit</a>
 
 
+* |KS4038(KS4039)Robot Arm Microbit Learning Kit|
+
+.. |KS4038(KS4039)Robot Arm Microbit Learning Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4038-KS4039/en/latest/" target="_blank">KS4038(KS4039)Robot Arm Microbit Learning Kit</a>
+
+
 * |KS4040 KS4041 Keyestudio Micro bit Desk Bit car|
 
 .. |KS4040 KS4041 Keyestudio Micro bit Desk Bit car| raw:: html
