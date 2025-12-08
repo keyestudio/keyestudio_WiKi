@@ -14,6 +14,12 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS6001-KS6002-KS6003-KS6004-KS6005/en/latest/" target="_blank">KS6001 KS6002 KS6003 KS6004 KS6005 keyestudio LED Module</a>
 
+* |KS6079 KS6079S keyestudio AHT20 Temperature and Humidity Sensor Module|
+
+.. |KS6079 KS6079S keyestudio AHT20 Temperature and Humidity Sensor Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6079-KS6079S/en/latest/" target="_blank">KS6079 KS6079S keyestudio AHT20 Temperature and Humidity Sensor Module</a>
+
 
 
 
