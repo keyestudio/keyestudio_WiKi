@@ -428,6 +428,18 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0087/en/latest/" target="_blank">KS0087 keyestudio DIY Electronic Scale</a>
 
+* |KS0095 KEYESTUDIO CNC Kit V3.0|
+
+.. |KS0095 KEYESTUDIO CNC Kit V3.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0094/en/latest/" target="_blank">KS0095 KEYESTUDIO CNC Kit V3.0</a>
+
+* |KS0094 KEYESTUDIO CNC Kit V2.0|
+
+.. |KS0094 KEYESTUDIO CNC Kit V2.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0094/en/latest/" target="_blank">KS0094 KEYESTUDIO CNC Kit V2.0</a>
+
 * |KS0178 keyestudio Sensor Kit for ARDUINO starters- K1|
 
 .. |KS0178 keyestudio Sensor Kit for ARDUINO starters- K1| raw:: html
@@ -457,6 +469,18 @@ Starter kit
 .. |KS0188 keyestudio Maker Touch Starter Kit| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0188/en/latest/" target="_blank">KS0188 keyestudio Maker Touch Starter Kit</a>
+
+* |KS0190 keyestudio Environment Monitoring Kit|
+
+.. |KS0190 keyestudio Environment Monitoring Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0190/en/latest/" target="_blank">KS0190 keyestudio Environment Monitoring Kit</a>
+
+* |KS0201 keyestudio Smart Clock Kit|
+
+.. |KS0201 keyestudio Smart Clock Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0201/en/latest/" target="_blank">KS0201 keyestudio Smart Clock Kit</a>
 
 * |KS0501 Keyestudio  UNO MAX Kit|
 
