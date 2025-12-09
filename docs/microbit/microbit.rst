@@ -130,6 +130,12 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS4048-KS4049/en/latest/" target="_blank">KS4048 KS4049 Keyestudio microbit V2 Smart home Kit</a>
 
+* |KS4050 Micro:bit Environment Monitoring Learning Kit|
+
+.. |KS4050 Micro:bit Environment Monitoring Learning Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4050/en/latest/" target="_blank">KS4050 Micro:bit Environment Monitoring Learning Kit</a>
+
 
 * |KS0807 Keyestudio STEM Programming DIY Stone Thrower Learning Kit|
 
