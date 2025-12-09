@@ -7,63 +7,6 @@ Arduino
 Modules
 ==============================
 
-* |KS6026 KS6026S keyestudio Light Sensor (LDR) Module|
-
-.. |KS6026 KS6026S keyestudio Light Sensor (LDR) Module| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS6026/en/latest/" target="_blank">KS6026 KS6026S keyestudio Light Sensor (LDR) Module</a>
-
-* |KS6033 Humidity temperature Module|
-
-.. |KS6033 Humidity temperature Module| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS6033/en/latest/" target="_blank">KS6033 Humidity temperature Module</a>
-
-* |KS6034 18B20 Module|
-
-.. |KS6034 18B20 Module| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS6034/en/latest/" target="_blank">KS6034 18B20 Module</a>
-
-
-
-* |KS6082 keyestudio 2021 Atomization Module|
-
-.. |KS6082 keyestudio 2021 Atomization Module| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS6082/en/latest/" target="_blank">KS6082 keyestudio 2021 Atomization Module</a>
-
-* |KS6084 keyestudio DIY Electronic Building Blocks SU03 Xiaozhi English Voice Module|
-
-.. |KS6084 keyestudio DIY Electronic Building Blocks SU03 Xiaozhi English Voice Module| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS6084/en/latest/" target="_blank">KS6084 keyestudio DIY Electronic Building Blocks SU03 Xiaozhi English Voice Module</a>
-
-* |KS6085 keyestudio I2S Audio Power Amplifier Module|
-
-.. |KS6085 keyestudio I2S Audio Power Amplifier Module| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS6085/en/latest/" target="_blank">KS6085 keyestudio I2S Audio Power Amplifier Module</a>
-
-* |KS6086 keyestudio MES Microphone Module|
-
-.. |KS6086 keyestudio MES Microphone Module| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS6086/en/latest/" target="_blank">KS6086 keyestudio MES Microphone Module</a>
-
-* |KS6089 keyestudio DIY Electronic Brick ICS Microphone Module|
-
-.. |KS6089 keyestudio DIY Electronic Brick ICS Microphone Module| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS6089/en/latest/" target="_blank">KS6089 keyestudio DIY Electronic Brick ICS Microphone Module</a>
-
-* |MD0798 Servo Control Module|
-
-.. |MD0798 Servo Control Module| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/MD0798/en/latest/" target="_blank">MD0798 Servo Control Module</a>
-
-
 
 
 
