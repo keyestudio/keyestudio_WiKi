@@ -20,6 +20,12 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS6079-KS6079S/en/latest/" target="_blank">KS6079 KS6079S keyestudio AHT20 Temperature and Humidity Sensor Module</a>
 
+* |KS6020 KS6020S keyestudio Flame sensor Module|
+
+.. |KS6020 KS6020S keyestudio Flame sensor Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6020-KS6020S/en/latest/" target="_blank">KS6020 KS6020S keyestudio Flame sensor Module</a>
+
 
 
 
