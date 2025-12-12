@@ -425,14 +425,6 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0201/en/latest/" target="_blank">KS0201 keyestudio Smart Clock Kit</a>
 
-* |KS0501 Keyestudio  UNO MAX Kit|
-
-.. |KS0501 Keyestudio  UNO MAX Kit| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0501/en/latest/" target="_blank">KS0501 Keyestudio  UNO MAX Kit</a>
-
-
-
 
 * |KS0070 Keyestudio Basic Breadboard kit For Arduino|
 
@@ -580,6 +572,15 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0487/en/latest/" target="_blank">KS0487 Keyestudio 37 in 1 Sensor Kit upgrade v3.0</a>
 
+
+* |KS0501 Keyestudio  UNO MAX Kit|
+
+.. |KS0501 Keyestudio  UNO MAX Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0501/en/latest/" target="_blank">KS0501 Keyestudio  UNO MAX Kit</a>
+
+
+
 * |KS0505 Keyestudio STEM Starter Kit for Plus Board|
 
 .. |KS0505 Keyestudio STEM Starter Kit for Plus Board| raw:: html
@@ -641,6 +642,12 @@ Starter kit
 .. |KS0549 Keyestudio DIY Electronic Watering Kit| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0549/en/latest/" target="_blank">KS0549 Keyestudio DIY Electronic Watering Kit</a>
+
+* |KS0561 Honeycomb DIY STEM Project Kit for Arduino with Alligator Clip Cable|
+
+.. |KS0561 Honeycomb DIY STEM Project Kit for Arduino with Alligator Clip Cable| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0561/en/latest/" target="_blank">KS0561 Honeycomb DIY STEM Project Kit for Arduino with Alligator Clip Cable</a>
 
 
 * |KS0564 Motion Sensing Glove Gesture Control Smart Car|

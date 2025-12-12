@@ -5,6 +5,12 @@ Micro bit
 Micro bit Shield
 ================
 
+* |KS0468 Keyestudio Storage Bag Micro:bit Main board Kit|
+
+.. |KS0468 Keyestudio Storage Bag Micro:bit Main board Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0468/en/latest/" target="_blank">KS0468 Keyestudio Storage Bag Micro:bit Main board Kit</a>
+
 * |KS4012 Keyestudio Micro bit Expansion Board with IO Ports|
 
 .. |KS4012 Keyestudio Micro bit Expansion Board with IO Ports| raw:: html
