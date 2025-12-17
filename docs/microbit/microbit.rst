@@ -5,6 +5,12 @@ Micro bit
 Micro bit Shield
 ================
 
+* |KS0360 Keyestudio Sensor Shield V2 for BBC microbit|
+
+.. |KS0360 Keyestudio Sensor Shield V2 for BBC microbit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0360/en/latest/" target="_blank">KS0360 Keyestudio Sensor Shield V2 for BBC microbit</a>
+
 * |KS0468 Keyestudio Storage Bag Micro:bit Main board Kit|
 
 .. |KS0468 Keyestudio Storage Bag Micro:bit Main board Kit| raw:: html
