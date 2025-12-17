@@ -2,6 +2,18 @@
 Raspberry Pi
 ============
 
+
+Shield
+=======
+
+* |KS0212 keyestudio RPI 4-channel Relay Shield|
+
+.. |KS0212 keyestudio RPI 4-channel Relay Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0212/en/latest/" target="_blank">KS0212 keyestudio RPI 4-channel Relay Shield</a>
+
+
+
 Starter kit
 =========================
 
