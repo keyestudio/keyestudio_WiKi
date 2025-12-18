@@ -292,6 +292,12 @@ Robot car kit
   <a href="https://docs.keyestudio.com/projects/KS0555/en/latest/" target="_blank">KS0555 Keyestudio Mini Caterpillar Tank Robot V3.0 (Popular Edition)</a>
 
 
+* |KS0558 Keyestudio Smart Turtle Car V3.0|
+
+.. |KS0558 Keyestudio Smart Turtle Car V3.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0558/en/latest/" target="_blank">KS0558 Keyestudio Smart Turtle Car V3.0</a>
+
 * |KS0559 Keyestudio 4WD BT Multi-purpose Car V2.0|
 
 .. |KS0559 Keyestudio 4WD BT Multi-purpose Car V2.0| raw:: html
