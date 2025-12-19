@@ -91,6 +91,18 @@ Development board
 Robot car kit
 =========================
 
+* |KS0071 keyestudio Mini Tank Robot|
+
+.. |KS0071 keyestudio Mini Tank Robot| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0071/en/latest/" target="_blank">KS0071 keyestudio Mini Tank Robot</a>
+
+* |KS0159 keyestudio Desktop Bluetooth Mini Smart Car|
+
+.. |KS0159 keyestudio Desktop Bluetooth Mini Smart Car| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0159/en/latest/" target="_blank">KS0159 keyestudio Desktop Bluetooth Mini Smart Car</a>
+
 * |KS0160 keyestudio CNC Shield V3|
 
 .. |KS0160 keyestudio CNC Shield V3| raw:: html
@@ -109,11 +121,41 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0164/en/latest/" target="_blank">KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface</a>
 
+* |KS0191 keyestudio Smart Small Turtle Robot|
+
+.. |KS0191 keyestudio Smart Small Turtle Robot| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0191/en/latest/" target="_blank">KS0191 keyestudio Smart Small Turtle Robot</a>
+
+* |KS0192 keyestudio 4WD Bluetooth Multi-functional Car|
+
+.. |KS0192 keyestudio 4WD Bluetooth Multi-functional Car| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0192/en/latest/" target="_blank">KS0192 keyestudio 4WD Bluetooth Multi-functional Car</a>
+
 * |KS0252 keyestudio Proto Screw Shield for Arduino|
 
 .. |KS0252 keyestudio Proto Screw Shield for Arduino| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0252/en/latest/" target="_blank">KS0252 keyestudio Proto Screw Shield for Arduino</a>
+
+* |KS0313 keyestudio Desktop Mini Bluetooth Smart Car V2.0 Kit|
+
+.. |KS0313 keyestudio Desktop Mini Bluetooth Smart Car V2.0 Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0313/en/latest/" target="_blank">KS0313 keyestudio Desktop Mini Bluetooth Smart Car V2.0 Kit</a>
+
+* |KS0356 keyestudio Micro:bit Mini Smart Robot Car|
+
+.. |KS0356 keyestudio Micro:bit Mini Smart Robot Car| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0356/en/latest/" target="_blank">KS0356 keyestudio Micro:bit Mini Smart Robot Car</a>
+
+* |KS0364 keyestudio Smart Little Turtle Robot V2.0|
+
+.. |KS0364 keyestudio Smart Little Turtle Robot V2.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0364/en/latest/" target="_blank">KS0364 keyestudio Smart Little Turtle Robot V2.0</a>
 
 * |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)|
 
