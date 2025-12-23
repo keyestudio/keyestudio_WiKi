@@ -26,7 +26,7 @@
 | Beetlebot       | ![](./media/Beetlebot.png)     | [👇Click to download](https://xiazai.keyesrobot.cn/APP/Beetlebot.apk) | [🏈Go Google Play](https://play.google.com/store/apps/details?id=com.keyestudio.beetlecar) | Not yet available                                            |
 | keyes Bit Car   | ![](./media/keyesBitCar.png)   | [👇Click to download](https://xiazai.keyesrobot.cn/APP/keyes%20Bit%20Car.apk) | [🏈Go Google Play](https://play.google.com/store/apps/details?id=com.keyestudio.desk_bit_car) | [🚀Jump to the App Store](https://apps.apple.com/cn/app/keyes-bit-car/id1524897128) |
 | IoT keyes       | ![](./media/IoTkeyes.png)      | [👇Click to download](https://xiazai.keyesrobot.cn/APP/keyes%20IoT.apk) | [🏈Go Google Play](https://play.google.com/store/apps/details?id=com.keyestudio.iot_keyes) | [🚀Jump to the App Store](https://apps.apple.com/cn/app/iot-keyes/id1487578236) |
-| Balance car Keyes       | ![](./media/BalancecarKeyes.jpg)      | [👇Click to download](https://xiazai.keyesrobot.cn/APP/Balance_car_Keyes.apk) |       | Not yet available                                            |
+| Balance car Keyes       | ![](./media/BalancecarKeyes.jpg)      | [👇Click to download](https://xiazai.keyesrobot.cn/APP/Balance_car_Keyes.apk) | Not yet available | Not yet available                                            |
 
 
 ## 💻 Programming Software Download
@@ -34,9 +34,9 @@
 
 ### MuEditor Software
 
-| Version |                        Windows System                        |                          Mac System                          | User Guide                                                   |
-| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-|  1.2.0  | [✔️Click to download](https://xiazai.keyesrobot.cn/software/MuEditor/MuEditor-win64-1.2.0.msi) | [✔️Click to download](https://xiazai.keyesrobot.cn/software/MuEditor/MuEditor-OSX-1.2.0.dmg) |  |
+| Version |                        Windows System                        |                          Mac System                          | User Guide        |
+| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: | ----------------- |
+|  1.2.0  | [✔️Click to download](https://xiazai.keyesrobot.cn/software/MuEditor/MuEditor-win64-1.2.0.msi) | [✔️Click to download](https://xiazai.keyesrobot.cn/software/MuEditor/MuEditor-OSX-1.2.0.dmg) | Not yet available |
 
 ### KidsBlock Software
 
@@ -46,8 +46,9 @@
 
 ## 🔧Driver Download
 
-| Driver Name |                        Windows System                        |                          Mac System                          |
-| :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    CH340    | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/ch340/CH341SER.ZIP) | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/ch340/CH34XSER_MAC.ZIP) |
-|   CP2102    | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/cp2102/CP2102_Driver.zip) | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/cp2102/Mac_OSX_VCP_Driver.zip) |
+| Driver Name  |                        Windows System                        |                          Mac System                          |
+| :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    CH340     | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/ch340/CH341SER.ZIP) | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/ch340/CH34XSER_MAC.ZIP) |
+|    CP2102    | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/cp2102/CP2102_Driver.zip) | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/cp2102/Mac_OSX_VCP_Driver.zip) |
+| 1.8.19_drive | [🏳️‍🌈Click to download](https://xiazai.keyesrobot.cn/software/cp2102/drivers.7z) |                      Not yet available                       |
 
