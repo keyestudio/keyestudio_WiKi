@@ -395,6 +395,31 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0069-KS0072-KS0073/en/latest/" target="_blank">KS0069 KS0072 KS0073 keyestudio Basic Starter Kit for Arduino Starters</a>
 
+* |KS0070 Keyestudio Basic Breadboard kit For Arduino|
+
+.. |KS0070 Keyestudio Basic Breadboard kit For Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0070/en/latest/" target="_blank">KS0070 Keyestudio Basic Breadboard kit For Arduino</a>
+
+* |Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino|
+
+.. |Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0074-KS0075-KS0076/en/latest/" target="_blank">Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino</a>
+
+* |KS0077 KS0078 KS0079 Keyestudio Super Starter Kit For Arduino|
+
+.. |KS0077 KS0078 KS0079 Keyestudio Super Starter Kit For Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0077-KS0078-KS0079/en/latest/" target="_blank">KS0077 KS0078 KS0079 Keyestudio Super Starter Kit For Arduino</a>
+
+
+* |KS0080 KS0081 KS0082 Keyestudio Maker Starter Kit For Arduino|
+
+.. |KS0080 KS0081 KS0082 Keyestudio Maker Starter Kit For Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0080-KS0081-KS0082/en/latest/" target="_blank">KS0080 KS0081 KS0082 Keyestudio Maker Starter Kit For Arduino</a>
+
 * |KS0083 keyestudio New sensor kit with Uno|
 
 .. |KS0083 keyestudio New sensor kit with Uno| raw:: html
@@ -406,6 +431,12 @@ Starter kit
 .. |KS0084 keyestudio New sensor kit with 2560 R3| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0084/en/latest/" target="_blank">KS0084 keyestudio New sensor kit with 2560 R3</a>
+
+* |KS0085 Keyestudio Smart Home Kit For Arduino|
+
+.. |KS0085 Keyestudio Smart Home Kit For Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0085/en/latest/" target="_blank">KS0085 Keyestudio Smart Home Kit For Arduino</a>
 
 * |KS0086 Starter Kit|
 
@@ -472,37 +503,6 @@ Starter kit
 .. |KS0201 keyestudio Smart Clock Kit| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0201/en/latest/" target="_blank">KS0201 keyestudio Smart Clock Kit</a>
-
-
-* |KS0070 Keyestudio Basic Breadboard kit For Arduino|
-
-.. |KS0070 Keyestudio Basic Breadboard kit For Arduino| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0070/en/latest/" target="_blank">KS0070 Keyestudio Basic Breadboard kit For Arduino</a>
-
-* |Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino|
-
-.. |Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0074-KS0075-KS0076/en/latest/" target="_blank">Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino</a>
-
-* |KS0077 KS0078 KS0079 Keyestudio Super Starter Kit For Arduino|
-
-.. |KS0077 KS0078 KS0079 Keyestudio Super Starter Kit For Arduino| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0077-KS0078-KS0079/en/latest/" target="_blank">KS0077 KS0078 KS0079 Keyestudio Super Starter Kit For Arduino</a>
-
-* |KS0080 KS0081 KS0082 Keyestudio Maker Starter Kit For Arduino|
-
-.. |KS0080 KS0081 KS0082 Keyestudio Maker Starter Kit For Arduino| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0080-KS0081-KS0082/en/latest/" target="_blank">KS0080 KS0081 KS0082 Keyestudio Maker Starter Kit For Arduino</a>
-
-* |KS0085 Keyestudio Smart Home Kit For Arduino|
-
-.. |KS0085 Keyestudio Smart Home Kit For Arduino| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0085/en/latest/" target="_blank">KS0085 Keyestudio Smart Home Kit For Arduino</a>
 
 * |KS0142 keyestudio SIM900 GSM/GPRS Module Shield|
 
