@@ -450,17 +450,17 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0087/en/latest/" target="_blank">KS0087 keyestudio DIY Electronic Scale</a>
 
-* |KS0095 KEYESTUDIO CNC Kit V3.0|
-
-.. |KS0095 KEYESTUDIO CNC Kit V3.0| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0094/en/latest/" target="_blank">KS0095 KEYESTUDIO CNC Kit V3.0</a>
-
 * |KS0094 KEYESTUDIO CNC Kit V2.0|
 
 .. |KS0094 KEYESTUDIO CNC Kit V2.0| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0094/en/latest/" target="_blank">KS0094 KEYESTUDIO CNC Kit V2.0</a>
+
+* |KS0095 KEYESTUDIO CNC Kit V3.0|
+
+.. |KS0095 KEYESTUDIO CNC Kit V3.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0095/en/latest/" target="_blank">KS0095 KEYESTUDIO CNC Kit V3.0</a>
 
 * |KS0178 keyestudio Sensor Kit for ARDUINO starters- K1|
 
