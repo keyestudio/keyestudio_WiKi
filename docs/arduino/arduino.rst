@@ -157,6 +157,12 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0364/en/latest/" target="_blank">KS0364 keyestudio Smart Little Turtle Robot V2.0</a>
 
+* |KS0436 keyestudio Ultimate Starter Kit For Little Inventor (Zero-based Arduino Learning Robot)|
+
+.. |KS0436 keyestudio Ultimate Starter Kit For Little Inventor (Zero-based Arduino Learning Robot)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0436/en/latest/" target="_blank">KS0436 keyestudio Ultimate Starter Kit For Little Inventor (Zero-based Arduino Learning Robot)</a>
+
 * |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)|
 
 .. |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)| raw:: html
@@ -236,12 +242,19 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS3017/en/latest/" target="_blank">KS3017 Keyestudio Raspberry Pico IO Shield</a>
 
+  <a href="https://docs.keyestudio.com/projects/KS0436/en/latest/" target="_blank">KS0436 keyestudio Ultimate Starter Kit For Little Inventor (Zero-based Arduino Learning Robot)</a>
+
+* |KS3029 Keyestudio 4WD Mecanum Robot for Pico|
+
+.. |KS3029 Keyestudio 4WD Mecanum Robot for Pico| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS3029/en/latest/" target="_blank">KS3029 Keyestudio 4WD Mecanum Robot for Pico</a>
+
 * |KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit|
 
 .. |KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0428/en/latest/" target="_blank">KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit</a>
-
 
 * |KS0441 Keyestudio Desktop Mini Smart Robot Car Kit|
 
