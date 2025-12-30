@@ -2,6 +2,12 @@
 Other Modules
 ==============
 
+* |KS0312 Keyestudio Breadboard Power Module+830-Hole Solderless Breadboard+65 Jumper Wires Package|
+
+.. |KS0312 Keyestudio Breadboard Power Module+830-Hole Solderless Breadboard+65 Jumper Wires Package| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0312/en/latest/" target="_blank">KS0312 Keyestudio Breadboard Power Module+830-Hole Solderless Breadboard+65 Jumper Wires Package</a>
+
 * |ks0387 Keyestudio YX5200-24SS MP3 Module|
 
 .. |ks0387 Keyestudio YX5200-24SS MP3 Module| raw:: html
