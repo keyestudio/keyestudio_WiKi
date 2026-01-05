@@ -62,6 +62,42 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0029/en/latest/" target="_blank">KS0029 keyestudio Digital Push Button</a>
 
+* |KS0031 keyestudio Capacitive Touch Sensor|
+
+.. |KS0031 keyestudio Capacitive Touch Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0031/en/latest/" target="_blank">KS0031 keyestudio Capacitive Touch Sensor</a>
+
+* |KS0033 keyestudio Analog Temperature Sensor|
+
+.. |KS0033 keyestudio Analog Temperature Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0033/en/latest/" target="_blank">KS0033 keyestudio Analog Temperature Sensor</a>
+
+* |KS0034 keyestudio DHT11 Temperature and Humidity Sensor|
+
+.. |KS0034 keyestudio DHT11 Temperature and Humidity Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0034/en/latest/" target="_blank">KS0034 keyestudio DHT11 Temperature and Humidity Sensor</a>
+
+* |KS0035 Microphone Sound Sensor with Potentiometer|
+
+.. |KS0035 Microphone Sound Sensor with Potentiometer| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0035/en/latest/" target="_blank">KS0035 Microphone Sound Sensor with Potentiometer</a>
+
+* |KS0036 keyestudio Flame Sensor|
+
+.. |KS0036 keyestudio Flame Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0036/en/latest/" target="_blank">KS0036 keyestudio Flame Sensor</a>
+
+* |KS0037 keyestudio Vibration Sensor|
+
+.. |KS0037 keyestudio Vibration Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0037/en/latest/" target="_blank">KS0037 keyestudio Vibration Sensor</a>
+
 * |KS0040 keyestudio Analog Gas Sensor|
 
 .. |KS0040 keyestudio Analog Gas Sensor| raw:: html
@@ -152,12 +188,80 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0054/en/latest/" target="_blank">KS0054 keyestudio BMP180 Digital Barometric Pressure Sensor Module for Arduino</a>
 
+
+* |KS0098 keyestudio TEMT6000 Ambient Light Sensor|
+
+.. |KS0098 keyestudio TEMT6000 Ambient Light Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0098/en/latest/" target="_blank">KS0098 keyestudio TEMT6000 Ambient Light Sensor</a>
+
+* |KS0185 keyestudio ACS712-30A Current Sensor|
+
+.. |KS0185 keyestudio ACS712-30A Current Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0185/en/latest/" target="_blank">KS0185 keyestudio ACS712-30A Current Sensor</a>
+
+* |KS0186 keyestudio ACS712-20A Current Sensor|
+
+.. |KS0186 keyestudio ACS712-20A Current Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0186/en/latest/" target="_blank">KS0186 keyestudio ACS712-20A Current Sensor</a>
+
+* |KS0187 keyestudio ACS712-5A Current Sensor|
+
+.. |KS0187 keyestudio ACS712-5A Current Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0187/en/latest/" target="_blank">KS0187 keyestudio ACS712-5A Current Sensor</a>
+
+* |KS0203 keyestudio Steam Sensor|
+
+.. |KS0203 keyestudio Steam Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0203/en/latest/" target="_blank">KS0203 keyestudio Steam Sensor</a>
+
+* |KS0204 keyestudio GUVA-S12SD 3528 Ultraviolet Sensor|
+
+.. |KS0204 keyestudio GUVA-S12SD 3528 Ultraviolet Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0204/en/latest/" target="_blank">KS0204 keyestudio GUVA-S12SD 3528 Ultraviolet Sensor</a>
+
+* |KS0205 Keyestudio RC522 Sensor|
+
+.. |KS0205 Keyestudio RC522 Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0205/en/latest/" target="_blank">KS0205 Keyestudio RC522 Sensor</a>
+
+* |KS0206 Keyestudio SR01 Ultrasonic Sensor|
+
+.. |KS0206 Keyestudio SR01 Ultrasonic Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0206/en/latest/" target="_blank">KS0206 Keyestudio SR01 Ultrasonic Sensor</a>
+
+* |KS0260 keyestudio TTP229L 16-key Touch Sensor|
+
+.. |KS0260 keyestudio TTP229L 16-key Touch Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0260/en/latest/" target="_blank">KS0260 keyestudio TTP229L 16-key Touch Sensor</a>
+
+
 * |KS0508 Keyestudio PCF8591 AD Adapter Module|
 
 .. |KS0508 Keyestudio PCF8591 AD Adapter Module| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0508/en/latest/" target="_blank">KS0508 Keyestudio PCF8591 AD Adapter Module</a>
 
+
+* |KS0511 Keyestudio Quick Connectors Ultrasonic Module(CS100A Chip/Black/Environment-friendly)|
+
+.. |KS0511 Keyestudio Quick Connectors Ultrasonic Module(CS100A Chip/Black/Environment-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0511/en/latest/" target="_blank">KS0511 Keyestudio Quick Connectors Ultrasonic Module(CS100A Chip/Black/Environment-friendly)</a>
+
+* |KS0517 Keyestudio DS1302 Clock Sensor(Black and Eco-friendly)|
+
+.. |KS0517 Keyestudio DS1302 Clock Sensor(Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0517/en/latest/" target="_blank">KS0517 Keyestudio DS1302 Clock Sensor(Black and Eco-friendly)</a>
 
 * |KS0312 Keyestudio Breadboard Power Module+830-Hole Solderless Breadboard+65 Jumper Wires Package|
 
@@ -170,6 +274,14 @@ Other Modules
 .. |ks0387 Keyestudio YX5200-24SS MP3 Module| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/ks0387/en/latest/" target="_blank">ks0387 Keyestudio YX5200-24SS MP3 Module</a>
+
+
+* |KS2002 EASY Plug CCS811 CO2 Air Quality Sensor(Black and Eco-friendly)|
+
+.. |KS2002 EASY Plug CCS811 CO2 Air Quality Sensor(Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS2002/en/latest/" target="_blank">KS2002 EASY Plug CCS811 CO2 Air Quality Sensor(Black and Eco-friendly)</a>
+
 
 * |KS6001 KS6002 KS6003 KS6004 KS6005 keyestudio LED Module|
 
