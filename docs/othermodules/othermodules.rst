@@ -243,6 +243,121 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0260/en/latest/" target="_blank">KS0260 keyestudio TTP229L 16-key Touch Sensor</a>
 
+* |KS0268 keyestudio SHT10 Digital Temperature Sensor|
+
+.. |KS0268 keyestudio SHT10 Digital Temperature Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0268/en/latest/" target="_blank">KS0268 keyestudio SHT10 Digital Temperature Sensor</a>
+
+* |KS0270 keyestudio MMA8452Q Module Triaxial Digital Acceleration Tilt Sensor|
+
+.. |KS0270 keyestudio MMA8452Q Module Triaxial Digital Acceleration Tilt Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0270/en/latest/" target="_blank">KS0270 keyestudio MMA8452Q Module Triaxial Digital Acceleration Tilt Sensor</a>
+
+* |KS0272 keyestudio Analog Piezoelectric Ceramic Vibration Sensor|
+
+.. |KS0272 keyestudio Analog Piezoelectric Ceramic Vibration Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0272/en/latest/" target="_blank">KS0272 keyestudio Analog Piezoelectric Ceramic Vibration Sensor</a>
+
+* |KS0274 keyestudio Current Sensor Current Detection Sensor|
+
+.. |KS0274 keyestudio Current Sensor Current Detection Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0274/en/latest/" target="_blank">KS0274 keyestudio Current Sensor Current Detection Sensor</a>
+
+* |KS0275 keyestudio Voltage Detection Module Voltage Sensor|
+
+.. |KS0275 keyestudio Voltage Detection Module Voltage Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0275/en/latest/" target="_blank">KS0275 keyestudio Voltage Detection Module Voltage Sensor</a>
+
+* |KS0276 keyestudio MLX90614 Non-contact Infrared Temperature Sensor|
+
+.. |KS0276 keyestudio MLX90614 Non-contact Infrared Temperature Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0276/en/latest/" target="_blank">KS0276 keyestudio MLX90614 Non-contact Infrared Temperature Sensor</a>
+
+* |KS0309 Keyestudio Thin-film Pressure Sensor (Black and Eco-friendly)|
+
+.. |KS0309 Keyestudio Thin-film Pressure Sensor (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0309/en/latest/" target="_blank">KS0309 Keyestudio Thin-film Pressure Sensor (Black and Eco-friendly)</a>
+
+
+
+* |KS0312 Keyestudio Breadboard Power Module+830-Hole Solderless Breadboard+65 Jumper Wires Package|
+
+.. |KS0312 Keyestudio Breadboard Power Module+830-Hole Solderless Breadboard+65 Jumper Wires Package| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0312/en/latest/" target="_blank">KS0312 Keyestudio Breadboard Power Module+830-Hole Solderless Breadboard+65 Jumper Wires Package</a>
+
+* |KS0316 Keyestudio DS18b20 Temperature Detector Sensor (Black and Eco-friendly)|
+
+.. |KS0316 Keyestudio DS18b20 Temperature Detector Sensor (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0316/en/latest/" target="_blank">KS0316 Keyestudio DS18b20 Temperature Detector Sensor (Black and Eco-friendly)</a>
+
+* |KS0346 Keyestudio Non-contact Liquid Level Sensor(Black and Friendly)|
+
+.. |KS0346 Keyestudio Non-contact Liquid Level Sensor(Black and Friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0346/en/latest/" target="_blank">KS0346 Keyestudio Non-contact Liquid Level Sensor(Black and Friendly)</a>
+
+* |KS0352 Keyestudio KEYBOT Programmable Robot 3-way Line Tracking Sensor|
+
+.. |KS0352 Keyestudio KEYBOT Programmable Robot 3-way Line Tracking Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0352/en/latest/" target="_blank">KS0352 Keyestudio KEYBOT Programmable Robot 3-way Line Tracking Sensor</a>
+
+* |ks0387 Keyestudio YX5200-24SS MP3 Module|
+
+.. |ks0387 Keyestudio YX5200-24SS MP3 Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/ks0387/en/latest/" target="_blank">ks0387 Keyestudio YX5200-24SS MP3 Module</a>
+
+* |KS0407 Keyestudio TCS34725 Color Sensor|
+
+.. |KS0407 Keyestudio TCS34725 Color Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0407/en/latest/" target="_blank">KS0407 Keyestudio TCS34725 Color Sensor</a>
+
+* |KS0414 Keyestudio Turbidity Sensor V1.0|
+
+.. |KS0414 Keyestudio Turbidity Sensor V1.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0414/en/latest/" target="_blank">KS0414 Keyestudio Turbidity Sensor V1.0</a>
+
+* |KS0429 keyestudio TDS Meter V1.0|
+
+.. |KS0429 keyestudio TDS Meter V1.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0429/en/latest/" target="_blank">KS0429 keyestudio TDS Meter V1.0</a>
+
+* |KS0430 Keyestudio DHT22 Temperature and Humidity Sensor|
+
+.. |KS0430 Keyestudio DHT22 Temperature and Humidity Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0430/en/latest/" target="_blank">KS0430 Keyestudio DHT22 Temperature and Humidity Sensor</a>
+
+* |KS0451 Keyestudio MS1100 Formaldehyde Benzene VOC Gas Sensor|
+
+.. |KS0451 Keyestudio MS1100 Formaldehyde Benzene VOC Gas Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0451/en/latest/" target="_blank">KS0451 Keyestudio MS1100 Formaldehyde Benzene VOC Gas Sensor</a>
+
+* |KS0457 keyestudio CCS811 Carbon Dioxide Air Quality Sensor|
+
+.. |KS0457 keyestudio CCS811 Carbon Dioxide Air Quality Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0457/en/latest/" target="_blank">KS0457 keyestudio CCS811 Carbon Dioxide Air Quality Sensor</a>
+
+* |KS0462 Keyestudio MAX30102 Heart Rate Sensor|
+
+.. |KS0462 Keyestudio MAX30102 Heart Rate Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0462/en/latest/" target="_blank">KS0462 Keyestudio MAX30102 Heart Rate Sensor</a>
 
 * |KS0508 Keyestudio PCF8591 AD Adapter Module|
 
@@ -263,17 +378,24 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0517/en/latest/" target="_blank">KS0517 Keyestudio DS1302 Clock Sensor(Black and Eco-friendly)</a>
 
-* |KS0312 Keyestudio Breadboard Power Module+830-Hole Solderless Breadboard+65 Jumper Wires Package|
 
-.. |KS0312 Keyestudio Breadboard Power Module+830-Hole Solderless Breadboard+65 Jumper Wires Package| raw:: html
+* |KS0532 Keyestudio 1.3 128x64 OLED Display with IIC Ports|
 
-  <a href="https://docs.keyestudio.com/projects/KS0312/en/latest/" target="_blank">KS0312 Keyestudio Breadboard Power Module+830-Hole Solderless Breadboard+65 Jumper Wires Package</a>
+.. |KS0532 Keyestudio 1.3 128x64 OLED Display with IIC Ports| raw:: html
 
-* |ks0387 Keyestudio YX5200-24SS MP3 Module|
+  <a href="https://docs.keyestudio.com/projects/KS0532/en/latest/" target="_blank">KS0532 Keyestudio 1.3 128x64 OLED Display with IIC Ports</a>
 
-.. |ks0387 Keyestudio YX5200-24SS MP3 Module| raw:: html
+* |KS0534 Keyestudio Power Module Type-C for Breadboard|
 
-  <a href="https://docs.keyestudio.com/projects/ks0387/en/latest/" target="_blank">ks0387 Keyestudio YX5200-24SS MP3 Module</a>
+.. |KS0534 Keyestudio Power Module Type-C for Breadboard| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0534/en/latest/" target="_blank">KS0534 Keyestudio Power Module Type-C for Breadboard</a>
+
+* |KS0542 Keyestudio LY51M02 Bluetooth 5.0 Module|
+
+.. |KS0542 Keyestudio LY51M02 Bluetooth 5.0 Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0542/en/latest/" target="_blank">KS0542 Keyestudio LY51M02 Bluetooth 5.0 Module</a>
 
 
 * |KS2002 EASY Plug CCS811 CO2 Air Quality Sensor(Black and Eco-friendly)|
