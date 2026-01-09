@@ -38,13 +38,13 @@
 
 .. |ks0096 keyestudio CNC Kit CNC Shield V4.0 + Nano 3.0+3pcs a4988 Driver GRBL Compatible| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/ks0096/en/latest/" target="_blank">ks0096 keyestudio CNC Kit CNC Shield V4.0 + Nano 3.0+3pcs a4988 Driver GRBL Compatible</a>
+  <a href="https://docs.keyestudio.com/projects/KS0096/en/latest/" target="_blank">ks0096 keyestudio CNC Kit CNC Shield V4.0 + Nano 3.0+3pcs a4988 Driver GRBL Compatible</a>
 
 * |ks0141 keyestudio DRV8825 stepper motor driver for 3D printer|
 
 .. |ks0141 keyestudio DRV8825 stepper motor driver for 3D printer| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/ks0141/en/latest/" target="_blank">ks0141 keyestudio DRV8825 stepper motor driver for 3D printer</a>
+  <a href="https://docs.keyestudio.com/projects/KS0141/en/latest/" target="_blank">ks0141 keyestudio DRV8825 stepper motor driver for 3D printer</a>
 
 * |KS0149 Keyestudio RAMPS1.4 12864 LCD Control Panel for 3D Printer|
 
