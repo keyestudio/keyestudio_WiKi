@@ -5,6 +5,12 @@ Micro bit
 Micro bit Shield
 ================
 
+* |FKS0004 Micro: bit basic learning kit|
+
+.. |FKS0004 Micro: bit basic learning kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/FKS0004/en/latest/" target="_blank">FKS0004 Micro: bit basic learning kit</a>
+
 * |KS0360 Keyestudio Sensor Shield V2 for BBC microbit|
 
 .. |KS0360 Keyestudio Sensor Shield V2 for BBC microbit| raw:: html
