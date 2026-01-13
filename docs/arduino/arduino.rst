@@ -36,6 +36,12 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0003/en/latest/" target="_blank">KS0003 keyestudio Protoshield for Arduino with Mini Breadboard</a>
 
+* |KS0006 Keyestudio MEGA Sensor Shield V1|
+
+.. |KS0006 Keyestudio MEGA Sensor Shield V1| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0006/en/latest/" target="_blank">KS0006 Keyestudio MEGA Sensor Shield V1</a>
+
 * |Ks0248 keyestudio Leonardo R3 Development Board_renamed|
 
 .. |Ks0248 keyestudio Leonardo R3 Development Board_renamed| raw:: html
