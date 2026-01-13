@@ -188,6 +188,12 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0054/en/latest/" target="_blank">KS0054 keyestudio BMP180 Digital Barometric Pressure Sensor Module for Arduino</a>
 
+* |KS0059 keyestudio 8-channel 5V Relay Module|
+
+.. |KS0059 keyestudio 8-channel 5V Relay Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0059/en/latest/" target="_blank">KS0059 keyestudio 8-channel 5V Relay Module</a>
+
 
 * |KS0098 keyestudio TEMT6000 Ambient Light Sensor|
 
