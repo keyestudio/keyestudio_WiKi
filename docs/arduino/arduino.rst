@@ -981,6 +981,13 @@ Shield
 
 
 
+* |KT0280 Keyes New RFID Starter Kit|
+
+.. |KT0280 Keyes New RFID Starter Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KT0280/en/latest/" target="_blank">KT0280 Keyes New RFID Starter Kit</a>
+
+
 
 
 
