@@ -756,6 +756,18 @@ Starter kit
 
 
 
+* |KT0280 Keyes New RFID Starter Kit|
+
+.. |KT0280 Keyes New RFID Starter Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KT0280/en/latest/" target="_blank">KT0280 Keyes New RFID Starter Kit</a>
+
+
+
+
+
+
+
 
 Shield
 =======
@@ -975,18 +987,6 @@ Shield
 .. |KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS5001/en/latest/" target="_blank">KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)</a>
-
-
-
-
-
-
-* |KT0280 Keyes New RFID Starter Kit|
-
-.. |KT0280 Keyes New RFID Starter Kit| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KT0280/en/latest/" target="_blank">KT0280 Keyes New RFID Starter Kit</a>
-
 
 
 
