@@ -11,6 +11,8 @@
    docs/microbit/microbit
    docs/raspberrypi/raspberrypi
    docs/othermodules/othermodules
+   docs/3D Printing.rst
+   docs/Synthetical Suite.rst
    docs/index.md
    docs/Download_Center/Download_Center
 
