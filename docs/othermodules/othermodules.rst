@@ -488,7 +488,56 @@ Other Modules
   <a href="https://docs.keyestudio.com/projects/MD0798/en/latest/" target="_blank">MD0798 Servo Control Module</a>
 
 
+Relay Module
+============
 
+* |KS0011 keyestudio 5V Relay Module|
+
+.. |KS0011 keyestudio 5V Relay Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0011/en/latest/" target="_blank">KS0011 keyestudio 5V Relay Module</a>
+
+* |KS0057 keyestudio Dual Relay Module|
+
+.. |KS0057 keyestudio Dual Relay Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0057/en/latest/" target="_blank">KS0057 keyestudio Dual Relay Module</a>
+
+* |KS0058 keyestudio 4-channel Relay Module|
+
+.. |KS0058 keyestudio 4-channel Relay Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0058/en/latest/" target="_blank">KS0058 keyestudio 4-channel Relay Module</a>
+
+* |KS0263 keyestudio Single Solid State Relay Module|
+
+.. |KS0263 keyestudio Single Solid State Relay Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0263/en/latest/" target="_blank">KS0263 keyestudio Single Solid State Relay Module</a>
+
+* |KS0264 keyestudio Two-channel Solid State Relay Module|
+
+.. |KS0264 keyestudio Two-channel Solid State Relay Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0264/en/latest/" target="_blank">KS0264 keyestudio Two-channel Solid State Relay Module</a>
+
+* |KS0265 keyestudio Four-channel Solid State Relay Module|
+
+.. |KS0265 keyestudio Four-channel Solid State Relay Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0265/en/latest/" target="_blank">KS0265 keyestudio Four-channel Solid State Relay Module</a>
+
+* |KS0266 keyestudio Eight-channel Solid State Relay Module|
+
+.. |KS0266 keyestudio Eight-channel Solid State Relay Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0266/en/latest/" target="_blank">KS0266 keyestudio Eight-channel Solid State Relay Module</a>
+
+* |KS0317 keyestudio Relay Module (Black and Environmental-friendly)|
+
+.. |KS0317 keyestudio Relay Module (Black and Environmental-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0317/en/latest/" target="_blank">KS0317 keyestudio Relay Module (Black and Environmental-friendly)</a>
 
 
 Starter kit
