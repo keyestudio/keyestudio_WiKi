@@ -250,12 +250,6 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0436/en/latest/" target="_blank">KS0436 keyestudio Ultimate Starter Kit For Little Inventor (Zero-based Arduino Learning Robot)</a>
 
-* |KS3029 Keyestudio 4WD Mecanum Robot for Pico|
-
-.. |KS3029 Keyestudio 4WD Mecanum Robot for Pico| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS3029/en/latest/" target="_blank">KS3029 Keyestudio 4WD Mecanum Robot for Pico</a>
-
 * |KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit|
 
 .. |KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit| raw:: html

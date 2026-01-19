@@ -113,6 +113,12 @@ Pico Starter kit
   <a href="https://docs.keyestudio.com/projects/KS3026/en/latest/" target="_blank">KS3026 Keyestudio Raspberry Pi Pico Basic starter Kit</a>
 
 
+* |KS3029 Keyestudio 4WD Mecanum Robot for Pico|
+
+.. |KS3029 Keyestudio 4WD Mecanum Robot for Pico| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS3029/en/latest/" target="_blank">KS3029 Keyestudio 4WD Mecanum Robot for Pico</a>
+
 
 
 Pico Robot kit
