@@ -53,6 +53,14 @@ Starter kit
 
 
 
+* |KS0219 keyestudio RPI T-type GPIO Shield Kit|
+
+.. |KS0219 keyestudio RPI T-type GPIO Shield Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0219/en/latest/" target="_blank">KS0219 keyestudio RPI T-type GPIO Shield Kit</a>
+
+
+
 
 
 Robot kit
