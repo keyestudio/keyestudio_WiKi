@@ -54,6 +54,12 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0304/en/latest/" target="_blank">KS0304 Keyestudio W5500 ETHERNET DEVELOPMENT BOARD (WITHOUT POE)</a>
 
+* |KS0486 Keyestudio PLUS Control Board (Black And Eco-friendly)|
+
+.. |KS0486 Keyestudio PLUS Control Board (Black And Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0486/en/latest/" target="_blank">KS0486 Keyestudio PLUS Control Board (Black And Eco-friendly)</a>
+
 
 * |KS0499 Keyestudio Mega 2560 Plus Board|
 
