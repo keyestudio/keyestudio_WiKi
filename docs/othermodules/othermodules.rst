@@ -540,6 +540,58 @@ Relay Module
   <a href="https://docs.keyestudio.com/projects/KS0317/en/latest/" target="_blank">KS0317 keyestudio Relay Module (Black and Environmental-friendly)</a>
 
 
+Motor Modules
+==============
+
+* |KS0063 keyestudio L298N Motor Driver Board Module|
+
+.. |KS0063 keyestudio L298N Motor Driver Board Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0063/en/latest/" target="_blank">KS0063 keyestudio L298N Motor Driver Board Module</a>
+
+* |KS0065 keyestudio 16-channel 12-bit PWM/Servo Driver I2C Interface|
+
+.. |KS0065 keyestudio 16-channel 12-bit PWM/Servo Driver I2C Interface| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0065/en/latest/" target="_blank">KS0065 keyestudio 16-channel 12-bit PWM/Servo Driver I2C Interface</a>
+
+* |KS0066 keyestudio TB6612FNG Motor Driver|
+
+.. |KS0066 keyestudio TB6612FNG Motor Driver| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0066/en/latest/" target="_blank">KS0066 keyestudio TB6612FNG Motor Driver</a>
+
+* |KS0140 keyestudio 5V Stepper Motor|
+
+.. |KS0140 keyestudio 5V Stepper Motor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0140/en/latest/" target="_blank">KS0140 keyestudio 5V Stepper Motor</a>
+
+* |KS0194 keyestudio Micro Servo|
+
+.. |KS0194 keyestudio Micro Servo| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0194/en/latest/" target="_blank">KS0194 keyestudio Micro Servo</a>
+
+* |KS0208 keyestudio ULN2003 Stepper Motor Driver|
+
+.. |KS0208 keyestudio ULN2003 Stepper Motor Driver| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0208/en/latest/" target="_blank">KS0208 keyestudio ULN2003 Stepper Motor Driver</a>
+
+* |KS0209 keyestudio 9G Servo Motor Blue 90°|
+
+.. |KS0209 keyestudio 9G Servo Motor Blue 90°| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0209/en/latest/" target="_blank">KS0209 keyestudio 9G Servo Motor Blue 90°</a>
+
+* |KS0281 Keyestudio Reprap Stepper Motor Driver|
+
+.. |KS0281 Keyestudio Reprap Stepper Motor Driver| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0281/en/latest/" target="_blank">KS0281 Keyestudio Reprap Stepper Motor Driver</a>
+
+
 Starter kit
 =========================
 
