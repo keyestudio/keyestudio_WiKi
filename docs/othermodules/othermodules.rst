@@ -488,6 +488,194 @@ Other Modules
   <a href="https://docs.keyestudio.com/projects/MD0798/en/latest/" target="_blank">MD0798 Servo Control Module</a>
 
 
+LCDs LEDs and Displays
+=======================
+
+* |KS0010 keyestudio 3W LED Module|
+
+.. |KS0010 keyestudio 3W LED Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0010/en/latest/" target="_blank">KS0010 keyestudio 3W LED Module</a>
+
+* |KS0016 Keyestudio White LED Module|
+
+.. |KS0016 Keyestudio White LED Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0016/en/latest/" target="_blank">KS0016 Keyestudio White LED Module</a>
+
+* |KS0030 keyestudio Magical Light Cup Module|
+
+.. |KS0030 keyestudio Magical Light Cup Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0030/en/latest/" target="_blank">KS0030 keyestudio Magical Light Cup Module</a>
+
+* |KS0032 keyestudio RGB LED Module|
+
+.. |KS0032 keyestudio RGB LED Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0032/en/latest/" target="_blank">KS0032 keyestudio RGB LED Module</a>
+
+* |KS0056 keyestudio 1.3" 128x64 OLED Graphic Display|
+
+.. |KS0056 keyestudio 1.3" 128x64 OLED Graphic Display| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0056/en/latest/" target="_blank">KS0056 keyestudio 1.3" 128x64 OLED Graphic Display</a>
+
+* |KS0060 keyestudio Large Button 4*4 Matrix Keypad for Arduino|
+
+.. |KS0060 keyestudio Large Button 4*4 Matrix Keypad for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0060/en/latest/" target="_blank">KS0060 keyestudio Large Button 4*4 Matrix Keypad for Arduino</a>
+
+* |KS0061 keyestudio 1602 I2C Module|
+
+.. |KS0061 keyestudio 1602 I2C Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0061/en/latest/" target="_blank">KS0061 keyestudio 1602 I2C Module</a>
+
+* |KS0061A Keyestudio 1602 I2C Module|
+
+.. |KS0061A Keyestudio 1602 I2C Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0061A/en/latest/" target="_blank">KS0061A Keyestudio 1602 I2C Module</a>
+
+* |KS0062 keyestudio I2C LCD2004 Module|
+
+.. |KS0062 keyestudio I2C LCD2004 Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0062/en/latest/" target="_blank">KS0062 keyestudio I2C LCD2004 Module</a>
+
+* |KS0064 keyestudio I2C 8x8 LED Matrix HT16K33|
+
+.. |KS0064 keyestudio I2C 8x8 LED Matrix HT16K33| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0064/en/latest/" target="_blank">KS0064 keyestudio I2C 8x8 LED Matrix HT16K33</a>
+
+* |KS0232 keyestudio Red LED Module|
+
+.. |KS0232 keyestudio Red LED Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0232/en/latest/" target="_blank">KS0232 keyestudio Red LED Module</a>
+
+* |KS0233 keyestudio Green LED Module|
+
+.. |KS0233 keyestudio Green LED Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0233/en/latest/" target="_blank">KS0233 keyestudio Green LED Module</a>
+
+* |KS0234 keyestudio Yellow LED Module|
+
+.. |KS0234 keyestudio Yellow LED Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0234/en/latest/" target="_blank">KS0234 keyestudio Yellow LED Module</a>
+
+* |KS0235 keyestudio Blue LED Module|
+
+.. |KS0235 keyestudio Blue LED Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0235/en/latest/" target="_blank">KS0235 keyestudio Blue LED Module</a>
+
+* |KS0262 keyestudio LED Dot Matrix Display Module 1616 Infinite Cascade|
+
+.. |KS0262 keyestudio LED Dot Matrix Display Module 1616 Infinite Cascade| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0262/en/latest/" target="_blank">KS0262 keyestudio LED Dot Matrix Display Module 1616 Infinite Cascade</a>
+
+* |KS0269 keyestudio TMD27713 ALS Infrared LED Optical Proximity Detection Module|
+
+.. |KS0269 keyestudio TMD27713 ALS Infrared LED Optical Proximity Detection Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0269/en/latest/" target="_blank">KS0269 keyestudio TMD27713 ALS Infrared LED Optical Proximity Detection Module</a>
+
+* |KS0271 keyestudio OLED Display OLED Module|
+
+.. |KS0271 keyestudio OLED Display OLED Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0271/en/latest/" target="_blank">KS0271 keyestudio OLED Display OLED Module</a>
+
+* |KS0347 Keyestudio 130 Motor DC3-5V Driving Module|
+
+.. |KS0347 Keyestudio 130 Motor DC3-5V Driving Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0347/en/latest/" target="_blank">KS0347 Keyestudio 130 Motor DC3-5V Driving Module</a>
+
+* |KS0357 Keyestudio 8x16 LED Matrix Panel|
+
+.. |KS0357 Keyestudio 8x16 LED Matrix Panel| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0357/en/latest/" target="_blank">KS0357 Keyestudio 8x16 LED Matrix Panel</a>
+
+* |KS0357A Keyestudio 8x16 LED Matrix Panel|
+
+.. |KS0357A Keyestudio 8x16 LED Matrix Panel| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0357A/en/latest/" target="_blank">KS0357A Keyestudio 8x16 LED Matrix Panel</a>
+
+* |KS0396 keyestudio 8x8 LED Matrix Module Address Select|
+
+.. |KS0396 keyestudio 8x8 LED Matrix Module Address Select| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0396/en/latest/" target="_blank">KS0396 keyestudio 8x8 LED Matrix Module Address Select</a>
+
+* |KS0445 keyestudio 4-digit LED Display Module|
+
+.. |KS0445 keyestudio 4-digit LED Display Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0445/en/latest/" target="_blank">KS0445 keyestudio 4-digit LED Display Module</a>
+
+* |KS0454 keyestudio Circular TFT LCD Smart Watch Display Module|
+
+.. |KS0454 keyestudio Circular TFT LCD Smart Watch Display Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0454/en/latest/" target="_blank">KS0454 keyestudio Circular TFT LCD Smart Watch Display Module</a>
+
+* |KS0459 Keyestudio 10mm Highlight Full-color LED RGB Module|
+
+.. |KS0459 Keyestudio 10mm Highlight Full-color LED RGB Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0459/en/latest/" target="_blank">KS0459 Keyestudio 10mm Highlight Full-color LED RGB Module</a>
+
+* |KS0461 Keyestudio Electronic Ink Screen Module 2.13 Inch|
+
+.. |KS0461 Keyestudio Electronic Ink Screen Module 2.13 Inch| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0461/en/latest/" target="_blank">KS0461 Keyestudio Electronic Ink Screen Module 2.13 Inch</a>
+
+* |KS0469 Keyestudio Electronic Ink Screen Module 1.54 Inch|
+
+.. |KS0469 Keyestudio Electronic Ink Screen Module 1.54 Inch| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0469/en/latest/" target="_blank">KS0469 Keyestudio Electronic Ink Screen Module 1.54 Inch</a>
+
+* |KS0475 Keyestudio 8*8 Dot Matrix Module 1088AS For Smart Car (Black and Eco-friendly)|
+
+.. |KS0475 Keyestudio 8*8 Dot Matrix Module 1088AS For Smart Car (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0475/en/latest/" target="_blank">KS0475 Keyestudio 8*8 Dot Matrix Module 1088AS For Smart Car (Black and Eco-friendly)</a>
+
+* |KS0504 Keyestudio SR01 Ultrasonic Sensor V3|
+
+.. |KS0504 Keyestudio SR01 Ultrasonic Sensor V3| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0504/en/latest/" target="_blank">KS0504 Keyestudio SR01 Ultrasonic Sensor V3</a>
+
+* |KS0510 Keyestudio New Type Soil Humidity Sensor|
+
+.. |KS0510 Keyestudio New Type Soil Humidity Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0510/en/latest/" target="_blank">KS0510 Keyestudio New Type Soil Humidity Sensor</a>
+
+* |KS0525 Keyestudio SIM868 GSM GPRS GNSS Bluetooth Module|
+
+.. |KS0525 Keyestudio SIM868 GSM GPRS GNSS Bluetooth Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0525/en/latest/" target="_blank">KS0525 Keyestudio SIM868 GSM GPRS GNSS Bluetooth Module</a>
+
+
+
+
+
+
 Relay Module
 ============
 
