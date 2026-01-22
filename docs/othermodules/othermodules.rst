@@ -780,6 +780,114 @@ Motor Modules
   <a href="https://docs.keyestudio.com/projects/KS0281/en/latest/" target="_blank">KS0281 Keyestudio Reprap Stepper Motor Driver</a>
 
 
+Wireless
+=========
+
+
+* |KS0026 keyestudio Digital IR Receiver Module|
+
+.. |KS0026 keyestudio Digital IR Receiver Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0026/en/latest/" target="_blank">KS0026 keyestudio Digital IR Receiver Module</a>
+
+* |KS0027 keyestudio Digital IR Transmitter Module|
+
+.. |KS0027 keyestudio Digital IR Transmitter Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0027/en/latest/" target="_blank">KS0027 keyestudio Digital IR Transmitter Module</a>
+
+* |KS0055 keyestudio Bluetooth Module|
+
+.. |KS0055 keyestudio Bluetooth Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0055/en/latest/" target="_blank">KS0055 keyestudio Bluetooth Module</a>
+
+* |KS0067 keyestudio RC522 RFID Module for Arduino|
+
+.. |KS0067 keyestudio RC522 RFID Module for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0067/en/latest/" target="_blank">KS0067 keyestudio RC522 RFID Module for Arduino</a>
+
+* |KS0088 New Infrared IR Wireless Remote Control Module Kits for Arduino|
+
+.. |KS0088 New Infrared IR Wireless Remote Control Module Kits for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0088/en/latest/" target="_blank">KS0088 New Infrared IR Wireless Remote Control Module Kits for Arduino</a>
+
+* |KS0097 keyestudio Bluetooth Transmission Module for Arduino with Bottom HC-05 Master and Slave|
+
+.. |KS0097 keyestudio Bluetooth Transmission Module for Arduino with Bottom HC-05 Master and Slave| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0097/en/latest/" target="_blank">KS0097 keyestudio Bluetooth Transmission Module for Arduino with Bottom HC-05 Master and Slave</a>
+
+* |KS0143 keyestudio XBee Bluetooth Wireless Module HC-05|
+
+.. |KS0143 keyestudio XBee Bluetooth Wireless Module HC-05| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0143/en/latest/" target="_blank">KS0143 keyestudio XBee Bluetooth Wireless Module HC-05</a>
+
+* |KS0144 keyestudio XBee Bluetooth Wireless Module HC-06|
+
+.. |KS0144 keyestudio XBee Bluetooth Wireless Module HC-06| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0144/en/latest/" target="_blank">KS0144 keyestudio XBee Bluetooth Wireless Module HC-06</a>
+
+* |KS0174 keyestudio HM-10 Bluetooth-4.0 V2|
+
+.. |KS0174 keyestudio HM-10 Bluetooth-4.0 V2| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0174/en/latest/" target="_blank">KS0174 keyestudio HM-10 Bluetooth-4.0 V2</a>
+
+* |KS0319 keyestudio GPS Module|
+
+.. |KS0319 keyestudio GPS Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0319/en/latest/" target="_blank">KS0319 keyestudio GPS Module</a>
+
+* |KS0338 Keyestudio 24L01 Wireless Module|
+
+.. |KS0338 Keyestudio 24L01 Wireless Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0338/en/latest/" target="_blank">KS0338 Keyestudio 24L01 Wireless Module</a>
+
+* |KS0355 keyestudio HC-08 Bluetooth Module|
+
+.. |KS0355 keyestudio HC-08 Bluetooth Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0355/en/latest/" target="_blank">KS0355 keyestudio HC-08 Bluetooth Module</a>
+
+* |KS0389 keyestudio ESP8266 WiFi Module (Black and Eco-friendly)|
+
+.. |KS0389 keyestudio ESP8266 WiFi Module (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0389/en/latest/" target="_blank">KS0389 keyestudio ESP8266 WiFi Module (Black and Eco-friendly)</a>
+
+* |KS0408 keyestudio ESP-01 Relay Module|
+
+.. |KS0408 keyestudio ESP-01 Relay Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0408/en/latest/" target="_blank">KS0408 keyestudio ESP-01 Relay Module</a>
+
+* |KS0409 Keyestudio ESP-01 DHT11 Temperature and Humidity Module|
+
+.. |KS0409 Keyestudio ESP-01 DHT11 Temperature and Humidity Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0409/en/latest/" target="_blank">KS0409 Keyestudio ESP-01 DHT11 Temperature and Humidity Module</a>
+
+* |KS0410 Keyestudio ESP-01 DS18B20 Temperature Module|
+
+.. |KS0410 Keyestudio ESP-01 DS18B20 Temperature Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0410/en/latest/" target="_blank">KS0410 Keyestudio ESP-01 DS18B20 Temperature Module</a>
+
+* |KS0455 keyestudio HM-10 Bluetooth-4.0 V3 Compatible with HC-06 Pins|
+
+.. |KS0455 keyestudio HM-10 Bluetooth-4.0 V3 Compatible with HC-06 Pins| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0455/en/latest/" target="_blank">KS0455 keyestudio HM-10 Bluetooth-4.0 V3 Compatible with HC-06 Pins</a>
+
+
+
 Starter kit
 =========================
 
