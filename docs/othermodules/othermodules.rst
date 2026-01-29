@@ -2,6 +2,30 @@
 Other Modules
 ==============
 
+* |KS0008 keyestudio Joystick Module|
+
+.. |KS0008 keyestudio Joystick Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0008/en/latest/" target="_blank">KS0008 keyestudio Joystick Module</a>
+
+* |KS0009 keyestudio Photo Interrupter Module|
+
+.. |KS0009 keyestudio Photo Interrupter Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0009/en/latest/" target="_blank">KS0009 keyestudio Photo Interrupter Module</a>
+
+* |KS0012 keyestudio ADXL345 Three Axis Acceleration Module|
+
+.. |KS0012 keyestudio ADXL345 Three Axis Acceleration Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0012/en/latest/" target="_blank">KS0012 keyestudio ADXL345 Three Axis Acceleration Module</a>
+
+* |KS0013 keyestudio Rotary Encoder Module|
+
+.. |KS0013 keyestudio Rotary Encoder Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0013/en/latest/" target="_blank">KS0013 keyestudio Rotary Encoder Module</a>
+
 * |KS0014 keyestudio Analog Rotation Sensor|
 
 .. |KS0014 keyestudio Analog Rotation Sensor| raw:: html
@@ -13,6 +37,18 @@ Other Modules
 .. |KS0015 keyestudio Pulse Rate Monitor| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0015/en/latest/" target="_blank">KS0015 keyestudio Pulse Rate Monitor</a>
+
+* |KS0018 keyestudio Digital Buzzer Module|
+
+.. |KS0018 keyestudio Digital Buzzer Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0018/en/latest/" target="_blank">KS0018 keyestudio Digital Buzzer Module</a>
+
+* |KS0019 keyestudio Passive Buzzer module|
+
+.. |KS0019 keyestudio Passive Buzzer module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0019/en/latest/" target="_blank">KS0019 keyestudio Passive Buzzer module</a>
 
 * |KS0020 keyestudio Hall Magnetic Sensor|
 
@@ -97,6 +133,18 @@ Other Modules
 .. |KS0037 keyestudio Vibration Sensor| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0037/en/latest/" target="_blank">KS0037 keyestudio Vibration Sensor</a>
+
+* |KS0038 keyestudio Reed Switch Module|
+
+.. |KS0038 keyestudio Reed Switch Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0038/en/latest/" target="_blank">KS0038 keyestudio Reed Switch Module</a>
+
+* |KS0039 keyestudio DS3231 Clock Module|
+
+.. |KS0039 keyestudio DS3231 Clock Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0039/en/latest/" target="_blank">KS0039 keyestudio DS3231 Clock Module</a>
 
 * |KS0040 keyestudio Analog Gas Sensor|
 
@@ -201,6 +249,48 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0098/en/latest/" target="_blank">KS0098 keyestudio TEMT6000 Ambient Light Sensor</a>
 
+* |KS0165 Keyestudio Scratch Shield|
+
+.. |KS0165 Keyestudio Scratch Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0165/en/latest/" target="_blank">KS0165 Keyestudio Scratch Shield</a>
+
+* |KS0166 keyestudio DS3234 high precision real time clock module|
+
+.. |KS0166 keyestudio DS3234 high precision real time clock module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0166/en/latest/" target="_blank">KS0166 keyestudio DS3234 high precision real time clock module</a>
+
+* |KS0167 keyestudio HX711 Load Cell Pressure Sensor Module|
+
+.. |KS0167 keyestudio HX711 Load Cell Pressure Sensor Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0167/en/latest/" target="_blank">KS0167 keyestudio HX711 Load Cell Pressure Sensor Module</a>
+
+* |KS0168 keyestudio L9110 fan control module|
+
+.. |KS0168 keyestudio L9110 fan control module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0168/en/latest/" target="_blank">KS0168 keyestudio L9110 fan control module</a>
+
+* |KS0169 Keyestudio MAX6675 K-Thermocouple-to-Digital Converter module|
+
+.. |KS0169 Keyestudio MAX6675 K-Thermocouple-to-Digital Converter module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0169/en/latest/" target="_blank">KS0169 Keyestudio MAX6675 K-Thermocouple-to-Digital Converter module</a>
+
+* |KS0170 keyestudio MPU6050 Gyroscope and Accelerometer module|
+
+.. |KS0170 keyestudio MPU6050 Gyroscope and Accelerometer module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0170/en/latest/" target="_blank">KS0170 keyestudio MPU6050 Gyroscope and Accelerometer module</a>
+
+* |KS0171 keyestudio XD-58C Pulse Sensor Module|
+
+.. |KS0171 keyestudio XD-58C Pulse Sensor Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0171/en/latest/" target="_blank">KS0171 keyestudio XD-58C Pulse Sensor Module</a>
+
 * |KS0185 keyestudio ACS712-30A Current Sensor|
 
 .. |KS0185 keyestudio ACS712-30A Current Sensor| raw:: html
@@ -249,6 +339,18 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0260/en/latest/" target="_blank">KS0260 keyestudio TTP229L 16-key Touch Sensor</a>
 
+* |KS0261 keyestudio AD8232 ECG Measurement Heart Monitor Sensor Module|
+
+.. |KS0261 keyestudio AD8232 ECG Measurement Heart Monitor Sensor Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0261/en/latest/" target="_blank">KS0261 keyestudio AD8232 ECG Measurement Heart Monitor Sensor Module</a>
+
+* |KS0267 keyestudio APDS-9930 Attitude Sensor Module|
+
+.. |KS0267 keyestudio APDS-9930 Attitude Sensor Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0267/en/latest/" target="_blank">KS0267 keyestudio APDS-9930 Attitude Sensor Module</a>
+
 * |KS0268 keyestudio SHT10 Digital Temperature Sensor|
 
 .. |KS0268 keyestudio SHT10 Digital Temperature Sensor| raw:: html
@@ -266,6 +368,12 @@ Other Modules
 .. |KS0272 keyestudio Analog Piezoelectric Ceramic Vibration Sensor| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0272/en/latest/" target="_blank">KS0272 keyestudio Analog Piezoelectric Ceramic Vibration Sensor</a>
+
+* |KS0273 keyestudio GY-ML8511 Ultraviolet Sensor Module|
+
+.. |KS0273 keyestudio GY-ML8511 Ultraviolet Sensor Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0273/en/latest/" target="_blank">KS0273 keyestudio GY-ML8511 Ultraviolet Sensor Module</a>
 
 * |KS0274 keyestudio Current Sensor Current Detection Sensor|
 
@@ -285,11 +393,47 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0276/en/latest/" target="_blank">KS0276 keyestudio MLX90614 Non-contact Infrared Temperature Sensor</a>
 
+* |KS0277 keyestudio FTDI Basic Program Downloader USB to TTLFT232|
+
+.. |KS0277 keyestudio FTDI Basic Program Downloader USB to TTLFT232| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0277/en/latest/" target="_blank">KS0277 keyestudio FTDI Basic Program Downloader USB to TTLFT232</a>
+
+* |KS0278 keyestudio BH1750FVI Digital Light Intensity Module|
+
+.. |KS0278 keyestudio BH1750FVI Digital Light Intensity Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0278/en/latest/" target="_blank">KS0278 keyestudio BH1750FVI Digital Light Intensity Module</a>
+
+* |KS0279 keyestudio Slide Potentiometer Module for Arduino|
+
+.. |KS0279 keyestudio Slide Potentiometer Module for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0279/en/latest/" target="_blank">KS0279 keyestudio Slide Potentiometer Module for Arduino</a>
+
+* |KS0280 keyestudio Breadboard Power Supply Module|
+
+.. |KS0280 keyestudio Breadboard Power Supply Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0280/en/latest/" target="_blank">KS0280 keyestudio Breadboard Power Supply Module</a>
+
+* |KS0287 keyestudio SIM5320E 3G Module (Black)|
+
+.. |KS0287 keyestudio SIM5320E 3G Module (Black)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0287/en/latest/" target="_blank">KS0287 keyestudio SIM5320E 3G Module (Black)</a>
+
 * |KS0309 Keyestudio Thin-film Pressure Sensor (Black and Eco-friendly)|
 
 .. |KS0309 Keyestudio Thin-film Pressure Sensor (Black and Eco-friendly)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0309/en/latest/" target="_blank">KS0309 Keyestudio Thin-film Pressure Sensor (Black and Eco-friendly)</a>
+
+* |KS0310 Keyestudio Traffic Light Module (Black and Eco-friendly)|
+
+.. |KS0310 Keyestudio Traffic Light Module (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0310/en/latest/" target="_blank">KS0310 Keyestudio Traffic Light Module (Black and Eco-friendly)</a>
 
 
 
@@ -305,11 +449,29 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0316/en/latest/" target="_blank">KS0316 Keyestudio DS18b20 Temperature Detector Sensor (Black and Eco-friendly)</a>
 
+* |KS0320 Keyestudio Electromagnet Module (Black and Environmental-friendly)|
+
+.. |KS0320 Keyestudio Electromagnet Module (Black and Environmental-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0320/en/latest/" target="_blank">KS0320 Keyestudio Electromagnet Module (Black and Environmental-friendly)</a>
+
+* |KS0328 Keyestudio HR-SR04 Blue Ultrasonic Module|
+
+.. |KS0328 Keyestudio HR-SR04 Blue Ultrasonic Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0328/en/latest/" target="_blank">KS0328 Keyestudio HR-SR04 Blue Ultrasonic Module</a>
+
 * |KS0346 Keyestudio Non-contact Liquid Level Sensor(Black and Friendly)|
 
 .. |KS0346 Keyestudio Non-contact Liquid Level Sensor(Black and Friendly)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0346/en/latest/" target="_blank">KS0346 Keyestudio Non-contact Liquid Level Sensor(Black and Friendly)</a>
+
+* |KS0348 Keyestudio SHT31 Temperature and Humidity Module|
+
+.. |KS0348 Keyestudio SHT31 Temperature and Humidity Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0348/en/latest/" target="_blank">KS0348 Keyestudio SHT31 Temperature and Humidity Module</a>
 
 * |KS0352 Keyestudio KEYBOT Programmable Robot 3-way Line Tracking Sensor|
 
@@ -317,11 +479,29 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0352/en/latest/" target="_blank">KS0352 Keyestudio KEYBOT Programmable Robot 3-way Line Tracking Sensor</a>
 
+* |KS0374 keyestudio Power Amplifier Module|
+
+.. |KS0374 keyestudio Power Amplifier Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0374/en/latest/" target="_blank">KS0374 keyestudio Power Amplifier Module</a>
+
+* |KS0375 keyestudio SR01 Ultrasonic Module V2|
+
+.. |KS0375 keyestudio SR01 Ultrasonic Module V2| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0375/en/latest/" target="_blank">KS0375 keyestudio SR01 Ultrasonic Module V2</a>
+
 * |ks0387 Keyestudio YX5200-24SS MP3 Module|
 
 .. |ks0387 Keyestudio YX5200-24SS MP3 Module| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/ks0387/en/latest/" target="_blank">ks0387 Keyestudio YX5200-24SS MP3 Module</a>
+
+* |KS0405 Keyestudio BMP280 Module (Black and Eco-friendly)|
+
+.. |KS0405 Keyestudio BMP280 Module (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0405/en/latest/" target="_blank">KS0405 Keyestudio BMP280 Module (Black and Eco-friendly)</a>
 
 * |KS0407 Keyestudio TCS34725 Color Sensor|
 
@@ -347,11 +527,41 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0430/en/latest/" target="_blank">KS0430 Keyestudio DHT22 Temperature and Humidity Sensor</a>
 
+* |KS0447 Keyestudio Micro TF Card Write-Read Module|
+
+.. |KS0447 Keyestudio Micro TF Card Write-Read Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0447/en/latest/" target="_blank">KS0447 Keyestudio Micro TF Card Write-Read Module</a>
+
+* |KS0449 keyestudio 3-Channel IRF540NS Large Current MOS Module|
+
+.. |KS0449 keyestudio 3-Channel IRF540NS Large Current MOS Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0449/en/latest/" target="_blank">KS0449 keyestudio 3-Channel IRF540NS Large Current MOS Module</a>
+
+* |KS0450 Keyestudio Vibration Motor Module (Black and Eco-friendly)|
+
+.. |KS0450 Keyestudio Vibration Motor Module (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0450/en/latest/" target="_blank">KS0450 Keyestudio Vibration Motor Module (Black and Eco-friendly)</a>
+
 * |KS0451 Keyestudio MS1100 Formaldehyde Benzene VOC Gas Sensor|
 
 .. |KS0451 Keyestudio MS1100 Formaldehyde Benzene VOC Gas Sensor| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0451/en/latest/" target="_blank">KS0451 Keyestudio MS1100 Formaldehyde Benzene VOC Gas Sensor</a>
+
+* |KS0452 Keyestudio PAM8610 Digital 2x10W Dual Channel Stereo Amplifier Module|
+
+.. |KS0452 Keyestudio PAM8610 Digital 2x10W Dual Channel Stereo Amplifier Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0452/en/latest/" target="_blank">KS0452 Keyestudio PAM8610 Digital 2x10W Dual Channel Stereo Amplifier Module</a>
+
+* |KS0453 Keyestudio 3-channel Line Tracking Module|
+
+.. |KS0453 Keyestudio 3-channel Line Tracking Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0453/en/latest/" target="_blank">KS0453 Keyestudio 3-channel Line Tracking Module</a>
 
 * |KS0457 keyestudio CCS811 Carbon Dioxide Air Quality Sensor|
 
@@ -359,11 +569,35 @@ Other Modules
 
   <a href="https://docs.keyestudio.com/projects/KS0457/en/latest/" target="_blank">KS0457 keyestudio CCS811 Carbon Dioxide Air Quality Sensor</a>
 
+* |KS0458 Keyestudio PAJ7620 Gesture Recognition Sensor Module|
+
+.. |KS0458 Keyestudio PAJ7620 Gesture Recognition Sensor Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0458/en/latest/" target="_blank">KS0458 Keyestudio PAJ7620 Gesture Recognition Sensor Module</a>
+
+* |KS0460 keyestudio Logic DC Jack Module|
+
+.. |KS0460 keyestudio Logic DC Jack Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0460/en/latest/" target="_blank">KS0460 keyestudio Logic DC Jack Module</a>
+
 * |KS0462 Keyestudio MAX30102 Heart Rate Sensor|
 
 .. |KS0462 Keyestudio MAX30102 Heart Rate Sensor| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0462/en/latest/" target="_blank">KS0462 Keyestudio MAX30102 Heart Rate Sensor</a>
+
+* |KS0463 keyestudio ISD1820 Voice Recording and Playback Module|
+
+.. |KS0463 keyestudio ISD1820 Voice Recording and Playback Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0463/en/latest/" target="_blank">KS0463 keyestudio ISD1820 Voice Recording and Playback Module</a>
+
+* |KS0466 Keyestudio AD KEY Button Module(Black and Eco-friendly)|
+
+.. |KS0466 Keyestudio AD KEY Button Module(Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0466/en/latest/" target="_blank">KS0466 Keyestudio AD KEY Button Module(Black and Eco-friendly)</a>
 
 * |KS0508 Keyestudio PCF8591 AD Adapter Module|
 
