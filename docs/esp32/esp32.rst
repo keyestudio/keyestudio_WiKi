@@ -175,6 +175,12 @@ Board
 
   <a href="https://docs.keyestudio.com/projects/KS5013/en/latest/" target="_blank">KS5013 Keyestudio-328-WIFI-PLUS-Main-Control-Board</a>
 
+* |KS5034 Keyestudio ESP32 S3 PRO Development Board|
+
+.. |KS5034 Keyestudio ESP32 S3 PRO Development Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5034/en/latest/" target="_blank">KS5034 Keyestudio ESP32 S3 PRO Development Board</a>
+
 
 * |MB0183 S3 mini|
 
