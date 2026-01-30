@@ -94,6 +94,11 @@ Development board
 
 
 
+* |KS5037 Keyestudio ESP32 S3 Cam Sensor Shield|
+
+.. |KS5037 Keyestudio ESP32 S3 Cam Sensor Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5037/en/latest/" target="_blank">KS5037 Keyestudio ESP32 S3 Cam Sensor Shield</a>
 
 
 
