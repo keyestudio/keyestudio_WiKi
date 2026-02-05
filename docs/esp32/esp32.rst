@@ -181,18 +181,6 @@ Board
 
   <a href="https://docs.keyestudio.com/projects/KS5034/en/latest/" target="_blank">KS5034 Keyestudio ESP32 S3 PRO Development Board</a>
 
-* |KS5035 Keyestudio ESP32 S3 Mini Sensor Shield|
-
-.. |KS5035 Keyestudio ESP32 S3 Mini Sensor Shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS5035/en/latest/" target="_blank">KS5035 Keyestudio ESP32 S3 Mini Sensor Shield</a>
-
-* |KS5036 Keyestudio ESP32 S3 Mini Sensor Shield|
-
-.. |KS5036 Keyestudio ESP32 S3 Mini Sensor Shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS5036/en/latest/" target="_blank">KS5036 Keyestudio ESP32 S3 Mini Sensor Shield</a>
-
 
 * |MB0183 S3 mini|
 
@@ -236,6 +224,25 @@ Shield
 .. |KS0465 keyestudio ESP32-IO Shield (Black and Eco-friendly)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0465/en/latest/" target="_blank">KS0465 keyestudio ESP32-IO Shield (Black and Eco-friendly)</a>
+
+* |KS5035 Keyestudio ESP32 S3 Mini Sensor Shield|
+
+.. |KS5035 Keyestudio ESP32 S3 Mini Sensor Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5035/en/latest/" target="_blank">KS5035 Keyestudio ESP32 S3 Mini Sensor Shield</a>
+
+* |KS5036 Keyestudio ESP32 S3 Mini Sensor Shield|
+
+.. |KS5036 Keyestudio ESP32 S3 Mini Sensor Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5036/en/latest/" target="_blank">KS5036 Keyestudio ESP32 S3 Mini Sensor Shield</a>
+
+* |KS5037 Keyestudio ESP32 S3 Cam Sensor Shield|
+
+.. |KS5037 Keyestudio ESP32 S3 Cam Sensor Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5037/en/latest/" target="_blank">KS5037 Keyestudio ESP32 S3 Cam Sensor Shield</a>
+
 
 
 
