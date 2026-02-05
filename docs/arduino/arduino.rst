@@ -61,11 +61,24 @@ Development board
   <a href="https://docs.keyestudio.com/projects/KS0486/en/latest/" target="_blank">KS0486 Keyestudio PLUS Control Board (Black And Eco-friendly)</a>
 
 
+* |KS0500 KEYESTUDIO Max Development Board|
+
+.. |KS0500 KEYESTUDIO Max Development Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0500/en/latest/" target="_blank">KS0500 KEYESTUDIO Max Development Board</a>
+
+* |KS0533 Keyestudio Max Board|
+
+.. |KS0533 Keyestudio Max Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0533/en/latest/" target="_blank">KS0533 Keyestudio Max Board</a>
+
 * |KS0499 Keyestudio Mega 2560 Plus Board|
 
 .. |KS0499 Keyestudio Mega 2560 Plus Board| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0499/en/latest/" target="_blank">KS0499 Keyestudio Mega 2560 Plus Board</a>
+
 
 
 * |KS0503 Keyestudio PRO MICRO 5V 16MHZ Development Board(Black and Eco-friendly)|
