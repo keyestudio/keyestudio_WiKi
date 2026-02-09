@@ -641,7 +641,7 @@ Other Modules
 
 .. |KS0606 Keyestudio 1.54-inch TFT Display| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0606/en/latest/" target="_blank">KS0542 Keyestudio LY51M02 Bluetooth 5.0 Module</a>
+  <a href="https://docs.keyestudio.com/projects/KS0606/en/latest/" target="_blank">KS0606 Keyestudio 1.54-inch TFT Display</a>
 
 
 * |KS2002 EASY Plug CCS811 CO2 Air Quality Sensor(Black and Eco-friendly)|

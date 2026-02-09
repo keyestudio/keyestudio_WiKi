@@ -265,8 +265,6 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS3017/en/latest/" target="_blank">KS3017 Keyestudio Raspberry Pico IO Shield</a>
 
-  <a href="https://docs.keyestudio.com/projects/KS0436/en/latest/" target="_blank">KS0436 keyestudio Ultimate Starter Kit For Little Inventor (Zero-based Arduino Learning Robot)</a>
-
 * |KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit|
 
 .. |KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit| raw:: html
