@@ -6,11 +6,78 @@ Raspberry Pi
 Shield
 =======
 
+* |KS0210 keyestudio RPI TTP229L 16-key Capacitive Touch Keypad|
+
+.. |KS0210 keyestudio RPI TTP229L 16-key Capacitive Touch Keypad| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0210/en/latest/" target="_blank">KS0210 keyestudio RPI TTP229L 16-key Capacitive Touch Keypad</a>
+
+* |KS0211 keyestudio RPI JoyStick Shield|
+
+.. |KS0211 keyestudio RPI JoyStick Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0211/en/latest/" target="_blank">KS0211 keyestudio RPI JoyStick Shield</a>
+
 * |KS0212 keyestudio RPI 4-channel Relay Shield|
 
 .. |KS0212 keyestudio RPI 4-channel Relay Shield| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0212/en/latest/" target="_blank">KS0212 keyestudio RPI 4-channel Relay Shield</a>
+
+* |KS0213 Keyestudio RPI GPIO-PCF8591 Shield|
+
+.. |KS0213 Keyestudio RPI GPIO-PCF8591 Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0213/en/latest/" target="_blank">KS0213 Keyestudio RPI GPIO-PCF8591 Shield</a>
+
+* |KS0214 keyestudio RPI TFT 3.5 LCD Touchscreen Shield|
+
+.. |KS0214 keyestudio RPI TFT 3.5 LCD Touchscreen Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0214/en/latest/" target="_blank">KS0214 keyestudio RPI TFT 3.5 LCD Touchscreen Shield</a>
+
+* |KS0215 keyestudio RPI T-type GPIO Shield|
+
+.. |KS0215 keyestudio RPI T-type GPIO Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0215/en/latest/" target="_blank">KS0215 keyestudio RPI T-type GPIO Shield</a>
+
+* |KS0216 keyestudio RPI GPS Shield|
+
+.. |KS0216 keyestudio RPI GPS Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0216/en/latest/" target="_blank">KS0216 keyestudio RPI GPS Shield</a>
+
+* |KS0217 keyestudio RPI Dot Matrix|
+
+.. |KS0217 keyestudio RPI Dot Matrix| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0217/en/latest/" target="_blank">KS0217 keyestudio RPI Dot Matrix</a>
+
+* |KS0218 keyestudio RPI L298P Motor Drive Shield|
+
+.. |KS0218 keyestudio RPI L298P Motor Drive Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0218/en/latest/" target="_blank">KS0218 keyestudio RPI L298P Motor Drive Shield</a>
+
+* |KS3001-KS3012 Raspberry Pi Complete Device Kit|
+
+.. |KS3001-KS3012 Raspberry Pi Complete Device Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS3001-KS3012/en/latest/" target="_blank">KS3001-KS3012 Raspberry Pi Complete Device Kit</a>
+
+* |SMP0073 7 inch Screen Kit for Raspberry Pi|
+
+.. |SMP0073 7 inch Screen Kit for Raspberry Pi| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/SMP0073/en/latest/" target="_blank">SMP0073 7 inch Screen Kit for Raspberry Pi</a>
+
+* |SMP0099 Raspberry Pi Pico Board|
+
+.. |SMP0099 Raspberry Pi Pico Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/SMP0099/en/latest/" target="_blank">SMP0099 Raspberry Pi Pico Board</a>
+
 
 
 
