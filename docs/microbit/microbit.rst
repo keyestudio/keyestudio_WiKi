@@ -23,6 +23,12 @@ Micro bit Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0468/en/latest/" target="_blank">KS0468 Keyestudio Storage Bag Micro:bit Main board Kit</a>
 
+* |KS0482 Keyestudio Micro bit Power Shield (Black and Eco-friendly)|
+
+.. |KS0482 Keyestudio Micro bit Power Shield (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0482/en/latest/" target="_blank">KS0482 Keyestudio Micro bit Power Shield (Black and Eco-friendly)</a>
+
 * |KS4012 Keyestudio Micro bit Expansion Board with IO Ports|
 
 .. |KS4012 Keyestudio Micro bit Expansion Board with IO Ports| raw:: html
