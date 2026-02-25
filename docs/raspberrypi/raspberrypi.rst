@@ -60,6 +60,12 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0218/en/latest/" target="_blank">KS0218 keyestudio RPI L298P Motor Drive Shield</a>
 
+* |KS0314 keyestudio ReSpeaker 2-Mic Pi HAT V1.0|
+
+.. |KS0314 keyestudio ReSpeaker 2-Mic Pi HAT V1.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0314/en/latest/" target="_blank">KS0314 keyestudio ReSpeaker 2-Mic Pi HAT V1.0</a>
+
 * |KS3001-KS3012 Raspberry Pi Complete Device Kit|
 
 .. |KS3001-KS3012 Raspberry Pi Complete Device Kit| raw:: html
