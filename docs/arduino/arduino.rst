@@ -24,6 +24,12 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0001/en/latest/" target="_blank">Ks0001 keyestudio UNO R3 BOARD</a>
 
+* |KS0001A Keyestudio REV3 (Black) Main Control Board|
+
+.. |KS0001A Keyestudio REV3 (Black) Main Control Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0001A/en/latest/" target="_blank">KS0001A Keyestudio REV3 (Black) Main Control Board</a>
+
 * |KS0002 Keyestudio MEGA R3 Board|
 
 .. |KS0002 Keyestudio MEGA R3 Board| raw:: html
@@ -42,11 +48,53 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0006/en/latest/" target="_blank">KS0006 Keyestudio MEGA Sensor Shield V1</a>
 
+* |KS0099 keyestudio EASY plug Control Board V1.0|
+
+.. |KS0099 keyestudio EASY plug Control Board V1.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0099/en/latest/" target="_blank">KS0099 keyestudio EASY plug Control Board V1.0</a>
+
+* |KS0172 keyestudio UNO with Pin Header Interface|
+
+.. |KS0172 keyestudio UNO with Pin Header Interface| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0172/en/latest/" target="_blank">KS0172 keyestudio UNO with Pin Header Interface</a>
+
+* |KS0172A Keyestudio (Black) Main Control Board|
+
+.. |KS0172A Keyestudio (Black) Main Control Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0172A/en/latest/" target="_blank">KS0172A Keyestudio (Black) Main Control Board</a>
+
+* |KS0173 keyestudio Nano ch340|
+
+.. |KS0173 keyestudio Nano ch340| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0173/en/latest/" target="_blank">KS0173 keyestudio Nano ch340</a>
+
+* |KS0240 keyestudio EASY plug Control Board V2.0|
+
+.. |KS0240 keyestudio EASY plug Control Board V2.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0240/en/latest/" target="_blank">KS0240 keyestudio EASY plug Control Board V2.0</a>
+
+* |KS0247 keyestudio Pro Mini|
+
+.. |KS0247 keyestudio Pro Mini| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0247/en/latest/" target="_blank">KS0247 keyestudio Pro Mini</a>
+
 * |Ks0248 keyestudio Leonardo R3 Development Board_renamed|
 
 .. |Ks0248 keyestudio Leonardo R3 Development Board_renamed| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0248/en/latest/" target="_blank">Ks0248 keyestudio Leonardo R3 Development Board_renamed</a>
+
+* |KS0249 keyestudio PRO MICRO Development Board|
+
+.. |KS0249 keyestudio PRO MICRO Development Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0249/en/latest/" target="_blank">KS0249 keyestudio PRO MICRO Development Board</a>
 
 * |KS0304 Keyestudio W5500 ETHERNET DEVELOPMENT BOARD (WITHOUT POE)|
 
@@ -54,24 +102,65 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0304/en/latest/" target="_blank">KS0304 Keyestudio W5500 ETHERNET DEVELOPMENT BOARD (WITHOUT POE)</a>
 
+* |KS0341 Keyestudio UNO Compatible Board Advanced|
+
+.. |KS0341 Keyestudio UNO Compatible Board Advanced| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0341/en/latest/" target="_blank">KS0341 Keyestudio UNO Compatible Board Advanced</a>
+
+* |KS0341A Keyestudio REV4 (Black) Main Control Board|
+
+.. |KS0341A Keyestudio REV4 (Black) Main Control Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0341A/en/latest/" target="_blank">KS0341A Keyestudio REV4 (Black) Main Control Board</a>
+
+* |KS0342 Keyestudio MEGA 2560 Compatible Board Advanced|
+
+.. |KS0342 Keyestudio MEGA 2560 Compatible Board Advanced| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0342/en/latest/" target="_blank">KS0342 Keyestudio MEGA 2560 Compatible Board Advanced</a>
+
+* |KS0350 Keyestudio KEYBOT Coding Robot Control Board|
+
+.. |KS0350 Keyestudio KEYBOT Coding Robot Control Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0350/en/latest/" target="_blank">KS0350 Keyestudio KEYBOT Coding Robot Control Board</a>
+
+* |KS0354 Keyestudio ESP8266 WI-FI Development Board|
+
+.. |KS0354 Keyestudio ESP8266 WI-FI Development Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0354/en/latest/" target="_blank">KS0354 Keyestudio ESP8266 WI-FI Development Board</a>
+
+* |KS0367 keyestudio ESP8266 WiFi Board|
+
+.. |KS0367 keyestudio ESP8266 WiFi Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0367/en/latest/" target="_blank">KS0367 keyestudio ESP8266 WiFi Board</a>
+
+* |KS0384 Keyestudio KEYBOT Coding Robot Control Board Kit|
+
+.. |KS0384 Keyestudio KEYBOT Coding Robot Control Board Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0384/en/latest/" target="_blank">KS0384 Keyestudio KEYBOT Coding Robot Control Board Kit</a>
+
 * |KS0486 Keyestudio PLUS Control Board (Black And Eco-friendly)|
 
 .. |KS0486 Keyestudio PLUS Control Board (Black And Eco-friendly)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0486/en/latest/" target="_blank">KS0486 Keyestudio PLUS Control Board (Black And Eco-friendly)</a>
 
+* |KS0497 Keyestudio V4.0 Development Board(Compatible With Arduino Uno)|
 
-* |KS0500 KEYESTUDIO Max Development Board|
+.. |KS0497 Keyestudio V4.0 Development Board(Compatible With Arduino Uno)| raw:: html
 
-.. |KS0500 KEYESTUDIO Max Development Board| raw:: html
+  <a href="https://docs.keyestudio.com/projects/KS0497/en/latest/" target="_blank">KS0497 Keyestudio V4.0 Development Board(Compatible With Arduino Uno)</a>
 
-  <a href="https://docs.keyestudio.com/projects/KS0500/en/latest/" target="_blank">KS0500 KEYESTUDIO Max Development Board</a>
+* |KS0498 Keyestudio MEGA 2560 R3 Development Board(Compatible Arduino)|
 
-* |KS0533 Keyestudio Max Board|
+.. |KS0498 Keyestudio MEGA 2560 R3 Development Board(Compatible Arduino)| raw:: html
 
-.. |KS0533 Keyestudio Max Board| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0533/en/latest/" target="_blank">KS0533 Keyestudio Max Board</a>
+  <a href="https://docs.keyestudio.com/projects/KS0498/en/latest/" target="_blank">KS0498 Keyestudio MEGA 2560 R3 Development Board(Compatible Arduino)</a>
 
 * |KS0499 Keyestudio Mega 2560 Plus Board|
 
@@ -79,13 +168,53 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0499/en/latest/" target="_blank">KS0499 Keyestudio Mega 2560 Plus Board</a>
 
+* |KS0500 KEYESTUDIO Max Development Board|
 
+.. |KS0500 KEYESTUDIO Max Development Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0500/en/latest/" target="_blank">KS0500 KEYESTUDIO Max Development Board</a>
+
+* |KS0502 Keyestudio MEGA 2560 PRO Development Board(Black and Eco-friendly)|
+
+.. |KS0502 Keyestudio MEGA 2560 PRO Development Board(Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0502/en/latest/" target="_blank">KS0502 Keyestudio MEGA 2560 PRO Development Board(Black and Eco-friendly)</a>
 
 * |KS0503 Keyestudio PRO MICRO 5V 16MHZ Development Board(Black and Eco-friendly)|
 
 .. |KS0503 Keyestudio PRO MICRO 5V 16MHZ Development Board(Black and Eco-friendly)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0503/en/latest/" target="_blank">KS0503 Keyestudio PRO MICRO 5V 16MHZ Development Board(Black and Eco-friendly)</a>
+
+* |KS0509 Keyestudio Mega 2560 Smart Development Board|
+
+.. |KS0509 Keyestudio Mega 2560 Smart Development Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0509/en/latest/" target="_blank">KS0509 Keyestudio Mega 2560 Smart Development Board</a>
+
+* |KS0528 Keyestudio 4WD Mecanum Robot Car PCB Driver Board|
+
+.. |KS0528 Keyestudio 4WD Mecanum Robot Car PCB Driver Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0528/en/latest/" target="_blank">KS0528 Keyestudio 4WD Mecanum Robot Car PCB Driver Board</a>
+
+* |KS0533 Keyestudio Max Board|
+
+.. |KS0533 Keyestudio Max Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0533/en/latest/" target="_blank">KS0533 Keyestudio Max Board</a>
+
+* |KS0535 Keyestudio Motor PLUS Development Board|
+
+.. |KS0535 Keyestudio Motor PLUS Development Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0535/en/latest/" target="_blank">KS0535 Keyestudio Motor PLUS Development Board</a>
+
+* |KS0546 Keyestudio 328 PLUS Development Board Compatible with Arduino R3(Black and eco-friendly)|
+
+.. |KS0546 Keyestudio 328 PLUS Development Board Compatible with Arduino R3(Black and eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0546/en/latest/" target="_blank">KS0546 Keyestudio 328 PLUS Development Board Compatible with Arduino R3(Black and eco-friendly)</a>
 
 * |KS0547 Keyestudio NANO PLUS|
 
@@ -104,6 +233,24 @@ Development board
 .. |KS0589 keyestudio 328P Development Board+ Motor Drive (DRV8835)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0589/en/latest/" target="_blank">KS0589 keyestudio 328P Development Board+ Motor Drive (DRV8835)</a>
+
+* |KS3030 Keyestudio Raspberry Pi SIM7600X 4G Expansion Board|
+
+.. |KS3030 Keyestudio Raspberry Pi SIM7600X 4G Expansion Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS3030/en/latest/" target="_blank">KS3030 Keyestudio Raspberry Pi SIM7600X 4G Expansion Board</a>
+
+* |KS5014 Keyestudio 2560 WIFI PLUS Main Board|
+
+.. |KS5014 Keyestudio 2560 WIFI PLUS Main Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5014/en/latest/" target="_blank">KS5014 Keyestudio 2560 WIFI PLUS Main Board</a>
+
+* |KS7001 Keyestudio Maker Programming Development Board|
+
+.. |KS7001 Keyestudio Maker Programming Development Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS7001/en/latest/" target="_blank">KS7001 Keyestudio Maker Programming Development Board</a>
 
 
 
