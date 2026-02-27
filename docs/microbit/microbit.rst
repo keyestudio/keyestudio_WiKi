@@ -11,11 +11,113 @@ Micro bit Shield
 
   <a href="https://docs.keyestudio.com/projects/FKS0004/en/latest/" target="_blank">FKS0004 Micro: bit basic learning kit</a>
 
+* |KS0291 keyestudio T-type Shield Adapter for micro bit|
+
+.. |KS0291 keyestudio T-type Shield Adapter for micro bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0291/en/latest/" target="_blank">KS0291 keyestudio T-type Shield Adapter for micro bit</a>
+
+* |KS0292 Keyestudio Prototyping Breakout Board V1 with Small Breadboard for micro bit|
+
+.. |KS0292 Keyestudio Prototyping Breakout Board V1 with Small Breadboard for micro bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0292/en/latest/" target="_blank">KS0292 Keyestudio Prototyping Breakout Board V1 with Small Breadboard for micro bit</a>
+
+* |KS0293 Keyestudio Relay Breakout Board for micro bit|
+
+.. |KS0293 Keyestudio Relay Breakout Board for micro bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0293/en/latest/" target="_blank">KS0293 Keyestudio Relay Breakout Board for micro bit</a>
+
+* |KS0294 Keyestudio Power Supply Shield for micro bit (black & environmental-friendly)|
+
+.. |KS0294 Keyestudio Power Supply Shield for micro bit (black & environmental-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0294/en/latest/" target="_blank">KS0294 Keyestudio Power Supply Shield for micro bit (black & environmental-friendly)</a>
+
+* |KS0295 Keyestudio Sensor Breakout Board for micro bit (black& environmental-friendly)|
+
+.. |KS0295 Keyestudio Sensor Breakout Board for micro bit (black& environmental-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0295/en/latest/" target="_blank">KS0295 Keyestudio Sensor Breakout Board for micro bit (black& environmental-friendly)</a>
+
+* |KS0296 Keyestudio Joystick Breakout Board for micro bit|
+
+.. |KS0296 Keyestudio Joystick Breakout Board for micro bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0296/en/latest/" target="_blank">KS0296 Keyestudio Joystick Breakout Board for micro bit</a>
+
+* |KS0297 Keyestudio Breakout Board Adapter for micro bit|
+
+.. |KS0297 Keyestudio Breakout Board Adapter for micro bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0297/en/latest/" target="_blank">KS0297 Keyestudio Breakout Board Adapter for micro bit</a>
+
+* |KS0307 keyestudio Prototype Breakout Board V2 With 400-point Breadboard for micro bit|
+
+.. |KS0307 keyestudio Prototype Breakout Board V2 With 400-point Breadboard for micro bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0307/en/latest/" target="_blank">KS0307 keyestudio Prototype Breakout Board V2 With 400-point Breadboard for micro bit</a>
+
+* |KS0308 keyestudio Motor Drive Breakout Board for micro bit|
+
+.. |KS0308 keyestudio Motor Drive Breakout Board for micro bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0308/en/latest/" target="_blank">KS0308 keyestudio Motor Drive Breakout Board for micro bit</a>
+
+* |KS0315 Keyestudio SK6812 4x8 LED Matrix Shield for BBC micro bit|
+
+.. |KS0315 Keyestudio SK6812 4x8 LED Matrix Shield for BBC micro bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0315/en/latest/" target="_blank">KS0315 Keyestudio SK6812 4x8 LED Matrix Shield for BBC micro bit</a>
+
 * |KS0360 Keyestudio Sensor Shield V2 for BBC microbit|
 
 .. |KS0360 Keyestudio Sensor Shield V2 for BBC microbit| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0360/en/latest/" target="_blank">KS0360 Keyestudio Sensor Shield V2 for BBC microbit</a>
+
+* |KS0432 keyestudio 3V Sensor Shield For BBC micro:bit|
+
+.. |KS0432 keyestudio 3V Sensor Shield For BBC micro:bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0432/en/latest/" target="_blank">KS0432 keyestudio 3V Sensor Shield For BBC micro:bit</a>
+
+* |KS0433 keyestudio Terminal Blocks Shield For BBC micro:bit|
+
+.. |KS0433 keyestudio Terminal Blocks Shield For BBC micro:bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0433/en/latest/" target="_blank">KS0433 keyestudio Terminal Blocks Shield For BBC micro:bit</a>
+
+* |KS0434 keyestudio Edge Connector IO Breakout Board For BBC micro:bit|
+
+.. |KS0434 keyestudio Edge Connector IO Breakout Board For BBC micro:bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0434/en/latest/" target="_blank">KS0434 keyestudio Edge Connector IO Breakout Board For BBC micro:bit</a>
+
+* |KS0437 EASY Plug Shield for Micro:bit V1.0|
+
+.. |KS0437 EASY Plug Shield for Micro:bit V1.0| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0437/en/latest/" target="_blank">KS0437 EASY Plug Shield for Micro:bit V1.0</a>
+
+* |KS0438 Keyestudio 16-channel SERVO Shield for Micro:bit|
+
+.. |KS0438 Keyestudio 16-channel SERVO Shield for Micro:bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0438/en/latest/" target="_blank">KS0438 Keyestudio 16-channel SERVO Shield for Micro:bit</a>
+
+* |KS0440 Keyestudio Piano Shield for Micro:bit (Black and Eco-friendly)|
+
+.. |KS0440 Keyestudio Piano Shield for Micro:bit (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0440/en/latest/" target="_blank">KS0440 Keyestudio Piano Shield for Micro:bit (Black and Eco-friendly)</a>
+
+* |KS0444 Keyestudio 6812 Full-color RGB LED Ring Shield for Micro:bit|
+
+.. |KS0444 Keyestudio 6812 Full-color RGB LED Ring Shield for Micro:bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0444/en/latest/" target="_blank">KS0444 Keyestudio 6812 Full-color RGB LED Ring Shield for Micro:bit</a>
 
 * |KS0468 Keyestudio Storage Bag Micro:bit Main board Kit|
 
@@ -29,11 +131,23 @@ Micro bit Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0482/en/latest/" target="_blank">KS0482 Keyestudio Micro bit Power Shield (Black and Eco-friendly)</a>
 
+* |KS0496 Keyestudio EASY Plug Shield for micro bit V1.1|
+
+.. |KS0496 Keyestudio EASY Plug Shield for micro bit V1.1| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0496/en/latest/" target="_blank">KS0496 Keyestudio EASY Plug Shield for micro bit V1.1</a>
+
 * |KS4012 Keyestudio Micro bit Expansion Board with IO Ports|
 
 .. |KS4012 Keyestudio Micro bit Expansion Board with IO Ports| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS4012/en/latest" target="_blank">KS4012 Keyestudio Micro bit Expansion Board with IO Ports</a>
+
+* |KS4025 Keyestudio Micro:bit V2 Board|
+
+.. |KS4025 Keyestudio Micro:bit V2 Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4025/en/latest/" target="_blank">KS4025 Keyestudio Micro:bit V2 Board</a>
 
 * |KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield|
 
