@@ -2,6 +2,135 @@
 Micro bit
 =========
 
+
+
+Micro bit Module
+================
+
+* |KS0417 Keyestudio micro:bit 1W LED Module|
+
+.. |KS0417 Keyestudio micro:bit 1W LED Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0417/en/latest/" target="_blank">KS0417 Keyestudio micro:bit 1W LED Module</a>
+
+* |KS0418 Keyestudio micro:bit 5050 RGB Module|
+
+.. |KS0418 Keyestudio micro:bit 5050 RGB Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0418/en/latest/" target="_blank">KS0418 Keyestudio micro:bit 5050 RGB Module</a>
+
+* |KS0419 keyestudio micro:bit Tactile Button Module|
+
+.. |KS0419 keyestudio micro:bit Tactile Button Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0419/en/latest/" target="_blank">KS0419 keyestudio micro:bit Tactile Button Module</a>
+
+* |KS0420 Keyestudio micro:bit Capacitive Touch Module|
+
+.. |KS0420 Keyestudio micro:bit Capacitive Touch Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0420/en/latest/" target="_blank">KS0420 Keyestudio micro:bit Capacitive Touch Module</a>
+
+* |KS0421 Keyestudio micro:bit TEMT6000 Light Module|
+
+.. |KS0421 Keyestudio micro:bit TEMT6000 Light Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0421/en/latest/" target="_blank">KS0421 Keyestudio micro:bit TEMT6000 Light Module</a>
+
+* |KS0422 keyestudio micro:bit PIR Motion Module|
+
+.. |KS0422 keyestudio micro:bit PIR Motion Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0422/en/latest/" target="_blank">KS0422 keyestudio micro:bit PIR Motion Module</a>
+
+* |KS0423 keyestudio micro:bit Microphone Module|
+
+.. |KS0423 keyestudio micro:bit Microphone Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0423/en/latest/" target="_blank">KS0423 keyestudio micro:bit Microphone Module</a>
+
+* |KS0424 keyestudio micro:bit Passive Buzzer Module|
+
+.. |KS0424 keyestudio micro:bit Passive Buzzer Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0424/en/latest/" target="_blank">KS0424 keyestudio micro:bit Passive Buzzer Module</a>
+
+* |KS0471 keyestudio Micro bit Honeycomb Soil Sensor|
+
+.. |KS0471 keyestudio Micro bit Honeycomb Soil Sensor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0471/en/latest/" target="_blank">KS0471 keyestudio Micro bit Honeycomb Soil Sensor</a>
+
+* |KS0478 Keyestudio Micro:bit Honeycomb Dot Matrix Module (Black and Eco-friendly)|
+
+.. |KS0478 Keyestudio Micro:bit Honeycomb Dot Matrix Module (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0478/en/latest/" target="_blank">KS0478 Keyestudio Micro:bit Honeycomb Dot Matrix Module (Black and Eco-friendly)</a>
+
+* |KS0479 keyestudio Micro bit Honeycomb Rotary Potentiometer Module|
+
+.. |KS0479 keyestudio Micro bit Honeycomb Rotary Potentiometer Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0479/en/latest/" target="_blank">KS0479 keyestudio Micro bit Honeycomb Rotary Potentiometer Module</a>
+
+* |KS0480 Keyestudio Micro bit Honeycomb Traffic Light Module|
+
+.. |KS0480 Keyestudio Micro bit Honeycomb Traffic Light Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0480/en/latest/" target="_blank">KS0480 Keyestudio Micro bit Honeycomb Traffic Light Module</a>
+
+* |KS0481 Keyestudio Micro bit Honeycomb PS2 Joystick Module|
+
+.. |KS0481 Keyestudio Micro bit Honeycomb PS2 Joystick Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0481/en/latest/" target="_blank">KS0481 Keyestudio Micro bit Honeycomb PS2 Joystick Module</a>
+
+* |KS0484 Keyestudio Micro bit Power Adapter Board|
+
+.. |KS0484 Keyestudio Micro bit Power Adapter Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0484/en/latest/" target="_blank">KS0484 Keyestudio Micro bit Power Adapter Board</a>
+
+* |KS0490 Keyestudio Micro bit Honeycomb Digital LED Module(Black and Eco-friendly´╝?|
+
+.. |KS0490 Keyestudio Micro bit Honeycomb Digital LED Module(Black and Eco-friendly´╝?| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0490/en/latest/" target="_blank">KS0490 Keyestudio Micro bit Honeycomb Digital LED Module(Black and Eco-friendly´╝?</a>
+
+* |KS0491 Keyestudio Micro bit Honeycomb Photoresistor|
+
+.. |KS0491 Keyestudio Micro bit Honeycomb Photoresistor| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0491/en/latest/" target="_blank">KS0491 Keyestudio Micro bit Honeycomb Photoresistor</a>
+
+* |KS0492 Keyestudio Micro bit Honeycomb Hall Magnetic Sensor (Black and Eco-friendly)|
+
+.. |KS0492 Keyestudio Micro bit Honeycomb Hall Magnetic Sensor (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0492/en/latest/" target="_blank">KS0492 Keyestudio Micro bit Honeycomb Hall Magnetic Sensor (Black and Eco-friendly)</a>
+
+* |KS0493 Keyestudio Micro bit Shield For Mini Servo Car|
+
+.. |KS0493 Keyestudio Micro bit Shield For Mini Servo Car| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0493/en/latest/" target="_blank">KS0493 Keyestudio Micro bit Shield For Mini Servo Car</a>
+
+* |KS0495 keyestudio Micro bit Honeycomb Vibration & Tilt Module|
+
+.. |KS0495 keyestudio Micro bit Honeycomb Vibration & Tilt Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0495/en/latest/" target="_blank">KS0495 keyestudio Micro bit Honeycomb Vibration & Tilt Module</a>
+
+* |KS4001 BBC Micro:bit Main Board|
+
+.. |KS4001 BBC Micro:bit Main Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4001/en/latest/" target="_blank">KS4001 BBC Micro:bit Main Board</a>
+
+
+
+
+
 Micro bit Shield
 ================
 
