@@ -91,11 +91,11 @@ Micro bit Module
 
   <a href="https://docs.keyestudio.com/projects/KS0484/en/latest/" target="_blank">KS0484 Keyestudio Micro bit Power Adapter Board</a>
 
-* |KS0490 Keyestudio Micro bit Honeycomb Digital LED Module(Black and Eco-friendly´╝?|
+* |KS0490 Keyestudio Micro bit Honeycomb Digital LED Module(Black and Eco-friendly)|
 
-.. |KS0490 Keyestudio Micro bit Honeycomb Digital LED Module(Black and Eco-friendly´╝?| raw:: html
+.. |KS0490 Keyestudio Micro bit Honeycomb Digital LED Module(Black and Eco-friendly)| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0490/en/latest/" target="_blank">KS0490 Keyestudio Micro bit Honeycomb Digital LED Module(Black and Eco-friendly´╝?</a>
+  <a href="https://docs.keyestudio.com/projects/KS0490/en/latest/" target="_blank">KS0490 Keyestudio Micro bit Honeycomb Digital LED Module(Black and Eco-friendly)</a>
 
 * |KS0491 Keyestudio Micro bit Honeycomb Photoresistor|
 
