@@ -126,18 +126,6 @@ Development board
 
   <a href="https://docs.keyestudio.com/projects/KS0350/en/latest/" target="_blank">KS0350 Keyestudio KEYBOT Coding Robot Control Board</a>
 
-* |KS0354 Keyestudio ESP8266 WI-FI Development Board|
-
-.. |KS0354 Keyestudio ESP8266 WI-FI Development Board| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0354/en/latest/" target="_blank">KS0354 Keyestudio ESP8266 WI-FI Development Board</a>
-
-* |KS0367 keyestudio ESP8266 WiFi Board|
-
-.. |KS0367 keyestudio ESP8266 WiFi Board| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0367/en/latest/" target="_blank">KS0367 keyestudio ESP8266 WiFi Board</a>
-
 * |KS0384 Keyestudio KEYBOT Coding Robot Control Board Kit|
 
 .. |KS0384 Keyestudio KEYBOT Coding Robot Control Board Kit| raw:: html
@@ -315,12 +303,6 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0313/en/latest/" target="_blank">KS0313 keyestudio Desktop Mini Bluetooth Smart Car V2.0 Kit</a>
 
-* |KS0356 keyestudio Micro:bit Mini Smart Robot Car|
-
-.. |KS0356 keyestudio Micro:bit Mini Smart Robot Car| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0356/en/latest/" target="_blank">KS0356 keyestudio Micro:bit Mini Smart Robot Car</a>
-
 * |KS0364 keyestudio Smart Little Turtle Robot V2.0|
 
 .. |KS0364 keyestudio Smart Little Turtle Robot V2.0| raw:: html
@@ -405,12 +387,6 @@ Robot car kit
 .. |KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0388/en/latest/" target="_blank">KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield</a>
-
-* |KS3017 Keyestudio Raspberry Pico IO Shield|
-
-.. |KS3017 Keyestudio Raspberry Pico IO Shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS3017/en/latest/" target="_blank">KS3017 Keyestudio Raspberry Pico IO Shield</a>
 
 * |KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit|
 
@@ -982,18 +958,6 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0556/en/latest/" target="_blank">KS0556 Keyestudio 8833 Motor Driver Expansion Board</a>
 
-* |KS3022 Keyestudio Pico IO Prototype Expansion Board|
-
-.. |KS3022 Keyestudio Pico IO Prototype Expansion Board| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS3022/en/latest/" target="_blank">KS3022 Keyestudio Pico IO Prototype Expansion Board</a>
-
-* |KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)|
-
-.. |KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS4016/en/latest/" target="_blank">KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)</a>
-
 * |KS0202 keyestudio Balance Car Shield|
 
 .. |KS0202 keyestudio Balance Car Shield| raw:: html
@@ -1132,17 +1096,8 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0521/en/latest/" target="_blank">KS0521 Keyestudio Solar Charger Shield (Black and Eco-friendly)</a>
 
-* |KS3031 Keyestudio SIM7600X 4G Shield Development Kit for Raspberry Pi|
 
-.. |KS3031 Keyestudio SIM7600X 4G Shield Development Kit for Raspberry Pi| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS3031/en/latest/" target="_blank">KS3031 Keyestudio SIM7600X 4G Shield Development Kit for Raspberry Pi</a>
-
-* |KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)|
-
-.. |KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS5001/en/latest/" target="_blank">KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)</a>
 
 
 

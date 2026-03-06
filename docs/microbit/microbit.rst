@@ -272,6 +272,12 @@ Micro bit Shield
 
   <a href="https://docs.keyestudio.com/projects/KS4012/en/latest" target="_blank">KS4012 Keyestudio Micro bit Expansion Board with IO Ports</a>
 
+* |KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)|
+
+.. |KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4016/en/latest/" target="_blank">KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)</a>
+
 * |KS4025 Keyestudio Micro:bit V2 Board|
 
 .. |KS4025 Keyestudio Micro:bit V2 Board| raw:: html
@@ -428,6 +434,12 @@ Starter kit
 
 Robot kit
 ===================
+
+* |KS0356 keyestudio Micro:bit Mini Smart Robot Car|
+
+.. |KS0356 keyestudio Micro:bit Mini Smart Robot Car| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0356/en/latest/" target="_blank">KS0356 keyestudio Micro:bit Mini Smart Robot Car</a>
 
 * |KS0426 KS4019 keyestudio Mini Smart Robot Car Kit V2 for micro bit|
 

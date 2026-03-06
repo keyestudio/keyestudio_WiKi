@@ -149,12 +149,29 @@ Robot kit
 Board
 ======
 
+* |KS0354 Keyestudio ESP8266 WI-FI Development Board|
+
+.. |KS0354 Keyestudio ESP8266 WI-FI Development Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0354/en/latest/" target="_blank">KS0354 Keyestudio ESP8266 WI-FI Development Board</a>
+
+* |KS0367 keyestudio ESP8266 WiFi Board|
+
+.. |KS0367 keyestudio ESP8266 WiFi Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0367/en/latest/" target="_blank">KS0367 keyestudio ESP8266 WiFi Board</a>
+
 * |KS0413 Keyestudio ESP32 Development Board (Black and Eco-friendly)|
 
 .. |KS0413 Keyestudio ESP32 Development Board (Black and Eco-friendly)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0413/en/latest/" target="_blank">KS0413 Keyestudio ESP32 Development Board (Black and Eco-friendly)</a>
 
+* |KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)|
+
+.. |KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5001/en/latest/" target="_blank">KS5001 ESP32-CAM Development Board WiFi+Bluetooth Module with OV2640 Camera (Black and Eco-friendly)</a>
 
 * |KS5019-keyestudio ESP32 development board Type-C USB port|
 

@@ -72,6 +72,24 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS3001-KS3012/en/latest/" target="_blank">KS3001-KS3012 Raspberry Pi Complete Device Kit</a>
 
+* |KS3017 Keyestudio Raspberry Pico IO Shield|
+
+.. |KS3017 Keyestudio Raspberry Pico IO Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS3017/en/latest/" target="_blank">KS3017 Keyestudio Raspberry Pico IO Shield</a>
+
+* |KS3022 Keyestudio Pico IO Prototype Expansion Board|
+
+.. |KS3022 Keyestudio Pico IO Prototype Expansion Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS3022/en/latest/" target="_blank">KS3022 Keyestudio Pico IO Prototype Expansion Board</a>
+
+* |KS3031 Keyestudio SIM7600X 4G Shield Development Kit for Raspberry Pi|
+
+.. |KS3031 Keyestudio SIM7600X 4G Shield Development Kit for Raspberry Pi| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS3031/en/latest/" target="_blank">KS3031 Keyestudio SIM7600X 4G Shield Development Kit for Raspberry Pi</a>
+
 * |SMP0073 7 inch Screen Kit for Raspberry Pi|
 
 .. |SMP0073 7 inch Screen Kit for Raspberry Pi| raw:: html
