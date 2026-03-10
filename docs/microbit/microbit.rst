@@ -448,12 +448,17 @@ Robot kit
   <a href="https://docs.keyestudio.com/projects/KS0426/en/latest/" target="_blank">KS0426 KS4019 keyestudio Mini Smart Robot Car Kit V2 for micro bit</a>
 
 
+* |KS0604 keyestudio Micro:bit Variant Master 8-in-1 Programming Robot for lego|
+
+.. |KS0604 keyestudio Micro:bit Variant Master 8-in-1 Programming Robot for lego| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0604/en/latest/" target="_blank">KS0604 keyestudio Micro:bit Variant Master 8-in-1 Programming Robot for lego</a>
+
 * |KS4013 KS4026 keyestudio Desk Bit Small Car for micro bit|
 
 .. |KS4013 KS4026 keyestudio Desk Bit Small Car for micro bit| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS4013-KS4026/en/latest/" target="_blank">KS4013 KS4026 keyestudio Desk Bit Small Car for micro bit</a>
-
 
 * |KS4014 KS4024 keyestudio Mini Smart Tortoise Car for micro bit|
 
