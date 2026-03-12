@@ -248,11 +248,6 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS5035/en/latest/" target="_blank">KS5035 Keyestudio ESP32 S3 Mini Sensor Shield</a>
 
-* |KS5037 Keyestudio ESP32 S3 Cam Sensor Shield|
-
-.. |KS5037 Keyestudio ESP32 S3 Cam Sensor Shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS5037/en/latest/" target="_blank">KS5037 Keyestudio ESP32 S3 Cam Sensor Shield</a>
 
 
 
