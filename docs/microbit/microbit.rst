@@ -278,23 +278,29 @@ Micro bit Shield
 
   <a href="https://docs.keyestudio.com/projects/KS4016/en/latest/" target="_blank">KS4016 Keyestudio Micro: bit T-type Shield V2.0 Adapter(Black and Eco-friendly)</a>
 
+* |KS4018 Micro:bit|
+
+.. |KS4018 Micro:bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4018/en/latest/" target="_blank">KS4018 Micro:bit</a>
+
 * |KS4025 Keyestudio Micro:bit V2 Board|
 
 .. |KS4025 Keyestudio Micro:bit V2 Board| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS4025/en/latest/" target="_blank">KS4025 Keyestudio Micro:bit V2 Board</a>
 
+* |KS4030 Keyestudio Micro：bit IO Port Expansion Sensor Shield with Level Conversion|
+
+.. |KS4030 Keyestudio Micro：bit IO Port Expansion Sensor Shield with Level Conversion| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4030/en/latest/" target="_blank">KS4030 Keyestudio Micro：bit IO Port Expansion Sensor Shield with Level Conversion</a>
+
 * |KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield|
 
 .. |KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS4033/en/latest/" target="_blank">KS4033 Keyestudio Micro bit DRV8833 Motor Driver Shield</a>
-
-* |KS4017 Keyestudio Micro:bit V2.0 Basic Starter Kit|
-
-.. |KS4017 Keyestudio Micro:bit V2.0 Basic Starter Kit| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS4017/en/latest/" target="_blank">KS4017 Keyestudio Micro:bit V2.0 Basic Starter Kit</a>
 
 * |KS4042 FoxBit Mini 3-Channel Servo Expansion Board Compatible with Microbit|
 
@@ -375,6 +381,11 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS4011/en/latest/" target="_blank">KS4011 Keyestudio Microbit Honeycomb Smart Wearable Programmable Ultimate Kit</a>
 
+* |KS4017 Keyestudio Micro:bit V2.0 Basic Starter Kit|
+
+.. |KS4017 Keyestudio Micro:bit V2.0 Basic Starter Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS4017/en/latest/" target="_blank">KS4017 Keyestudio Micro:bit V2.0 Basic Starter Kit</a>
 
 * |KS4020 KS4021 keyestudio EASY PLUG Super Starter Kit for micro bit|
 

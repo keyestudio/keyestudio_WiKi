@@ -18,11 +18,11 @@ Modules
 Development board
 ==============================
 
-* |Ks0001 keyestudio UNO R3 BOARD|
+* |KS0001 keyestudio UNO R3 BOARD|
 
-.. |Ks0001 keyestudio UNO R3 BOARD| raw:: html
+.. |KS0001 keyestudio UNO R3 BOARD| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0001/en/latest/" target="_blank">Ks0001 keyestudio UNO R3 BOARD</a>
+  <a href="https://docs.keyestudio.com/projects/KS0001/en/latest/" target="_blank">KS0001 keyestudio UNO R3 BOARD</a>
 
 * |KS0001A Keyestudio REV3 (Black) Main Control Board|
 
@@ -101,6 +101,12 @@ Development board
 .. |KS0304 Keyestudio W5500 ETHERNET DEVELOPMENT BOARD (WITHOUT POE)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0304/en/latest/" target="_blank">KS0304 Keyestudio W5500 ETHERNET DEVELOPMENT BOARD (WITHOUT POE)</a>
+
+* |KS0318 keyestudio Tb6560 Stepper Motor Drive Board|
+
+.. |KS0318 keyestudio Tb6560 Stepper Motor Drive Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0318/en/latest/" target="_blank">KS0318 keyestudio Tb6560 Stepper Motor Drive Board</a>
 
 * |KS0341 Keyestudio UNO Compatible Board Advanced|
 
@@ -261,24 +267,6 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0159/en/latest/" target="_blank">KS0159 keyestudio Desktop Bluetooth Mini Smart Car</a>
 
-* |KS0160 keyestudio CNC Shield V3|
-
-.. |KS0160 keyestudio CNC Shield V3| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0160/en/latest/" target="_blank">KS0160 keyestudio CNC Shield V3</a>
-
-* |KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield|
-
-.. |KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0163/en/latest/" target="_blank">KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield</a>
-
-* |KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface|
-
-.. |KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0164/en/latest/" target="_blank">KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface</a>
-
 * |KS0191 keyestudio Smart Small Turtle Robot|
 
 .. |KS0191 keyestudio Smart Small Turtle Robot| raw:: html
@@ -290,12 +278,6 @@ Robot car kit
 .. |KS0192 keyestudio 4WD Bluetooth Multi-functional Car| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0192/en/latest/" target="_blank">KS0192 keyestudio 4WD Bluetooth Multi-functional Car</a>
-
-* |KS0252 keyestudio Proto Screw Shield for Arduino|
-
-.. |KS0252 keyestudio Proto Screw Shield for Arduino| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0252/en/latest/" target="_blank">KS0252 keyestudio Proto Screw Shield for Arduino</a>
 
 * |KS0313 keyestudio Desktop Mini Bluetooth Smart Car V2.0 Kit|
 
@@ -315,24 +297,11 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0436/en/latest/" target="_blank">KS0436 keyestudio Ultimate Starter Kit For Little Inventor (Zero-based Arduino Learning Robot)</a>
 
-* |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)|
-
-.. |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0485/en/latest/" target="_blank">KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)</a>
-
-* |KS0489 Keyestudio 4WD TB6612 Motor Driver Shield (Black and Eco-friendly)|
-
-.. |KS0489 Keyestudio 4WD TB6612 Motor Driver Shield (Black and Eco-friendly)| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0489/en/latest/" target="_blank">KS0489 Keyestudio 4WD TB6612 Motor Driver Shield (Black and Eco-friendly)</a>
-
 * |KS0193 keyestudio Self-balancing Car Kit For Arduino|
 
 .. |KS0193 keyestudio Self-balancing Car Kit For Arduino| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0193/en/latest/" target="_blank">KS0193 keyestudio Self-balancing Car Kit For Arduino</a>
-
 
 * |KS0198X Keyestudio 4DOF Acrylic Robot Arm Kit for Arduino|
 
@@ -340,51 +309,11 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0198/en/latest/" target="_blank">KS0198X Keyestudio 4DOF Acrylic Robot Arm Kit for Arduino</a>
 
-* |KS0318 keyestudio Tb6560 Stepper Motor Drive Board|
-
-.. |KS0318 keyestudio Tb6560 Stepper Motor Drive Board| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0318/en/latest/" target="_blank">KS0318 keyestudio Tb6560 Stepper Motor Drive Board</a>
-
 * |KS0358 keyestudio Electronic Parts DIY Kit For OTTO|
 
 .. |KS0358 keyestudio Electronic Parts DIY Kit For OTTO| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0358/en/latest/" target="_blank">KS0358 keyestudio Electronic Parts DIY Kit For OTTO</a>
-
-* |KS0363 keyestudio TB6612FNG Motor/Servo Drive Shield with PS2 Socket|
-
-.. |KS0363 keyestudio TB6612FNG Motor/Servo Drive Shield with PS2 Socket| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0363/en/latest/" target="_blank">KS0363 keyestudio TB6612FNG Motor/Servo Drive Shield with PS2 Socket</a>
-
-* |KS0366 Keyestudio ESP13 Shield Serial Port Module|
-
-.. |KS0366 Keyestudio ESP13 Shield Serial Port Module| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0366/en/latest/" target="_blank">KS0366 Keyestudio ESP13 Shield Serial Port Module</a>
-
-* |KS0377 Keyestudio Balance Car Shield V3|
-
-.. |KS0377 Keyestudio Balance Car Shield V3| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0377/en/latest/" target="_blank">KS0377 Keyestudio Balance Car Shield V3</a>
-
-* |KS0385 Keyestudio ESP 01S WIFI to Serial Shield for Arduino|
-
-.. |KS0385 Keyestudio ESP 01S WIFI to Serial Shield for Arduino| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0385/en/latest/" target="_blank">KS0385 Keyestudio ESP 01S WIFI to Serial Shield for Arduino</a>
-
-* |KS0386 Keyestudio ESP-01S Wifi Module Adapter Board for Arduino|
-
-.. |KS0386 Keyestudio ESP-01S Wifi Module Adapter Board for Arduino| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0386/en/latest/" target="_blank">KS0386 Keyestudio ESP-01S Wifi Module Adapter Board for Arduino</a>
-
-* |KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield|
-
-.. |KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0388/en/latest/" target="_blank">KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield</a>
 
@@ -399,7 +328,6 @@ Robot car kit
 .. |KS0441 Keyestudio Desktop Mini Smart Robot Car Kit| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0441/en/latest/" target="_blank">KS0441 Keyestudio Desktop Mini Smart Robot Car Kit</a>
-
 
 * |KS0446 Keyestudio DIY 4-DOF Frog Robot Kit|
 
@@ -503,11 +431,7 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0560/en/latest/" target="_blank">KS0560 Keyestudio 4WD Mecanum Robot for Arduino</a>
 
-* |KS4018 Micro:bit|
 
-.. |KS4018 Micro:bit| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS4018/en/latest/" target="_blank">KS4018 Micro:bit</a>
 
 
 
@@ -516,23 +440,7 @@ Robot car kit
 Starter kit
 =======================
 
-* |KS0004 keyestudio Sensor Shield V5|
 
-.. |KS0004 keyestudio Sensor Shield V5| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0004/en/latest/" target="_blank">KS0004 keyestudio Sensor Shield V5</a>
-
-* |KS0005 keyestudio MEGA ProtoShield V3 with Tiny Breadboard|
-
-.. |KS0005 keyestudio MEGA ProtoShield V3 with Tiny Breadboard| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0005/en/latest/" target="_blank">KS0005 keyestudio MEGA ProtoShield V3 with Tiny Breadboard</a>
-
-* |KS0007 keyestudio L298P Motor Shield|
-
-.. |KS0007 keyestudio L298P Motor Shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0007/en/latest/" target="_blank">KS0007 keyestudio L298P Motor Shield</a>
 
 * |KS0068 keyestudio 37 in 1 Sensor Kit for Arduino Starters|
 
@@ -552,11 +460,11 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/KS0070/en/latest/" target="_blank">KS0070 Keyestudio Basic Breadboard kit For Arduino</a>
 
-* |Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino|
+* |KS0074(75, 76) keyestudio Advanced Study Kit for Arduino|
 
-.. |Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino| raw:: html
+.. |KS0074(75, 76) keyestudio Advanced Study Kit for Arduino| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0074-KS0075-KS0076/en/latest/" target="_blank">Ks0074(75, 76) keyestudio Advanced Study Kit for Arduino</a>
+  <a href="https://docs.keyestudio.com/projects/KS0074-KS0075-KS0076/en/latest/" target="_blank">KS0074(75, 76) keyestudio Advanced Study Kit for Arduino</a>
 
 * |KS0077 KS0078 KS0079 Keyestudio Super Starter Kit For Arduino|
 
@@ -654,60 +562,6 @@ Starter kit
 .. |KS0201 keyestudio Smart Clock Kit| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0201/en/latest/" target="_blank">KS0201 keyestudio Smart Clock Kit</a>
-
-* |KS0142 keyestudio SIM900 GSM/GPRS Module Shield|
-
-.. |KS0142 keyestudio SIM900 GSM/GPRS Module Shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0142/en/latest/" target="_blank">KS0142 keyestudio SIM900 GSM/GPRS Module Shield</a>
-
-* |KS0146 keyestudio Nano IO Shield|
-
-.. |KS0146 keyestudio Nano IO Shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0146/en/latest/" target="_blank">KS0146 keyestudio Nano IO Shield</a>
-
-* |KS0147 keyestudio Touch Key USB shield|
-
-.. |KS0147 keyestudio Touch Key USB shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0147/en/latest/" target="_blank">KS0147 keyestudio Touch Key USB shield</a>
-
-* |KS0148 keyestudio W5100|
-
-.. |KS0148 keyestudio W5100| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0148/en/latest/" target="_blank">KS0148 keyestudio W5100</a>
-
-* |KS0151 keyestudio CNC Shield V2|
-
-.. |KS0151 keyestudio CNC Shield V2| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0151/en/latest/" target="_blank">KS0151 keyestudio CNC Shield V2</a>
-
-* |KS0152 keyestudio CNC Shield V4|
-
-.. |KS0152 keyestudio CNC Shield V4| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0152/en/latest/" target="_blank">KS0152 keyestudio CNC Shield V4</a>
-
-* |KS0153 keyestudio JoyStick Shield|
-
-.. |KS0153 keyestudio JoyStick Shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0153/en/latest/" target="_blank">KS0153 keyestudio JoyStick Shield</a>
-
-* |KS0154 keyestudio Mega Pololu Shield (RAMPS 1.4 )|
-
-.. |KS0154 keyestudio Mega Pololu Shield (RAMPS 1.4 )| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0154/en/latest/" target="_blank">KS0154 keyestudio Mega Pololu Shield (RAMPS 1.4 )</a>
-
-* |KS0156 keyestudio W5100 Ethernet Shield|
-
-.. |KS0156 keyestudio W5100 Ethernet Shield| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0156/en/latest/" target="_blank">KS0156 keyestudio W5100 Ethernet Shield</a>
 
 * |KS0177 4x4x4 RGB LED Display CUBE Kit for Arduino|
 
@@ -903,6 +757,71 @@ Starter kit
 
 Shield
 =======
+* |KS0004 keyestudio Sensor Shield V5|
+
+.. |KS0004 keyestudio Sensor Shield V5| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0004/en/latest/" target="_blank">KS0004 keyestudio Sensor Shield V5</a>
+
+* |KS0005 keyestudio MEGA ProtoShield V3 with Tiny Breadboard|
+
+.. |KS0005 keyestudio MEGA ProtoShield V3 with Tiny Breadboard| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0005/en/latest/" target="_blank">KS0005 keyestudio MEGA ProtoShield V3 with Tiny Breadboard</a>
+
+* |KS0007 keyestudio L298P Motor Shield|
+
+.. |KS0007 keyestudio L298P Motor Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0007/en/latest/" target="_blank">KS0007 keyestudio L298P Motor Shield</a>
+
+* |KS0142 keyestudio SIM900 GSM/GPRS Module Shield|
+
+.. |KS0142 keyestudio SIM900 GSM/GPRS Module Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0142/en/latest/" target="_blank">KS0142 keyestudio SIM900 GSM/GPRS Module Shield</a>
+
+* |KS0146 keyestudio Nano IO Shield|
+
+.. |KS0146 keyestudio Nano IO Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0146/en/latest/" target="_blank">KS0146 keyestudio Nano IO Shield</a>
+
+* |KS0147 keyestudio Touch Key USB shield|
+
+.. |KS0147 keyestudio Touch Key USB shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0147/en/latest/" target="_blank">KS0147 keyestudio Touch Key USB shield</a>
+
+* |KS0148 keyestudio W5100|
+
+.. |KS0148 keyestudio W5100| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0148/en/latest/" target="_blank">KS0148 keyestudio W5100</a>
+
+* |KS0151 keyestudio CNC Shield V2|
+
+.. |KS0151 keyestudio CNC Shield V2| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0151/en/latest/" target="_blank">KS0151 keyestudio CNC Shield V2</a>
+
+* |KS0152 keyestudio CNC Shield V4|
+
+.. |KS0152 keyestudio CNC Shield V4| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0152/en/latest/" target="_blank">KS0152 keyestudio CNC Shield V4</a>
+
+* |KS0153 keyestudio JoyStick Shield|
+
+.. |KS0153 keyestudio JoyStick Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0153/en/latest/" target="_blank">KS0153 keyestudio JoyStick Shield</a>
+
+* |KS0154 keyestudio Mega Pololu Shield (RAMPS 1.4 )|
+
+.. |KS0154 keyestudio Mega Pololu Shield (RAMPS 1.4 )| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0154/en/latest/" target="_blank">KS0154 keyestudio Mega Pololu Shield (RAMPS 1.4 )</a>
 
 * |KS0155 Keyestudio USB Host Shield for Arduino|
 
@@ -910,29 +829,29 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0155/en/latest/" target="_blank">KS0155 Keyestudio USB Host Shield for Arduino</a>
 
-* |KS0516 Keyestudio Expansion Board+TF Card for Data Recording|
+* |KS0156 keyestudio W5100 Ethernet Shield|
 
-.. |KS0516 Keyestudio Expansion Board+TF Card for Data Recording| raw:: html
+.. |KS0156 keyestudio W5100 Ethernet Shield| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0516/en/latest/" target="_blank">KS0516 Keyestudio Expansion Board+TF Card for Data Recording</a>
+  <a href="https://docs.keyestudio.com/projects/KS0156/en/latest/" target="_blank">KS0156 keyestudio W5100 Ethernet Shield</a>
 
-* |KS0529 Keyestudio DMX（RDM）Shield|
+* |KS0160 keyestudio CNC Shield V3|
 
-.. |KS0529 Keyestudio DMX（RDM）Shield| raw:: html
+.. |KS0160 keyestudio CNC Shield V3| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0529/en/latest/" target="_blank">KS0529 Keyestudio DMX（RDM）Shield</a>
+  <a href="https://docs.keyestudio.com/projects/KS0160/en/latest/" target="_blank">KS0160 keyestudio CNC Shield V3</a>
 
-* |KS0550 Keyestudio Servo Driver Expansion Board(Black and Eco-friendly)|
+* |KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield|
 
-.. |KS0550 Keyestudio Servo Driver Expansion Board(Black and Eco-friendly)| raw:: html
+.. |KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0550/en/latest/" target="_blank">KS0550 Keyestudio Servo Driver Expansion Board(Black and Eco-friendly)</a>
+  <a href="https://docs.keyestudio.com/projects/KS0163/en/latest/" target="_blank">KS0163 keyestudio 40 RGB LED 2812 Pixel Matrix Shield</a>
 
-* |KS4030 Keyestudio Micro：bit IO Port Expansion Sensor Shield with Level Conversion|
+* |KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface|
 
-.. |KS4030 Keyestudio Micro：bit IO Port Expansion Sensor Shield with Level Conversion| raw:: html
+.. |KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS4030/en/latest/" target="_blank">KS4030 Keyestudio Micro：bit IO Port Expansion Sensor Shield with Level Conversion</a>
+  <a href="https://docs.keyestudio.com/projects/KS0164/en/latest/" target="_blank">KS0164 keyestudio Xbee Sensor Shield V5 with RS485 BLUEBEE Interface</a>
 
 * |KS0183 keyestudio Multi-purpose Shield V1|
 
@@ -952,12 +871,6 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0196/en/latest/" target="_blank">KS0196 keyestudio PM2.5 Shield</a>
 
-* |KS0556 Keyestudio 8833 Motor Driver Expansion Board|
-
-.. |KS0556 Keyestudio 8833 Motor Driver Expansion Board| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0556/en/latest/" target="_blank">KS0556 Keyestudio 8833 Motor Driver Expansion Board</a>
-
 * |KS0202 keyestudio Balance Car Shield|
 
 .. |KS0202 keyestudio Balance Car Shield| raw:: html
@@ -975,6 +888,12 @@ Shield
 .. |KS0251 keyestudio 4-channel Relay Shield| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0251/en/latest/" target="_blank">KS0251 keyestudio 4-channel Relay Shield</a>
+
+* |KS0252 keyestudio Proto Screw Shield for Arduino|
+
+.. |KS0252 keyestudio Proto Screw Shield for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0252/en/latest/" target="_blank">KS0252 keyestudio Proto Screw Shield for Arduino</a>
 
 * |KS0253 keyestudio GPS Shield|
 
@@ -1023,6 +942,40 @@ Shield
 .. |KS0298 Keyestudio quick connectors Motor Drive Shield| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0298/en/latest/" target="_blank">KS0298 Keyestudio quick connectors Motor Drive Shield</a>
+
+* |KS0363 keyestudio TB6612FNG Motor/Servo Drive Shield with PS2 Socket|
+
+.. |KS0363 keyestudio TB6612FNG Motor/Servo Drive Shield with PS2 Socket| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0363/en/latest/" target="_blank">KS0363 keyestudio TB6612FNG Motor/Servo Drive Shield with PS2 Socket</a>
+
+* |KS0366 Keyestudio ESP13 Shield Serial Port Module|
+
+.. |KS0366 Keyestudio ESP13 Shield Serial Port Module| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0366/en/latest/" target="_blank">KS0366 Keyestudio ESP13 Shield Serial Port Module</a>
+
+* |KS0377 Keyestudio Balance Car Shield V3|
+
+.. |KS0377 Keyestudio Balance Car Shield V3| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0377/en/latest/" target="_blank">KS0377 Keyestudio Balance Car Shield V3</a>
+
+* |KS0385 Keyestudio ESP 01S WIFI to Serial Shield for Arduino|
+
+.. |KS0385 Keyestudio ESP 01S WIFI to Serial Shield for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0385/en/latest/" target="_blank">KS0385 Keyestudio ESP 01S WIFI to Serial Shield for Arduino</a>
+
+* |KS0386 Keyestudio ESP-01S Wifi Module Adapter Board for Arduino|
+
+.. |KS0386 Keyestudio ESP-01S Wifi Module Adapter Board for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0386/en/latest/" target="_blank">KS0386 Keyestudio ESP-01S Wifi Module Adapter Board for Arduino</a>
+
+* |KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield|
+
+.. |KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield| raw:: html
 
 * |KS0390 EASY plug I2C Interface Conversion Shield (Black and Eco-friendly)|
 
@@ -1084,17 +1037,56 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0448/en/latest/" target="_blank">KS0448 Keyestudio L298P 4-Channel Motor Drive Shield</a>
 
+* |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)|
+
+.. |KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0485/en/latest/" target="_blank">KS0485 Keyestudio NANO Shield With DC End (Black and Eco-friendly)</a>
+
+* |KS0489 Keyestudio 4WD TB6612 Motor Driver Shield (Black and Eco-friendly)|
+
+.. |KS0489 Keyestudio 4WD TB6612 Motor Driver Shield (Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0489/en/latest/" target="_blank">KS0489 Keyestudio 4WD TB6612 Motor Driver Shield (Black and Eco-friendly)</a>
+
 * |KS0515 Keyestudio FSK Wireless Shield RFM69HCW 868mhz(Black and Eco-friendly)|
 
 .. |KS0515 Keyestudio FSK Wireless Shield RFM69HCW 868mhz(Black and Eco-friendly)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0515/en/latest/" target="_blank">KS0515 Keyestudio FSK Wireless Shield RFM69HCW 868mhz(Black and Eco-friendly)</a>
 
+* |KS0516 Keyestudio Expansion Board+TF Card for Data Recording|
+
+.. |KS0516 Keyestudio Expansion Board+TF Card for Data Recording| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0516/en/latest/" target="_blank">KS0516 Keyestudio Expansion Board+TF Card for Data Recording</a>
+
 * |KS0521 Keyestudio Solar Charger Shield (Black and Eco-friendly)|
 
 .. |KS0521 Keyestudio Solar Charger Shield (Black and Eco-friendly)| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/KS0521/en/latest/" target="_blank">KS0521 Keyestudio Solar Charger Shield (Black and Eco-friendly)</a>
+
+* |KS0529 Keyestudio DMX（RDM）Shield|
+
+.. |KS0529 Keyestudio DMX（RDM）Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0529/en/latest/" target="_blank">KS0529 Keyestudio DMX（RDM）Shield</a>
+
+* |KS0550 Keyestudio Servo Driver Expansion Board(Black and Eco-friendly)|
+
+.. |KS0550 Keyestudio Servo Driver Expansion Board(Black and Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0550/en/latest/" target="_blank">KS0550 Keyestudio Servo Driver Expansion Board(Black and Eco-friendly)</a>
+
+* |KS0556 Keyestudio 8833 Motor Driver Expansion Board|
+
+.. |KS0556 Keyestudio 8833 Motor Driver Expansion Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0556/en/latest/" target="_blank">KS0556 Keyestudio 8833 Motor Driver Expansion Board</a>
+
+
+
 
 
 
