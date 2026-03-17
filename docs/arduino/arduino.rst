@@ -1085,6 +1085,11 @@ Shield
 
   <a href="https://docs.keyestudio.com/projects/KS0556/en/latest/" target="_blank">KS0556 Keyestudio 8833 Motor Driver Expansion Board</a>
 
+* |KT0193F 37 in1 sensor kit for Arduino|
+
+.. |KT0193F 37 in1 sensor kit for Arduino| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KT0193F/en/latest/" target="_blank">KT0193F 37 in1 sensor kit for Arduino</a>
 
 
 
