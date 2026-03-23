@@ -512,6 +512,12 @@ Robot kit
 
   <a href="https://docs.keyestudio.com/projects/KS4040-KS4041/en/latest/" target="_blank">KS4040 KS4041 Keyestudio Micro bit Desk Bit car</a>
 
+* |FKS0005 Keyestudio Kit - Keyestudio Micro:bit Smart Game Controller Kit for micro:bit|
+
+.. |FKS0005 Keyestudio Kit - Keyestudio Micro:bit Smart Game Controller Kit for micro:bit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/FKS0005/en/latest/" target="_blank">FKS0005 Keyestudio Kit - Keyestudio Micro:bit Smart Game Controller Kit for micro:bit</a>
+
 
 
 
