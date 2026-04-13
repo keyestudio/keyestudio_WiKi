@@ -315,8 +315,6 @@ Robot car kit
 
   <a href="https://docs.keyestudio.com/projects/KS0358/en/latest/" target="_blank">KS0358 keyestudio Electronic Parts DIY Kit For OTTO</a>
 
-  <a href="https://docs.keyestudio.com/projects/KS0388/en/latest/" target="_blank">KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield</a>
-
 * |KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit|
 
 .. |KS0428 Keyestudio DIY Mini Tank V2.0 Smart Robot car kit| raw:: html
@@ -976,6 +974,8 @@ Shield
 * |KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield|
 
 .. |KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0388/en/latest/" target="_blank">KS0388 Keyestudio USB to ESP-01S Wifi Module Serial Port Shield</a>
 
 * |KS0390 EASY plug I2C Interface Conversion Shield (Black and Eco-friendly)|
 

@@ -26,6 +26,13 @@ Foxbit
 
   <a href="https://docs.keyestudio.com/projects/FB0005/en/latest/" target="_blank">FB0005 foxbit Camera (Black and eco-friendly)</a>
 
+* |FB1001-Foxbit go development kit|
+
+.. |FB1001-Foxbit go development kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/FB1001/en/latest/" target="_blank">FB1001-Foxbit go development kit</a>
+
+
 
 
 
