@@ -107,6 +107,12 @@ Starter kit
 
   <a href="https://docs.keyestudio.com/projects/ESP32S3_LCD154/en/latest/" target="_blank">KS5027 Xiao Zhi AI Chatbot Breadboard DIY Kit with 1.54-Inch Display Screen</a>
 
+* |KS5028 Xiao Zhi AI Chatbot with Camera DIY Kit|
+
+.. |KS5028 Xiao Zhi AI Chatbot with Camera DIY Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5028/en/latest/" target="_blank">KS5028 Xiao Zhi AI Chatbot with Camera DIY Kit</a>
+
 
 
 Robot kit
