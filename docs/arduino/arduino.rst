@@ -255,41 +255,6 @@ Development board
 Robot car kit
 =========================
 
-* |KS0071 keyestudio Mini Tank Robot|
-
-.. |KS0071 keyestudio Mini Tank Robot| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0071/en/latest/" target="_blank">KS0071 keyestudio Mini Tank Robot</a>
-
-* |KS0159 keyestudio Desktop Bluetooth Mini Smart Car|
-
-.. |KS0159 keyestudio Desktop Bluetooth Mini Smart Car| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0159/en/latest/" target="_blank">KS0159 keyestudio Desktop Bluetooth Mini Smart Car</a>
-
-* |KS0191 keyestudio Smart Small Turtle Robot|
-
-.. |KS0191 keyestudio Smart Small Turtle Robot| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0191/en/latest/" target="_blank">KS0191 keyestudio Smart Small Turtle Robot</a>
-
-* |KS0192 keyestudio 4WD Bluetooth Multi-functional Car|
-
-.. |KS0192 keyestudio 4WD Bluetooth Multi-functional Car| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0192/en/latest/" target="_blank">KS0192 keyestudio 4WD Bluetooth Multi-functional Car</a>
-
-* |KS0313 keyestudio Desktop Mini Bluetooth Smart Car V2.0 Kit|
-
-.. |KS0313 keyestudio Desktop Mini Bluetooth Smart Car V2.0 Kit| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0313/en/latest/" target="_blank">KS0313 keyestudio Desktop Mini Bluetooth Smart Car V2.0 Kit</a>
-
-* |KS0364 keyestudio Smart Little Turtle Robot V2.0|
-
-.. |KS0364 keyestudio Smart Little Turtle Robot V2.0| raw:: html
-
-  <a href="https://docs.keyestudio.com/projects/KS0364/en/latest/" target="_blank">KS0364 keyestudio Smart Little Turtle Robot V2.0</a>
 
 * |KS0436 keyestudio Ultimate Starter Kit For Little Inventor (Zero-based Arduino Learning Robot)|
 
