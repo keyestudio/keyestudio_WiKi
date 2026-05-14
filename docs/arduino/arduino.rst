@@ -712,6 +712,11 @@ Starter kit
   <a href="https://docs.keyestudio.com/projects/KT0280/en/latest/" target="_blank">KT0280 Keyes New RFID Starter Kit</a>
 
 
+* |KT0377 Electronics Complete Robot Kit Learning Starter Kit for Arduino UNO R3|
+
+.. |KT0377 Electronics Complete Robot Kit Learning Starter Kit for Arduino UNO R3| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KT0377/en/latest/" target="_blank">KT0377 Electronics Complete Robot Kit Learning Starter Kit for Arduino UNO R3</a>
 
 
 
