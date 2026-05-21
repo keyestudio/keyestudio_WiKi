@@ -395,7 +395,11 @@ Robot car kit
   <a href="https://docs.keyestudio.com/projects/KS0560/en/latest/" target="_blank">KS0560 Keyestudio 4WD Mecanum Robot for Arduino</a>
 
 
+* |KS0605|
 
+.. |KS0605| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0605/en/latest/" target="_blank">KS0605</a>
 
 
 
