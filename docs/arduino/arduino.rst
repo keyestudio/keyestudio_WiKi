@@ -247,6 +247,14 @@ Development board
   <a href="https://docs.keyestudio.com/projects/KS7001/en/latest/" target="_blank">KS7001 Keyestudio Maker Programming Development Board</a>
 
 
+* |KT0178(MB0109) MakeyMakey TYPE-C USB Neutral (Orange & Eco-friendly)|
+
+.. |KT0178(MB0109) MakeyMakey TYPE-C USB Neutral (Orange & Eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KT0178/en/latest/" target="_blank">KT0178(MB0109) MakeyMakey TYPE-C USB Neutral (Orange & Eco-friendly)</a>
+
+
+
 
 
 
