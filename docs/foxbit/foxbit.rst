@@ -20,11 +20,11 @@ Foxbit
 
   <a href="https://docs.keyestudio.com/projects/FB0004/en/latest/" target="_blank">FB0004 XGO-lite Robot Dog Tutorials</a>
 
-* |FB0005 foxbit Camera (Black and eco-friendly)|
+* |MB0198 Cat Face Camera (Black and eco-friendly)|
 
-.. |FB0005 foxbit Camera (Black and eco-friendly)| raw:: html
+.. |MB0198 Cat Face Camera (Black and eco-friendly)| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/FB0005/en/latest/" target="_blank">FB0005 foxbit Camera (Black and eco-friendly)</a>
+  <a href="https://docs.keyestudio.com/projects/FB0005/en/latest/" target="_blank">MB0198 Cat Face Camera (Black and eco-friendly)</a>
 
 * |FB1001-Foxbit go development kit|
 
