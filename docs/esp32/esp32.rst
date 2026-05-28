@@ -219,6 +219,15 @@ Board
 
 
 
+* |MB0198 Cat Face Camera (Black and eco-friendly)|
+
+.. |MB0198 Cat Face Camera (Black and eco-friendly)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/FB0005/en/latest/" target="_blank">MB0198 Cat Face Camera (Black and eco-friendly)</a>
+
+
+
+
 * |MD0750 ESP32-S3-DevKitC-1 Development Board|
 
 .. |MD0750 ESP32-S3-DevKitC-1 Development Board| raw:: html
@@ -231,6 +240,9 @@ Board
 .. |TS2761 ED1 Development Board User Manual| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/TS2761/en/latest/" target="_blank">TS2761 ED1 Development Board User Manual</a>
+
+
+
 
 
 
