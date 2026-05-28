@@ -223,7 +223,7 @@ Board
 
 .. |MB0198 Cat Face Camera (Black and eco-friendly)| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/FB0005/en/latest/" target="_blank">MB0198 Cat Face Camera (Black and eco-friendly)</a>
+  <a href="https://docs.keyestudio.com/projects/MB0198/en/latest/" target="_blank">MB0198 Cat Face Camera (Black and eco-friendly)</a>
 
 
 
