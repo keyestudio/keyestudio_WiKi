@@ -403,11 +403,11 @@ Robot car kit
   <a href="https://docs.keyestudio.com/projects/KS0560/en/latest/" target="_blank">KS0560 Keyestudio 4WD Mecanum Robot for Arduino</a>
 
 
-* |KS0605 Mini Tank Robot V2 for Arduino|
+* |KS0605 Mini Tank Robot V2.1 for Arduino|
 
-.. |KS0605 Mini Tank Robot V2 for Arduino| raw:: html
+.. |KS0605 Mini Tank Robot V2.1 for Arduino| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS0605/en/latest/" target="_blank">KS0605 Mini Tank Robot V2 for Arduino</a>
+  <a href="https://docs.keyestudio.com/projects/KS0605/en/latest/" target="_blank">KS0605 Mini Tank Robot V2.1 for Arduino</a>
 
 
 
