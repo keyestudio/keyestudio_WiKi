@@ -410,6 +410,15 @@ Robot car kit
   <a href="https://docs.keyestudio.com/projects/KS0605/en/latest/" target="_blank">KS0605 Mini Tank Robot V2.1 for Arduino</a>
 
 
+* |KS0607 Mini Tank Robot V3.1 tutorial|
+
+.. |KS0607 Mini Tank Robot V3.1 tutorial| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS0607/en/latest/" target="_blank">KS0607 Mini Tank Robot V3.1 tutorial</a>
+
+
+
+
 
 
 Starter kit
