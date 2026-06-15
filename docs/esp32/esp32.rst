@@ -218,6 +218,13 @@ Board
   <a href="https://docs.keyestudio.com/projects/MB0184/en/latest/" target="_blank">MB0184 S3 cam</a>
 
 
+* |MB0200 S3 CAM MODULE|
+
+.. |MB0200 S3 CAM MODULE| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/MB0200/en/latest/" target="_blank">MB0200 S3 CAM MODULE</a>
+
+
 
 * |MB0198 Cat Face Camera (Black and eco-friendly)|
 
