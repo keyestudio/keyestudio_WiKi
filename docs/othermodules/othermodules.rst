@@ -721,11 +721,24 @@ Other Modules
   <a href="https://docs.keyestudio.com/projects/KS6089/en/latest/" target="_blank">KS6089 keyestudio DIY Electronic Brick ICS Microphone Module</a>
 
 
+* |KS6091 keyestudio I2S Audio Power Amplifier Module (headphone jack)|
+
+.. |KS6091 keyestudio I2S Audio Power Amplifier Module (headphone jack)| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS6091/en/latest/" target="_blank">KS6091 keyestudio I2S Audio Power Amplifier Module (headphone jack)</a>
+
+
 * |MD0798 Servo Control Module|
 
 .. |MD0798 Servo Control Module| raw:: html
 
   <a href="https://docs.keyestudio.com/projects/MD0798/en/latest/" target="_blank">MD0798 Servo Control Module</a>
+
+
+
+
+
+
 
 
 LCDs LEDs and Displays
