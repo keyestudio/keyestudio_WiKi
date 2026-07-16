@@ -226,6 +226,15 @@ Board
 
 
 
+
+* |MB0196 S3 AI rover evelopment Board|
+
+.. |MB0196 S3 AI rover evelopment Board| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/keyestudio-MB0196/en/latest/" target="_blank">MB0196 S3 AI rover evelopment Board</a>
+
+
+
 * |MB0198 Cat Face Camera (Black and eco-friendly)|
 
 .. |MB0198 Cat Face Camera (Black and eco-friendly)| raw:: html
