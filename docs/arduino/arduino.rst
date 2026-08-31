@@ -740,6 +740,25 @@ Starter kit
 
 
 
+* |KT0382 TinyVision Ai Camera|
+
+.. |KT0382 TinyVision Ai Camera| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KT0382/en/latest/" target="_blank">KT0382 TinyVision Ai Camera</a>
+
+
+
+
+* |KT0383 TinyVision Ai Camera|
+
+.. |KT0383 TinyVision Ai Camera| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KT0383/en/latest/" target="_blank">KT0383 TinyVision Ai Camera</a>
+
+
+
+
+
 * |KT0377 Electronics Complete Robot Kit Learning Starter Kit for Arduino UNO R3|
 
 .. |KT0377 Electronics Complete Robot Kit Learning Starter Kit for Arduino UNO R3| raw:: html
