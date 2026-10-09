@@ -152,6 +152,15 @@ Robot kit
   <a href="https://docs.keyestudio.com/projects/KS5024/en/latest/" target="_blank">KS5024 Keyestudio ESP32-CAM 4WD Monitoring Car</a>
 
 
+* |KS5029-5030-5033-5038 Ready‑to‑Use ESP32 S3 XiaoZhi AI Chatbot DIY Kit|
+
+.. |KS5029-5030-5033-5038 Ready‑to‑Use ESP32 S3 XiaoZhi AI Chatbot DIY Kit| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KS5029-5030-5033-5038/en/latest/" target="_blank">KS5029-5030-5033-5038 Ready‑to‑Use ESP32 S3 XiaoZhi AI Chatbot DIY Kit</a>
+
+
+
+
 Board
 ======
 
