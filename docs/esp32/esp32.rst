@@ -159,6 +159,22 @@ Robot kit
   <a href="https://docs.keyestudio.com/projects/KS5029-5030-5033-5038/en/latest/" target="_blank">KS5029-5030-5033-5038 Ready‑to‑Use ESP32 S3 XiaoZhi AI Chatbot DIY Kit</a>
 
 
+* |KT0378 + KT0379 ESP32 S3 Xiaozhi AI Chat Robot Expansion Packs|
+
+.. |KT0378 + KT0379 ESP32 S3 Xiaozhi AI Chat Robot Expansion Packs| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KT0378-KT0379/en/latest/" target="_blank">KT0378 + KT0379 ESP32 S3 Xiaozhi AI Chat Robot Expansion Packs</a>
+
+
+* |KT0380 ESP32-S3 Smart AI Voice-interactive Car|
+
+.. |KT0380 ESP32-S3 Smart AI Voice-interactive Car| raw:: html
+
+  <a href="https://docs.keyestudio.com/projects/KT0380/en/latest/" target="_blank">KT0380 ESP32-S3 Smart AI Voice-interactive Car</a>
+
+
+
+
 
 
 Board
