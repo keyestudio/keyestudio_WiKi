@@ -492,11 +492,11 @@ Robot kit
   <a href="https://docs.keyestudio.com/projects/KS4034/en/latest/" target="_blank">KS4034 Keyestudio micro bit 4WD Mecanum Robot Car Kit V2.0</a>
 
 
-* |KS4036F Keyestudio Smart Robot Car for Micro:bit|
+* |KS4036 KS4036F Keyestudio Smart Robot Car for Micro:bit|
 
-.. |KS4036F Keyestudio Smart Robot Car for Micro:bit| raw:: html
+.. |KS4036 KS4036F Keyestudio Smart Robot Car for Micro:bit| raw:: html
 
-  <a href="https://docs.keyestudio.com/projects/KS4036/en/latest/" target="_blank">KS4036F Keyestudio Smart Robot Car for Micro:bit</a>
+  <a href="https://docs.keyestudio.com/projects/KS4036/en/latest/" target="_blank">KS4036 KS4036F Keyestudio Smart Robot Car for Micro:bit</a>
 
 
 * |KS4038(KS4039)Robot Arm Microbit Learning Kit|
